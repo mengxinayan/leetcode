@@ -1,8 +1,9 @@
 # Leetcode Problems' Solutions
-If you like this project, please leave me a **star** ★
 
-English | [简体中文](./README-zh.md)
-------
+### If you like this project, please leave me a **star** ★
+
+#### English | [简体中文](./README-zh.md)
+
 
 This is my personal record of solving Leetcode Problems. The algorithms may not be optimal, I hope you can understand.
 
