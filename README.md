@@ -1,6 +1,6 @@
 # Leetcode Problems' Solutions
 
-If you like this project, please leave me a **star** ★ :)
+If you like this project, please leave me a **star** ★ : )
 
 #### English |  [简体中文](./README-zh.md)
 
