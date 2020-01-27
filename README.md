@@ -1,16 +1,21 @@
-# leetcode
-Leetcode Problems' Solutions
+# Leetcode Problems' Solutions
+If you like this project, please leave me a **star** ★
 
-我个人做Leetcode题目时的记录，算法不一定最优，代码也未必优雅，注释也有可能没有，还望大家海涵。
-如果有相关任何问题，欢迎讨论。
-注：解答中的Python版本为Python 3
+English | [简体中文](./README-zh.md)
+------
 
-### 算法
-| # | 题名 | 解答 | 难度 | 标签 |
+This is my personal record of solving Leetcode Problems. The algorithms may not be optimal, I hope you can understand.
+
+If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues)
+
+### Algorithm
+| # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | Two Sum | [Python](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
-### 数据库
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
+
+
+### Database
 
 ### Shell
 
-### 多线程
+### Concurrency
