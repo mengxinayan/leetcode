@@ -12,6 +12,7 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python 3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python 3](./algorithm/python/20_vaild_parentheses.py) | Easy | Stack, String |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python 3](./algorithm/python/14_longest_common_prefix.py) | Easy | String |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python 3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
