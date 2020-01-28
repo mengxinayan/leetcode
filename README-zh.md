@@ -12,6 +12,7 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python 3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python 3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python 3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python 3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |

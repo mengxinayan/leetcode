@@ -12,6 +12,7 @@ If you have any questions, please discuss them in [Issues](https://github.com/me
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python 3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python 3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python 3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python 3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
