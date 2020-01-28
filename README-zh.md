@@ -7,7 +7,7 @@
 
 我个人做Leetcode题目时的记录，算法不一定是最优的，还望大家海涵。
 
-如果有任何问题，欢迎在 [Issues](https://github.com/mengxinayan/leetcode/issues) 中进行讨论。
+如果有任何问题或建议，欢迎在 [Issues](https://github.com/mengxinayan/leetcode/issues) 中进行讨论。
 
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |

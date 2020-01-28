@@ -7,7 +7,7 @@ If you like this project, please leave me a **star** ★ : )
 
 This is my personal record of solving Leetcode Problems. The algorithms may not be optimal, I hope you can understand.
 
-If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
+If you have any questions or advices, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
 
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
