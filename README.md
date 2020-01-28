@@ -12,6 +12,7 @@ If you have any questions, please discuss them in [Issues](https://github.com/me
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python 3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python 3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python 3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python 3](./algorithm/python/14_longest_common_prefix.py) | Easy | String |
