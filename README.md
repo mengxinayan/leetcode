@@ -17,7 +17,7 @@ If you have any questions, please discuss them in [Issues](https://github.com/me
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | Easy | Math |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | Easy | Math |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python 3](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
 
 
 ### Database
