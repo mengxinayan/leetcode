@@ -12,6 +12,7 @@ If you have any questions, please discuss them in [Issues](https://github.com/me
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python 3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [Python 3](./algorithm/python/38_count_and_say.py) | Easy | String |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python 3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python 3](./algorithm/python/28_implement_strStr().py) | Easy | Two Pointers, String |
