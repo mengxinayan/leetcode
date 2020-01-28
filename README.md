@@ -12,6 +12,7 @@ If you have any questions, please discuss them in [Issues](https://github.com/me
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python 3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python 3](./algorithm/python/28_implement_strStr().py) | Easy | Two Pointers, String |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python 3](./algorithm/python/27_Remove_element.py) | Easy | Array, Two Pointers |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python 3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |

@@ -12,6 +12,7 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python 3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python 3](./algorithm/python/28_implement_strStr().py) | Easy | Two Pointers, String |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python 3](./algorithm/python/27_Remove_element.py) | Easy | Array, Two Pointers |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python 3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
