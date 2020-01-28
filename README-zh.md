@@ -12,7 +12,8 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
-| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
+| 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python 3](./algorithm/python/70_climbing_stairs.py) | Easy | Dynamic Programming |
+| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python 3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python 3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python 3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python 3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
