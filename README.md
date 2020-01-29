@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py) | Easy | Dynamic Programming |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
