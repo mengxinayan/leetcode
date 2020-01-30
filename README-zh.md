@@ -12,7 +12,8 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
-| 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | [Easy] | Tree, Depth-first Search |
+| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
+| 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | Easy | Tree, Depth-first Search |
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | Easy | Array, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py) | Easy | Dynamic Programming |
