@@ -11,7 +11,8 @@
 
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
-| :-: | :-: | :-: | :-: | :-: 
+| :-: | :-: | :-: | :-: | :-: |
+| 110 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Python3](./algorithm/python/110_balanced_binary_tree.py) | Easy | Tree, Depth-first Search |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](./algorithm/python/108_convert_sorted_array_to_binary_search_tree.py) | Easy | Tree, Depth-first Search |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./algorithm/python/107_binary_tree_level_order_traversal_II.py) | Easy | Tree, Breadth-first Search |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | Easy | Tree, Depth-first Search |

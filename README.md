@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](./algorithm/python/110_balanced_binary_tree.py) | Easy | Tree, Depth-first Search |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](./algorithm/python/108_convert_sorted_array_to_binary_search_tree.py) | Easy | Tree, Depth-first Search |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./algorithm/python/107_binary_tree_level_order_traversal_II.py) | Easy | Tree, Breadth-first Search |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | Easy | Tree, Depth-first Search |
