@@ -11,11 +11,11 @@ class Solution:
         res = ''
         for i in range(minlen):
             ch = strs[0][i]
-            falg = True
+            flag = True
             for j in range(1, len(strs)):
                 if ch != strs[j][i]:
-                    falg = False
-            if falg == True:
+                    flag = False
+            if flag == True:
                 res += ch
             else:
                 break
