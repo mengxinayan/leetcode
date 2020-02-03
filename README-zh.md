@@ -12,6 +12,7 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 119 | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | Easy | Array |
 | 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | Easy | Array |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [Python3](./algorithm/python/112_path_sum.py) | Easy | Tree, Depth-first Search |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Python3](./algorithm/python/111_minimum_depth_of_binary_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
