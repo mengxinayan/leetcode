@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | Easy | Two Pointers, String |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | Easy | Greedy, Array |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | Easy | Array, Dynamic Programming |
