@@ -12,6 +12,7 @@
 ### 算法
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | Easy | Linked List, Two Pointers |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | Easy | Two Pointers, String |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | Easy | Greedy, Array |
