@@ -47,16 +47,19 @@ class Solution:
             p = headA
             q = headB
             while p != q:
-                if p.next == None:
+                if p.next == None and q.next != None:
                     p = headB
                     q = q.next
-                elif q.next == None:
+                elif q.next == None and p.next != None:
                     q = headA
                     p = p.next
                 else:
                     p = p.next
                     q = q.next
-            return ListNode(p.val)
+            if p == None:
+                return None
+            else:
+                return ListNode(p.val)
 
 '''
     This is my personal record of solving Leetcode Problems. 
