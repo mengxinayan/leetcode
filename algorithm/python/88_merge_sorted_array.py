@@ -1,4 +1,4 @@
-# The first solution
+# Solution 1
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
@@ -18,25 +18,20 @@ class Solution:
                 nums1.pop()
             i = j = 0
             while i != m and j != n:
-                if nums1[i] == nums2[j]:
+                if nums1[i] >= nums2[j]:
                     nums1.insert(i, nums2[j])
                     i += 1
                     j += 1
                     # a new element is inserted, the length of nums1 is increased by one, that is, m = m + 1
                     # 因为插入了新元素，nums1长度要增加一，即m=m+1
                     m += 1 
-                elif nums1[i] < nums2[j]:
-                    i += 1
                 else:
-                    nums1.insert(i, nums2[j])
-                    j += 1
                     i += 1
-                    m += 1
             if i == m:
                 for k in range(j, n):
                     nums1.append(nums2[k])
 
-# The second solution, easy to understand, but poor efficiency
+# Solution 2, easy to understand, but poor efficiency
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
