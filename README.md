@@ -58,6 +58,10 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 ### Database
 
+| # | Title | Solution | Difficulty |
+| :-: | :-: | :-: | :-: |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
+
 ### Shell
 
 ### Concurrency

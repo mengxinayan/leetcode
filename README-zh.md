@@ -10,6 +10,7 @@
 如果有任何问题或建议，欢迎在 [Issues](https://github.com/mengxinayan/leetcode/issues) 中进行讨论。
 
 ### 算法
+
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
 | 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | Easy | Math |
@@ -57,6 +58,10 @@
 
 
 ### 数据库
+
+| # | 题名 | 解答 | 难度 |
+| :-: | :-: | :-: | :-: |
+| 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
 
 ### Shell
 
