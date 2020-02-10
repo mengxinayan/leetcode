@@ -61,7 +61,7 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
-| 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | Easy |
+| 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [MySQL](./database/176_second_highest_salary.sql) | Easy |
 | 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
 
 ### Shell
