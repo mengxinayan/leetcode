@@ -1,7 +1,7 @@
 -- Write your MySQL query statement below
-select FirstName, LastName, City, state
-from Person left join Address
-on Person.PersonId = Address.PersonId
+SELECT FirstName, LastName, City, state
+FROM Person LEFT JOIN Address
+ON Person.PersonId = Address.PersonId
 
 /*
  * This is my personal record of solving Leetcode Problems. 
