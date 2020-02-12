@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py) | Easy | Array |
 | 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | Easy | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py) | Easy | Math |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py) | Easy | Bit Manipulation, Array, Divide and Conquer |
