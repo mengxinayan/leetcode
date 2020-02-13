@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 191 | [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | Easy | Bit Manipulation |
 | 189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py) | Easy | Array |
 | 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | Easy | Math |
