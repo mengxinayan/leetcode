@@ -71,5 +71,8 @@
 | 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
 
 ### Shell
+| # | 题名 | 解答 | 难度 |
+| :-: | :-: | :-: | :-: |
+| 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### 多线程

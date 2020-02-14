@@ -70,5 +70,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
 
 ### Shell
+| # | Title | Solution | Difficulty |
+| :-: | :-: | :-: | :-: |
+| 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### Concurrency
