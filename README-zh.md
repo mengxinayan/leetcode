@@ -73,6 +73,7 @@
 ### Shell
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
+| 195 | [Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | [Bash](./shell/195_tenth_line.sh) | Easy |
 | 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### 多线程
