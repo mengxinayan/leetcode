@@ -63,6 +63,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/182_duplicate_emails.sql) | Easy |
@@ -73,7 +74,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Shell
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 195 | [Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | [Bash](./shell/195_tenth_line.sh) | Easy |
-| 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Bash](./shell/195_tenth_line.sh) | Easy |
+| 193 | [Valid Phone Number](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### Concurrency

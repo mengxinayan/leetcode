@@ -64,6 +64,7 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
+| 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/182_duplicate_emails.sql) | Easy |
