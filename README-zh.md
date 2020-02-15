@@ -64,6 +64,7 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
+| 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/182_duplicate_emails.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/181_employees_earning_more_than_their_managers.sql) | Easy |
