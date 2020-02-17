@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py) | Easy | Dynamic Programming |
 | 191 | [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | Easy | Bit Manipulation |
