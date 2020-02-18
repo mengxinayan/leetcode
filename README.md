@@ -12,6 +12,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py) | Easy | Hash Table, Math |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | Easy | Linked List |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Linked List |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py) | Easy | Dynamic Programming |
