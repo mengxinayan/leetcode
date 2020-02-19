@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 205 | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | Easy | Hash Table |
 | 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py) | Easy | Hash Table, Math |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | Easy | Linked List |
 | 202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
