@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./algorithm/python/206_reverse_linked_list.py) | Easy | Linked List |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | Easy | Hash Table |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py) | Easy | Hash Table, Math |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | Easy | Linked List |
