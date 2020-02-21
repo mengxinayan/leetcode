@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Python3](./algorithm/python/231_power_of_two.py) | Easy | Bit Manipulation, Math |
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Python3](./algorithm/python/226_invert_binary_tree.py) | Easy | Tree |
 | 225 | [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Python3](./algorithm/python/225_implement_stack_using_queues.py) | Easy | Stack, Design |
 | 219 | [Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Python3](./algorithm/python/219_contains_duplicate_II.py) | Easy | Array, Hash Table |
