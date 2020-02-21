@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python3](./algorithm/python/225_implement_stack_using_queues.py) | Easy | Stack, Design |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](./algorithm/python/219_contains_duplicate_II.py) | Easy | Array, Hash Table |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python3](./algorithm/python/217_contains_duplicate.py) | Easy | Array, Hash Table |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./algorithm/python/206_reverse_linked_list.py) | Easy | Linked List |
