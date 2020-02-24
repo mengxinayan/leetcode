@@ -79,6 +79,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
