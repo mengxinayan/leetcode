@@ -12,7 +12,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
-| 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py) | Easy | Bit Manipulation, Array, Math |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](./algorithm/python/242_valid_anagram.py) | Easy | Sort, Hash Table |
