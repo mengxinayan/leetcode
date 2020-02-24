@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/) | [Python3](./algorithm/python/278_first_bad_version.py) | Easy | Binary Search |
 | 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py) | Easy | Bit Manipulation, Array, Math |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
 | 258 | [Add Digits](https://leetcode-cn.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
