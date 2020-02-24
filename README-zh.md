@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
 | 258 | [Add Digits](https://leetcode-cn.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
 | 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 242 | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [Python3](./algorithm/python/242_valid_anagram.py) | Easy | Sort, Hash Table |

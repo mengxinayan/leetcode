@@ -12,6 +12,9 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](./algorithm/python/242_valid_anagram.py) | Easy | Sort, Hash Table |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python3](./algorithm/python/237_delete_node_in_a_linked_list.py) | Easy | Linked List |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python3](./algorithm/python/235_lowest_common_ancestor_of_a_binary_search_tree.py) | Easy | Tree |
@@ -79,8 +82,6 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
-| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
