@@ -79,6 +79,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
