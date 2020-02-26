@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 326 | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
 | 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
 | 292 | [Nim Game](https://leetcode-cn.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | Easy | Brainteaser, Minimax |
@@ -90,13 +91,13 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
-| 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
-| 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
-| 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
-| 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/182_duplicate_emails.sql) | Easy |
-| 181 | [Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/181_employees_earning_more_than_their_managers.sql) | Easy |
-| 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [MySQL](./database/176_second_highest_salary.sql) | Easy |
-| 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
+| 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | Easy |
+| 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | Easy |
+| 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | Easy |
+| 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | Easy |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | Easy |
+| 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [MySQL](./database/MySQL/176_second_highest_salary.sql) | Easy |
+| 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/MySQL/175_combine_two_tables.sql) | Easy |
 
 ### Shell
 | # | 题名 | 解答 | 难度 |

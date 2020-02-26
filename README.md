@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | Easy | Brainteaser, Minimax |
@@ -89,13 +90,13 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/197_rising_temperature.sql) | Easy |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/196_delete_duplicate_emails.sql) | Easy |
-| 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/183_customers_who_never_order.sql) | Easy |
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/182_duplicate_emails.sql) | Easy |
-| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/181_employees_earning_more_than_their_managers.sql) | Easy |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./database/176_second_highest_salary.sql) | Easy |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./database/175_combine_two_tables.sql) | Easy |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | Easy |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | Easy |
+| 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | Easy |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | Easy |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./database/MySQL/176_second_highest_salary.sql) | Easy |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./database/MySQL/175_combine_two_tables.sql) | Easy |
 
 ### Shell
 | # | Title | Solution | Difficulty |
