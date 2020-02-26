@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | Easy | Bit Manipulation |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |

@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 342 | [Power of Four](https://leetcode-cn.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | Easy | Bit Manipulation |
 | 326 | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
 | 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
