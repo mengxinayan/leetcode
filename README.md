@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | Easy | Two Pointers, String |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py) | Easy | Two Pointers, String |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | Easy | Bit Manipulation |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
