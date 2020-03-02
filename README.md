@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | Easy | String |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | Easy | Binary Search |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | Easy | Math, Binary Search |
