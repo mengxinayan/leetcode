@@ -8,6 +8,7 @@ class Solution:
             if s[i] != s[len(s)-1-i]:
                 res = False
         return res
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
