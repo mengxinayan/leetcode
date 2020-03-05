@@ -40,6 +40,7 @@ class Solution:
                 res += 1000
             i += 1
         return res
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
