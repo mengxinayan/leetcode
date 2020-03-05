@@ -7,6 +7,7 @@ class Solution:
             res = List_dic.get(target-nums[i], -1)
             if res != -1 and res != i:
                 return [i, res]
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
