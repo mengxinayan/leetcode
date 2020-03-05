@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python3](./algorithm/python/405_convert_a_number_to_hexadecimal.py) | Easy | Bit Manipulation |
 | 403 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python3](./algorithm/python/403_sum_of_left_leaves.py) | Easy | Tree |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python3](./algorithm/python/401_binary_watch.py) | Easy | Bit Manipulation, Backtracking |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python3](./algorithm/python/392_is_subsequence.py) | Easy | Greedy, Binary Search, Dynamic Programming |
