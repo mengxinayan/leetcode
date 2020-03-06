@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 437 | [Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/) | [Python3](./algorithm/python/437_path_sum_III.py) | Easy | Tree |
 | 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | Easy | String |
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | Easy | String |
 | 414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/) | [Python3](./algorithm/python/414_third_maximum_number.py) | Easy | Array |
