@@ -1,7 +1,5 @@
 class Solution:
-    def readBinaryWatch(self, num: int) -> List[str]:      
-
-        # def cal_two_num_sum(num: int) -> List[List[int]]
+    def readBinaryWatch(self, num: int) -> List[str]:
 
         def combine_hour_and_minute(hour: List[str], minute: List[str]) -> List[str]:
             res = []
@@ -9,7 +7,7 @@ class Solution:
                 for j in range(len(minute)):
                     res.append(hour[i] + ':' + minute[j])
             return res
-            
+
         def cal_hour_value(n):
             arr = [1, 2, 4, 8]
             tmp = combination(arr, n)
