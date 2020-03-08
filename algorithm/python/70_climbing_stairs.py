@@ -10,6 +10,7 @@ class Solution:
             for i in range(3, n+1):
                 nums.append(nums[i-1] + nums[i-2])
             return nums[n]
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
