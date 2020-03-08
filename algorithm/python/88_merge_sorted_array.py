@@ -47,6 +47,7 @@ class Solution:
             for i in range(n):
                 nums1.append(nums2[i])
             nums1.sort()
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
