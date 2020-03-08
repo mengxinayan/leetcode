@@ -31,6 +31,7 @@ class Solution:
                         left = mid + 1
                         mid = (left + right) // 2
             return res
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
