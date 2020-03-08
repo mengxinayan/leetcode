@@ -18,6 +18,7 @@ class Solution:
                 nums[0] = 0
                 nums.insert(0, 1)
         return nums
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
