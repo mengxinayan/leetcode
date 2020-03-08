@@ -20,6 +20,7 @@ class Solution:
                 p = p.next
                 q = q.next
         return head
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
