@@ -21,6 +21,7 @@ class Solution:
         p = root.left
         q = root.right
         return check(p, q)
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
