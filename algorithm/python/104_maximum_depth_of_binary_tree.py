@@ -10,6 +10,7 @@ class Solution:
         if root == None:
             return 0
         return max( self.maxDepth(root.left)+1, self.maxDepth(root.right)+1 )
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
