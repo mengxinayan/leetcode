@@ -16,6 +16,7 @@ class Solution:
         node.left = self.sortedArrayToBST(nums[0: len(nums)//2])
         node.right =  self.sortedArrayToBST(nums[len(nums)//2+1: len(nums)])
         return node
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
