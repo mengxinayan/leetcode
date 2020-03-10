@@ -24,6 +24,7 @@ class Solution:
             res.append(tmp_val)
         res.reverse()
         return res
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
