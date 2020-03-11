@@ -17,6 +17,7 @@ class Solution:
             return self.hasPathSum(root.right, sum-root.val)
         else:
             return (self.hasPathSum(root.left, sum-root.val)) or (self.hasPathSum(root.right, sum-root.val))
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
