@@ -18,6 +18,7 @@ class Solution:
             for i in range(rowIndex-1):
                 res = cal_next(res)
             return res
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
