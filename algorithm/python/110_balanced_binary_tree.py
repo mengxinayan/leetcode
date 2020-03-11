@@ -36,6 +36,7 @@ class Solution:
         # Determine if the left and right subtrees of the tree are balanced binary trees
         else:
             return self.isBalanced(root.left) and self.isBalanced(root.right)
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
