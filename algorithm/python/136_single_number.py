@@ -2,6 +2,7 @@ class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         unique_nums = set(nums)
         return 2 * sum(unique_nums) - sum(nums) 
+
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
