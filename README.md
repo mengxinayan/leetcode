@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Python3](./algorithm/python/447_number_of_boomerangs.py) | Easy | Hash Table |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Python3](./algorithm/python/443_string_compression.py) | Easy | String |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python3](./algorithm/python/441_arranging_coins.py) | Easy | Math, Binary Search |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python3](./algorithm/python/437_path_sum_III.py) | Easy | Tree |
