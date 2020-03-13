@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 443 | [String Compression](https://leetcode-cn.com/problems/string-compression/) | [Python3](./algorithm/python/443_string_compression.py) | Easy | String |
 | 441 | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/) | [Python3](./algorithm/python/441_arranging_coins.py) | Easy | Math, Binary Search |
 | 437 | [Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/) | [Python3](./algorithm/python/437_path_sum_III.py) | Easy | Tree |
 | 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | Easy | String |
