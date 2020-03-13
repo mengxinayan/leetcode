@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [Python3](./algorithm/python/453_minimum_moves_to_equal_array_elements.py) | Easy | Math |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./algorithm/python/448_find_all_numbers_disappeared_in_an_array.py) | Easy | Array |
 | 447 | [Number of Boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [Python3](./algorithm/python/447_number_of_boomerangs.py) | Easy | Hash Table |
 | 443 | [String Compression](https://leetcode-cn.com/problems/string-compression/) | [Python3](./algorithm/python/443_string_compression.py) | Easy | String |
