@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python3](./algorithm/python/461_hamming_distance.py) | Easy | Bit Manipulation |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python3](./algorithm/python/455_assign_cookies.py) | Easy | Greedy |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Python3](./algorithm/python/453_minimum_moves_to_equal_array_elements.py) | Easy | Math |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./algorithm/python/448_find_all_numbers_disappeared_in_an_array.py) | Easy | Array |
