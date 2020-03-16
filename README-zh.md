@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 475 | [Heaters](https://leetcode-cn.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | Easy | Binary Search |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | Easy | Hash Table |
 | 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python3](./algorithm/python/461_hamming_distance.py) | Easy | Bit Manipulation |
 | 459 | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Python3](./algorithm/python/459_repeated_substring_pattern.py) | Easy | String |
