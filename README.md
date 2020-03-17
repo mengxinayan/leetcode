@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python3](./algorithm/python/482_license_key_formatting.py) | Easy | None |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python3](./algorithm/python/476_number_complement.py) | Easy | Bit Manipulation |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | Easy | Binary Search |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | Easy | Hash Table |

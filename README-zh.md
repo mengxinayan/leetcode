@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 482 | [License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/) | [Python3](./algorithm/python/482_license_key_formatting.py) | Easy | None |
 | 476 | [Number Complement](https://leetcode-cn.com/problems/number-complement/) | [Python3](./algorithm/python/476_number_complement.py) | Easy | Bit Manipulation |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | Easy | Binary Search |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | Easy | Hash Table |
