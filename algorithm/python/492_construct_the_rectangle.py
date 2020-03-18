@@ -1,3 +1,5 @@
+import math
+
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:
         sqrt_num = math.sqrt(area)
