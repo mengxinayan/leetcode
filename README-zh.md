@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 492 | [Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/) | [Python3](./algorithm/python/492_construct_the_rectangle.py) | Easy | None |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/) | [Python3](./algorithm/python/485_max_consecutive_ones.py) | Easy | Array |
 | 482 | [License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/) | [Python3](./algorithm/python/482_license_key_formatting.py) | Easy | None |
 | 476 | [Number Complement](https://leetcode-cn.com/problems/number-complement/) | [Python3](./algorithm/python/476_number_complement.py) | Easy | Bit Manipulation |
