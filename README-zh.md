@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 500 | [Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/) | [Python3](./algorithm/python/500_keyboard_row.py) | Easy | Hash Table |
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Python3](./algorithm/python/496_next_greater_element_I.py) | Easy | Stack |
 | 492 | [Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/) | [Python3](./algorithm/python/492_construct_the_rectangle.py) | Easy | None |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/) | [Python3](./algorithm/python/485_max_consecutive_ones.py) | Easy | Array |

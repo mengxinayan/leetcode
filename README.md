@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python3](./algorithm/python/500_keyboard_row.py) | Easy | Hash Table |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python3](./algorithm/python/496_next_greater_element_I.py) | Easy | Stack |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Python3](./algorithm/python/492_construct_the_rectangle.py) | Easy | None |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python3](./algorithm/python/485_max_consecutive_ones.py) | Easy | Array |
