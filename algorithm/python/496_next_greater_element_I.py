@@ -1,3 +1,5 @@
+# Solution 1: Brute force solution
+
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
 
@@ -20,6 +22,28 @@ class Solution:
         res = []
         for i in range(len(nums1)):
             res.append(find_next_greater(i))
+        return res
+
+
+
+# Solution 2: Using stack
+
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        stack = []
+        num_next_greater_num = {}
+        for i in range(0, len(nums2)):
+            while (len(stack) != 0) and (nums2[i] > stack[-1]):
+                num_next_greater_num[stack[-1]] = nums2[i]
+                stack.pop()
+            if (len(stack) == 0) or (nums2[i] <= stack[-1]):
+                stack.append(nums2[i])
+        res = []
+        for i in range(0, len(nums1)):
+            if nums1[i] in num_next_greater_num:
+                res.append(num_next_greater_num[nums1[i]])
+            else:
+                res.append(-1)
         return res
 
 '''
