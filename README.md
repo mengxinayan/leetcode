@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [Python3](./algorithm/python/504_base_7.py) | Easy | None |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python3](./algorithm/python/501_find_mode_in_binary_search_tree.py) | Easy | Tree |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python3](./algorithm/python/500_keyboard_row.py) | Easy | Hash Table |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python3](./algorithm/python/496_next_greater_element_I.py) | Easy | Stack |
