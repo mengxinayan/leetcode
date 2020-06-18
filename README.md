@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | Easy | String |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python3](./algorithm/python/509_fibonacci_number.py) | Easy | Array |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Python3](./algorithm/python/507_perfect_number.py) | Easy | Math |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Python3](./algorithm/python/506_relative_ranks.py) | Easy | None |
