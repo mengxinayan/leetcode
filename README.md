@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python3](./algorithm/python/530_minimum_absolute_difference_in_BST.py) | Easy | Tree |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Python3](./algorithm/python/521_longest_uncommon_subsequence_I.py) | Easy | String |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | Easy | String |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python3](./algorithm/python/509_fibonacci_number.py) | Easy | Array |

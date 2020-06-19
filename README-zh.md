@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [Python3](./algorithm/python/530_minimum_absolute_difference_in_BST.py) | Easy | Tree |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [Python3](./algorithm/python/521_longest_uncommon_subsequence_I.py) | Easy | String |
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | Easy | String |
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [Python3](./algorithm/python/509_fibonacci_number.py) | Easy | Array |
