@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Python3](./algorithm/python/543_diameter_of_binary_tree.py) | Easy | Tree |
 | 541 | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [Python3](./algorithm/python/541_reverse_string_II.py) | Easy | String |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Python3](./algorithm/python/538_convert_BST_to_greater_tree.py) | Easy | Tree |
 | 532 | [K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [Python3](./algorithm/python/532_k-diff_pairs_in_an_array.py) | Easy | Array, Two Pointers |
