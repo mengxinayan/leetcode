@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 551 | [Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [Python3](./algorithm/python/551_student_attendance_record_I.py) | Easy | Tree |
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Python3](./algorithm/python/543_diameter_of_binary_tree.py) | Easy | Tree |
 | 541 | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [Python3](./algorithm/python/541_reverse_string_II.py) | Easy | String |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Python3](./algorithm/python/538_convert_BST_to_greater_tree.py) | Easy | Tree |
