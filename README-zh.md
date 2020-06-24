@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [Python3](./algorithm/python/559_maximum_depth_of_N-ary_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Python3](./algorithm/python/557_reverse_words_in_a_string_III.py) | Easy | String |
 | 551 | [Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [Python3](./algorithm/python/551_student_attendance_record_I.py) | Easy | Tree |
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Python3](./algorithm/python/543_diameter_of_binary_tree.py) | Easy | Tree |
