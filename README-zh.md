@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 572 | [Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [Python3](./algorithm/python/572_subtree_of_another_tree.py) | Easy | Tree |
 | 566 | [Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/) | [Python3](./algorithm/python/566_reshape_the_matrix.py) | Easy | Array |
 | 563 | [Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Python3](./algorithm/python/563_binary_tree_tilt.py) | Easy | Tree |
 | 561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i/) | [Python3](./algorithm/python/561_array_partition_I.py) | Easy | Array |
