@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python3](./algorithm/python/589_N-ary_tree_preorder_traversal.py) | Easy | Tree |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python3](./algorithm/python/581_shortest_unsorted_continuous_subarray.py) | Easy | Array |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Python3](./algorithm/python/575_distribute_candies.py) | Easy | Hash Table |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python3](./algorithm/python/572_subtree_of_another_tree.py) | Easy | Tree |
