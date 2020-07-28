@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [Python3](./algorithm/python/590_N-ary_tree_postorder_traversal.py) | Easy | Tree |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [Python3](./algorithm/python/589_N-ary_tree_preorder_traversal.py) | Easy | Tree |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [Python3](./algorithm/python/581_shortest_unsorted_continuous_subarray.py) | Easy | Array |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [Python3](./algorithm/python/575_distribute_candies.py) | Easy | Hash Table |
