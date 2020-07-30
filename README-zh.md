@@ -152,6 +152,7 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
+| 595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | [MySQL](./database/MySQL/595_big_countries.sql) | Easy |
 | 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | Easy |
 | 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | Easy |
