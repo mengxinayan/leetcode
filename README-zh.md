@@ -152,6 +152,7 @@
 
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
+| 596 | [Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/) | [MySQL](./database/MySQL/596_classes_more_than_5_students.sql) | Easy |
 | 595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | [MySQL](./database/MySQL/595_big_countries.sql) | Easy |
 | 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | Easy |
