@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [Python3](./algorithm/python/599_minimum_index_sum_of_two_lists.py) | Easy | Hash Table |
 | 598 | [Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/) | [Python3](./algorithm/python/598_range_addition_II.py) | Easy | Math |
 | 594 | [Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [Python3](./algorithm/python/594_longest_harmonious_subsequence.py) | Easy | Hash Table |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [Python3](./algorithm/python/590_N-ary_tree_postorder_traversal.py) | Easy | Tree |
