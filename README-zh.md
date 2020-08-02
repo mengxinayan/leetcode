@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 606 | [Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Python3](./algorithm/python/606_construct_string_from_binary_tree.py) | Easy | Tree, String |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [Python3](./algorithm/python/605_can_place_flowers.py) | Easy | Array |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [Python3](./algorithm/python/599_minimum_index_sum_of_two_lists.py) | Easy | Hash Table |
 | 598 | [Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/) | [Python3](./algorithm/python/598_range_addition_II.py) | Easy | Math |
