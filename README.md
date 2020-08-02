@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python3](./algorithm/python/605_can_place_flowers.py) | Easy | Array |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Python3](./algorithm/python/599_minimum_index_sum_of_two_lists.py) | Easy | Hash Table |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Python3](./algorithm/python/598_range_addition_II.py) | Easy | Math |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Python3](./algorithm/python/594_longest_harmonious_subsequence.py) | Easy | Hash Table |
