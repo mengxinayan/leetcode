@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Python3](./algorithm/python/628_maximum_product_of_three_numbers.py) | Easy | Array, Math |
 | 617 | [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Python3](./algorithm/python/617_merge_two_binary_trees.py) | Easy | Tree |
 | 606 | [Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Python3](./algorithm/python/606_construct_string_from_binary_tree.py) | Easy | Tree, String |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [Python3](./algorithm/python/605_can_place_flowers.py) | Easy | Array |
