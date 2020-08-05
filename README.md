@@ -156,6 +156,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 
 | # | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](./database/MySQL/627_swap_salary.sql) | Easy |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./database/MySQL/620_not_boring_movies.sql) | Easy |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./database/MySQL/596_classes_more_than_5_students.sql) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./database/MySQL/595_big_countries.sql) | Easy |
