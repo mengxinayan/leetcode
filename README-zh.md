@@ -5,7 +5,7 @@
 #### [English](./README.md)  | 简体中文
 
 
-我个人做Leetcode题目时的记录，算法不一定是最优的，还望大家海涵。
+我个人做 LeetCode 题目时的记录，算法不一定是最优的，还望大家海涵。
 
 如果有任何问题或建议，欢迎在 [Issues](https://github.com/mengxinayan/leetcode/issues) 中进行讨论。
 
@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [Python3](./algorithm/python/643_maximum_average_subarray_I.py) | Easy | Array |
 | 637 | [Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Python3](./algorithm/python/637_average_of_levels_in_binary_tree.py) | Easy | Tree |
 | 633 | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/) | [Python3](./algorithm/python/633_sum_of_square_numbers.py) | Easy | Math |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Python3](./algorithm/python/628_maximum_product_of_three_numbers.py) | Easy | Array, Math |

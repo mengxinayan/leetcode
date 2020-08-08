@@ -5,13 +5,14 @@ If you like this project, please leave me a **star** ★ : )
 #### English |  [简体中文](./README-zh.md)
 
 
-This is my personal record of solving Leetcode Problems. The algorithms may not be optimal, I hope you can understand.
+This is my personal record of solving LeetCode Problems. The algorithms may not be optimal, I hope you can understand.
 
 If you have any questions or advices, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
 
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python3](./algorithm/python/643_maximum_average_subarray_I.py) | Easy | Array |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python3](./algorithm/python/637_average_of_levels_in_binary_tree.py) | Easy | Tree |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Python3](./algorithm/python/633_sum_of_square_numbers.py) | Easy | Math |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python3](./algorithm/python/628_maximum_product_of_three_numbers.py) | Easy | Array, Math |
