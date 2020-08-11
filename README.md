@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | Easy | String |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Python3](./algorithm/python/653_two_sum_IV_input_is_a_BST.py) | Easy | Tree |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](./algorithm/python/645_set_mismatch.py) | Easy | Hash Table, Math |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python3](./algorithm/python/643_maximum_average_subarray_I.py) | Easy | Array |
