@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Python3](./algorithm/python/669_trim_a_binary_search_tree.py) | Easy | Tree |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Python3](./algorithm/python/665_non-decreasing_array.py) | Easy | Array |
 | 661 | [Image Smoother](https://leetcode-cn.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | [Python3](./algorithm/python/661_image_smoother.py) | Easy | Array |
 | 657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | Easy | String |
