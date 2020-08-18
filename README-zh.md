@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 680 | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [Python3](./algorithm/python/680_valid_palindrome_II.py) | Easy | String |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Python3](./algorithm/python/674_longest_continuous_increasing_subsequence.py) | Easy | Array |
 | 671 | [Second Minimum Node in a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [Python3](./algorithm/python/671_second_minimum_node_in_a_binary_tree.py) | Easy | Tree |
 | 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Python3](./algorithm/python/669_trim_a_binary_search_tree.py) | Easy | Tree |
