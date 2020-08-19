@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Python3](./algorithm/python/682_baseball_game.py) | Easy | Stack |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python3](./algorithm/python/680_valid_palindrome_II.py) | Easy | String |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python3](./algorithm/python/674_longest_continuous_increasing_subsequence.py) | Easy | Array |
 | 671 | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Python3](./algorithm/python/671_second_minimum_node_in_a_binary_tree.py) | Easy | Tree |
