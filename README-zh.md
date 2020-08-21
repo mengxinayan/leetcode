@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 687 | [Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/) | [Python3](./algorithm/python/687_longest_univalue_path.py) | Easy | Tree, Recursion |
 | 686 | [Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/) | [Python3](./algorithm/python/686_repeated_string_match.py) | Easy | String |
 | 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [Python3](./algorithm/python/682_baseball_game.py) | Easy | Stack |
 | 680 | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [Python3](./algorithm/python/680_valid_palindrome_II.py) | Easy | String |
