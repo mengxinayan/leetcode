@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 693 | [Binary Number with Alternating bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [Python3](./algorithm/python/693_binary_number_with_alternating_bits.py) | Easy, Bit Manipulation |
 | 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [Python3](./algorithm/python/690_employee_importance.py) | Easy | Depth-first Search, Breadth-first Search, Hash Table |
 | 687 | [Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/) | [Python3](./algorithm/python/687_longest_univalue_path.py) | Easy | Tree, Recursion |
 | 686 | [Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/) | [Python3](./algorithm/python/686_repeated_string_match.py) | Easy | String |
