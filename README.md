@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | Easy | Array |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | Easy | String |
 | 693 | [Binary Number with Alternating bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Python3](./algorithm/python/693_binary_number_with_alternating_bits.py) | Easy | Bit Manipulation |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Python3](./algorithm/python/690_employee_importance.py) | Easy | Depth-first Search, Breadth-first Search, Hash Table |
