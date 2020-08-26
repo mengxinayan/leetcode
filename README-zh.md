@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 700 | [Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [Python3](./algorithm/python/700_search_in_a_binary_search_tree.py) | Easy | Tree |
 | 697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | Easy | Array |
 | 696 | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | Easy | String |
 | 693 | [Binary Number with Alternating bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [Python3](./algorithm/python/693_binary_number_with_alternating_bits.py) | Easy | Bit Manipulation |
