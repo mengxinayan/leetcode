@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python3](./algorithm/python/703_kth_largest_element_in_a_stream.py) | Easy | Heap |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python3](./algorithm/python/700_search_in_a_binary_search_tree.py) | Easy | Tree |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | Easy | Array |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | Easy | String |
