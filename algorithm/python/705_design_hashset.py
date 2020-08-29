@@ -6,8 +6,8 @@ class MyHashSet:
         """
         self.key_range = 1007
         self.bucket_array = [Bucket() for i in range(self.key_range)]
-        
-    def __hash(self, key):
+
+    def __hash(self, key: int) -> int:
         return key % self.key_range
 
     def add(self, key: int) -> None:
@@ -24,22 +24,25 @@ class MyHashSet:
         """
         bucket_index = self.__hash(key)
         return self.bucket_array[bucket_index].is_exist(key)
-        
+
+
 class Node:
-    def __init__(self, value, next_node=None):
+
+    def __init__(self, value: int, next_node=None):
         self.value = value
         self.next = next_node
+
 
 class Bucket:
     def __init__(self):
         self.head = Node(0)
-    
-    def insert(self, new_value):
+
+    def insert(self, new_value: int) -> None:
         if self.is_exist(new_value) == False:
             new_node = Node(new_value, self.head.next)
             self.head.next = new_node
 
-    def delete(self, value):
+    def delete(self, value: int) -> None:
         prev = self.head
         curr = self.head.next
         while curr != None:
@@ -49,8 +52,8 @@ class Bucket:
             else:
                 prev = curr
                 curr = curr.next
-    
-    def is_exist(self, value):
+
+    def is_exist(self, value: int) -> bool:
         curr = self.head.next
         while curr != None:
             if curr.value == value:
@@ -58,6 +61,7 @@ class Bucket:
             else:
                 curr = curr.next
         return False
+
 
 # Your MyHashSet object will be instantiated and called as such:
 # obj = MyHashSet()
