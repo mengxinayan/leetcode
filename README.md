@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | Easy | Design, Hash Table |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/submissions/) | [Python3](./algorithm/python/705_design_hashset.py) | Easy | Design, Hash Table |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python3](./algorithm/python/704_binary_search.py) | Easy | Binary Search |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python3](./algorithm/python/703_kth_largest_element_in_a_stream.py) | Easy | Heap |
