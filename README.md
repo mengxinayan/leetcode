@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | Easy | String |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | Easy | Design, Hash Table |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/submissions/) | [Python3](./algorithm/python/705_design_hashset.py) | Easy | Design, Hash Table |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python3](./algorithm/python/704_binary_search.py) | Easy | Binary Search |
