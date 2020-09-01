@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 717 | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | Easy | Array |
 | 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | Easy | String |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | Easy | Design, Hash Table |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [Python3](./algorithm/python/705_design_hashset.py) | Easy | Design, Hash Table |
