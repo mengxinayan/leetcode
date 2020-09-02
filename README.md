@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | Easy | Trie, Hash Table |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | Easy | Array |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | Easy | String |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | Easy | Design, Hash Table |
