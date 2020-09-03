@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [Python3](./algorithm/python/724_find_pivot_index.py) | Easy | Array |
 | 720 | [Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | Easy | Trie, Hash Table |
 | 717 | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | Easy | Array |
 | 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | Easy | String |
