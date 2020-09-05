@@ -12,7 +12,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
-| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Easy | Math |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python3](./algorithm/python/733_flood_fill.py) | Easy | Depth-first Search |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python3](./algorithm/python/728_self_dividing_numbers.py) | Easy | Math |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python3](./algorithm/python/724_find_pivot_index.py) | Easy | Array |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | Easy | Trie, Hash Table |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | Easy | Array |
