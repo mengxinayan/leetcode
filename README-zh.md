@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [Python3](./algorithm/python/744_find_smallest_letter_greater_than_target.py) | Easy | Binary Search |
 | 733 | [Flood Fill](https://leetcode-cn.com/problems/flood-fill/) | [Python3](./algorithm/python/733_flood_fill.py) | Easy | Depth-first Search |
 | 728 | [Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/) | [Python3](./algorithm/python/728_self_dividing_numbers.py) | Easy | Math |
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [Python3](./algorithm/python/724_find_pivot_index.py) | Easy | Array |
