@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 748 | [Shortest Completing Word](https://leetcode-cn.com/problems/shortest-completing-word/) | [Python3](./algorithm/python/748_shortest_completing_word.py) | Easy | Hash Table |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [Python3](./algorithm/python/747_largest_number_at_least_twice_of_others.py) | Easy | Array |
 | 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Python3](./algorithm/python/746_min_cost_climbing_stairs.py) | Easy | Array, Dynamic Programming |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [Python3](./algorithm/python/744_find_smallest_letter_greater_than_target.py) | Easy | Binary Search |
