@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Python3](./algorithm/python/762_prime_number_of_set_bits_in_binary_representation.py) | Easy | Bit Manipulation |
 | 748 | [Shortest Completing Word](https://leetcode-cn.com/problems/shortest-completing-word/) | [Python3](./algorithm/python/748_shortest_completing_word.py) | Easy | Hash Table |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [Python3](./algorithm/python/747_largest_number_at_least_twice_of_others.py) | Easy | Array |
 | 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Python3](./algorithm/python/746_min_cost_climbing_stairs.py) | Easy | Array, Dynamic Programming |
