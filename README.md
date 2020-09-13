@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](./algorithm/python/766_toeplitz_matrix.py) | Easy | Array |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Python3](./algorithm/python/762_prime_number_of_set_bits_in_binary_representation.py) | Easy | Bit Manipulation |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [Python3](./algorithm/python/748_shortest_completing_word.py) | Easy | Hash Table |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python3](./algorithm/python/747_largest_number_at_least_twice_of_others.py) | Easy | Array |
