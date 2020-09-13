@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [Python3](./algorithm/python/771_jewels_and_stones.py) | Easy | Hash Table |
 | 766 | [Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/) | [Python3](./algorithm/python/766_toeplitz_matrix.py) | Easy | Array |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Python3](./algorithm/python/762_prime_number_of_set_bits_in_binary_representation.py) | Easy | Bit Manipulation |
 | 748 | [Shortest Completing Word](https://leetcode-cn.com/problems/shortest-completing-word/) | [Python3](./algorithm/python/748_shortest_completing_word.py) | Easy | Hash Table |
