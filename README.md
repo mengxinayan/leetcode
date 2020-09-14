@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [Python3](./algorithm/python/788_rotated_digits.py) | Easy | String |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Python3](./algorithm/python/783_minimum_distance_between_BST_nodes.py) | Easy | Tree, Recursion |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python3](./algorithm/python/771_jewels_and_stones.py) | Easy | Hash Table |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python3](./algorithm/python/766_toeplitz_matrix.py) | Easy | Array |
