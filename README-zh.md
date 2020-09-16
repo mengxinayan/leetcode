@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [Python3](./algorithm/python/804_unique_morse_code_words.py) | Easy | String |
 | 796 | [Rotate String](https://leetcode-cn.com/problems/rotate-string/) | [Python3](./algorithm/python/796_rotate_string.py) | Easy | None |
 | 788 | [Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/) | [Python3](./algorithm/python/788_rotated_digits.py) | Easy | String |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [Python3](./algorithm/python/783_minimum_distance_between_BST_nodes.py) | Easy | Tree, Recursion |
