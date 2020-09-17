@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 811 | [Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/) | [Python3](./algorithm/python/811_subdomain_visit_count.py) | Easy | Hash Table |
 | 806 | [Number of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [Python3](./algorithm/python/806_number_of_lines_to_write_string.py) | Easy | None |
 | 804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [Python3](./algorithm/python/804_unique_morse_code_words.py) | Easy | String |
 | 796 | [Rotate String](https://leetcode-cn.com/problems/rotate-string/) | [Python3](./algorithm/python/796_rotate_string.py) | Easy | None |
