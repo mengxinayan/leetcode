@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | Easy | String |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | Easy | None |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python3](./algorithm/python/819_most_common_word.py) | Easy | String |
 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python3](./algorithm/python/812_largest_triangle_area.py) | Easy | Math |
