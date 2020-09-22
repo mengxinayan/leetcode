@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 830 | [Position of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [Python3](./algorithm/python/830_positions_of_large_groups.py) | Easy | Array |
 | 824 | [Goat Latin](https://leetcode-cn.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | Easy | String |
 | 821 | [Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | Easy | None |
 | 819 | [Most Common Word](https://leetcode-cn.com/problems/most-common-word/) | [Python3](./algorithm/python/819_most_common_word.py) | Easy | String |
