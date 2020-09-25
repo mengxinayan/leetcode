@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python3](./algorithm/python/832_flipping_an_image.py) | Easy | Array |
 | 830 | [Position of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Python3](./algorithm/python/830_positions_of_large_groups.py) | Easy | Array |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | Easy | String |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | Easy | None |
