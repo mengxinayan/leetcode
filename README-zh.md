@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [Python3](./algorithm/python/844_backspace_string_compare.py) | Easy | Stack, Two Pointers |
 | 836 | [Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/) | [Python3](./algorithm/python/836_rectangle_overlap.py) | Easy | Math |
 | 832 | [Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/) | [Python3](./algorithm/python/832_flipping_an_image.py) | Easy | Array |
 | 830 | [Position of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [Python3](./algorithm/python/830_positions_of_large_groups.py) | Easy | Array |
