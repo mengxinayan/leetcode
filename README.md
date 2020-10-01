@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python3](./algorithm/python/867_transpose_matrix.py) | Easy | Array |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Python3](./algorithm/python/860_lemonade_change.py) | Easy | Greedy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](./algorithm/python/859_buddy_strings.py) | Easy | String |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python3](./algorithm/python/852_peak_index_in_a_mountain_array.py) | Easy | Binary Search |

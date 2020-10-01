@@ -12,7 +12,8 @@
 ### 算法
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: 
+| 867 | [Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/) | [Python3](./algorithm/python/867_transpose_matrix.py) | Easy | Array |
 | 860 | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [Python3](./algorithm/python/860_lemonade_change.py) | Easy | Greedy |
 | 859 | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/) | [Python3](./algorithm/python/859_buddy_strings.py) | Easy | String |
 | 852 | [Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | [Python3](./algorithm/python/852_peak_index_in_a_mountain_array.py) | Easy | Binary Search |
