@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Python3](./algorithm/python/868_binary_gap.py) | Easy | Math |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python3](./algorithm/python/867_transpose_matrix.py) | Easy | Array |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Python3](./algorithm/python/860_lemonade_change.py) | Easy | Greedy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python3](./algorithm/python/859_buddy_strings.py) | Easy | String |
