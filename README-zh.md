@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 874 | [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation/) | [Python3](./algorithm/python/874_walking_robot_simulation.py) | Easy | Greedy |
 | 872 | [Leaf-Similar Tree](https://leetcode-cn.com/problems/leaf-similar-trees/) | [Python3](./algorithm/python/872_leaf-similar_trees.py) | Easy | Tree, Depth-first Search |
 | 868 | [Binary Gap](https://leetcode-cn.com/problems/binary-gap/) | [Python3](./algorithm/python/868_binary_gap.py) | Easy | Math |
 | 867 | [Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/) | [Python3](./algorithm/python/867_transpose_matrix.py) | Easy | Array |
