@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 883 | [Projection Area of 3D shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Python3](./algorithm/python/883_projection_area_of_3D_shapes.py) | Easy | Math |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python3](./algorithm/python/876_middle_of_the_linked_list.py) | Easy | Linked List |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python3](./algorithm/python/874_walking_robot_simulation.py) | Easy | Greedy |
 | 872 | [Leaf-Similar Tree](https://leetcode.com/problems/leaf-similar-trees/) | [Python3](./algorithm/python/872_leaf-similar_trees.py) | Easy | Tree, Depth-first Search |
