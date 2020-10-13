@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [Python3](./algorithm/python/892_surface_area_of_3D_shapes.py) | Easy | Geometry, Math |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Python3](./algorithm/python/888_fair_candy_swap.py) | Easy | Array |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Python3](./algorithm/python/884_uncommon_words_from_two_sentences.py) | Easy | Hash Table |
 | 883 | [Projection Area of 3D shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Python3](./algorithm/python/883_projection_area_of_3D_shapes.py) | Easy | Math |
