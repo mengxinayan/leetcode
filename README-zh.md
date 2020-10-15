@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | [Python3](./algorithm/python/896_monotonic_array.py) | Easy | Array |
 | 893 | [Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/) | [Python3](./algorithm/python/893_groups_of_special-equivalent_strings.py) | Easy | String |
 | 892 | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [Python3](./algorithm/python/892_surface_area_of_3D_shapes.py) | Easy | Geometry, Math |
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [Python3](./algorithm/python/888_fair_candy_swap.py) | Easy | Array |
