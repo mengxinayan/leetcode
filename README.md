@@ -71,7 +71,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 671 | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Python3](./algorithm/python/671_second_minimum_node_in_a_binary_tree.py) | Easy | Tree |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Python3](./algorithm/python/669_trim_a_binary_search_tree.py) | Easy | Tree |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python3](./algorithm/python/665_non-decreasing_array.py) | Easy | Array |
-| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | [Python3](./algorithm/python/661_image_smoother.py) | Easy | Array |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | Easy | Array |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | Easy | String |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Python3](./algorithm/python/653_two_sum_IV_input_is_a_BST.py) | Easy | Tree |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python3](./algorithm/python/645_set_mismatch.py) | Easy | Hash Table, Math |
