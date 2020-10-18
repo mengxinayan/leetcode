@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [Python3](./algorithm/python/908_smallest_range_I.py) | Easy | Math |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python3](./algorithm/python/905_sort_array_by_parity.py) | Easy | Array |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Python3](./algorithm/python/897_increasing_order_search_tree.py) | Easy | Tree, Depth-first Search |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python3](./algorithm/python/896_monotonic_array.py) | Easy | Array |
