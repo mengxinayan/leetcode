@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python3](./algorithm/python/914_x_of_a_kind_in_a_deck_of_cards.py) | Easy | Array, Math |
 | 908 | [Smallest Range I](https://leetcode-cn.com/problems/smallest-range-i/) | [Python3](./algorithm/python/908_smallest_range_I.py) | Easy | Math |
 | 905 | [Sort Array by Parity](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Python3](./algorithm/python/905_sort_array_by_parity.py) | Easy | Array |
 | 897 | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Python3](./algorithm/python/897_increasing_order_search_tree.py) | Easy | Tree, Depth-first Search |
