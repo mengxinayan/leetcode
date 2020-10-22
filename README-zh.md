@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 922 | [Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | Easy | Sort, Array |
 | 917 | [Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/) | [Python3](./algorithm/python/917_reverse_only_letters.py) | Easy | String |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python3](./algorithm/python/914_x_of_a_kind_in_a_deck_of_cards.py) | Easy | Array, Math |
 | 908 | [Smallest Range I](https://leetcode-cn.com/problems/smallest-range-i/) | [Python3](./algorithm/python/908_smallest_range_I.py) | Easy | Math |
