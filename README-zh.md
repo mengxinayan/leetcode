@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 929 | [Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | Easy | String |
 | 925 | [Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | Easy | Two Pointers, String |
 | 922 | [Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | Easy | Sort, Array |
 | 917 | [Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/) | [Python3](./algorithm/python/917_reverse_only_letters.py) | Easy | String |
