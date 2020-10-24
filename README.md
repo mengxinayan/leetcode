@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | Easy | Queue |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | Easy | String |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | Easy | Two Pointers, String |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | Easy | Sort, Array |

@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | Easy | Queue |
 | 929 | [Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | Easy | String |
 | 925 | [Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | Easy | Two Pointers, String |
 | 922 | [Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | Easy | Sort, Array |
