@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python3](./algorithm/python/938_range_sum_of_BST.py) | Easy | Tree, Recursion |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](./algorithm/python/937_reorder_data_in_log_files.py) | Easy | String |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | Easy | Queue |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | Easy | String |
