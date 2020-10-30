@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 944 | [Delete Columns to Make Sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [Python3](./algorithm/python/944_delete_columns_to_make_sorted.py) | Easy | Greedy |
 | 942 | [DI String Match](https://leetcode-cn.com/problems/di-string-match/) | [Python3](./algorithm/python/942_DI_string_match.py) | Easy | Math |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [Python3](./algorithm/python/941_valid_mountain_array.py) | Easy | Array |
 | 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [Python3](./algorithm/python/938_range_sum_of_BST.py) | Easy | Tree, Recursion |
