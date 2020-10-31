@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 961 | [N-repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/) | [Python3](./algorithm/python/961_N-repeated_element_in_size_2N_array.py) | Easy | Hash Table |
 | 953 | [Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | [Python3](./algorithm/python/953_verifying_an_alien_dictionary.py) | Easy | Hash Table |
 | 944 | [Delete Columns to Make Sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [Python3](./algorithm/python/944_delete_columns_to_make_sorted.py) | Easy | Greedy |
 | 942 | [DI String Match](https://leetcode-cn.com/problems/di-string-match/) | [Python3](./algorithm/python/942_DI_string_match.py) | Easy | Math |
