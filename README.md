@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Python3](./algorithm/python/970_powerful_integers.py) | Easy | Hash Table, Math |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Python3](./algorithm/python/965_univalued_binary_tree.py) | Easy | Tree |
 | 961 | [N-repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Python3](./algorithm/python/961_N-repeated_element_in_size_2N_array.py) | Easy | Hash Table |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python3](./algorithm/python/953_verifying_an_alien_dictionary.py) | Easy | Hash Table |
