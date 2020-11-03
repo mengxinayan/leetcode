@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [Python3](./algorithm/python/976_largest_perimeter_triangle.py) | Easy | Sort, Math |
 | 970 | [Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/) | [Python3](./algorithm/python/970_powerful_integers.py) | Easy | Hash Table, Math |
 | 965 | [Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/) | [Python3](./algorithm/python/965_univalued_binary_tree.py) | Easy | Tree |
 | 961 | [N-repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/) | [Python3](./algorithm/python/961_N-repeated_element_in_size_2N_array.py) | Easy | Hash Table |
