@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Python3](./algorithm/python/977_squares_of_a_sorted_array.py) | Easy | Array, Two Pointers |
 | 976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [Python3](./algorithm/python/976_largest_perimeter_triangle.py) | Easy | Sort, Math |
 | 970 | [Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/) | [Python3](./algorithm/python/970_powerful_integers.py) | Easy | Hash Table, Math |
 | 965 | [Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/) | [Python3](./algorithm/python/965_univalued_binary_tree.py) | Easy | Tree |
