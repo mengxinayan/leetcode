@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | Easy | Tree, Breadth-first Search |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | Easy | Array |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | Easy | Array |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Python3](./algorithm/python/977_squares_of_a_sorted_array.py) | Easy | Array, Two Pointers |
