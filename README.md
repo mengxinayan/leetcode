@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | Easy | Graph |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | Easy | Tree, Breadth-first Search |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | Easy | Array |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | Easy | Array |
