@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | [Python3](./algorithm/python/999_available_captures_for_rook.py) | Easy | Array |
 | 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | Easy | Graph |
 | 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | Easy | Tree, Breadth-first Search |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | Easy | Array |
