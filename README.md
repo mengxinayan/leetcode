@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1005 | [Maximize Sum of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Easy | Greedy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python3](./algorithm/python/1002_find_common_characters.py) | Easy | Array, Hash Table |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Python3](./algorithm/python/999_available_captures_for_rook.py) | Easy | Array |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | Easy | Graph |
