@@ -13,7 +13,8 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1005 | [Maximize Sum of Array After K Negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | Easy | Greedy |
+| 1009 | [Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | [Python3](./algorithm/python/1009_complement_of_base_10_integer.py) | Easy | Math |
+| 1005 | [Maximize Sum of Array After K Negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | [Python3](./algorithm/python/1005_maximize_sum_of_array_after_k_negations.py) | Easy | Greedy |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [Python3](./algorithm/python/1002_find_common_characters.py) | Easy | Array, Hash Table |
 | 999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | [Python3](./algorithm/python/999_available_captures_for_rook.py) | Easy | Array |
 | 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | Easy | Graph |
