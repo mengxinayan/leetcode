@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python3](./algorithm/python/1010_pairs_of_songs_with_total_durations_divisible_by_60.py) | Easy | Array |
 | 1009 | [Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | [Python3](./algorithm/python/1009_complement_of_base_10_integer.py) | Easy | Math |
 | 1005 | [Maximize Sum of Array After K Negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | [Python3](./algorithm/python/1005_maximize_sum_of_array_after_k_negations.py) | Easy | Greedy |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [Python3](./algorithm/python/1002_find_common_characters.py) | Easy | Array, Hash Table |
