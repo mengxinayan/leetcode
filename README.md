@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1018 | [Binary Prefix Divisible by 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Python3](./algorithm/python/1018_binary_prefix_divisible_by_5.py) | Easy | Array |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python3](./algorithm/python/1013_partition_array_into_three_parts_with_equal_sum.py) | Easy | Array |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python3](./algorithm/python/1010_pairs_of_songs_with_total_durations_divisible_by_60.py) | Easy | Array |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python3](./algorithm/python/1009_complement_of_base_10_integer.py) | Easy | Math |
