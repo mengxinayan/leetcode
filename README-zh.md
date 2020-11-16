@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1021 | [Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [Python3](./algorithm/python/1021_remove_outermost_parentheses.py) | Easy | Stack |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [Python3](./algorithm/python/1018_binary_prefix_divisible_by_5.py) | Easy | Array |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python3](./algorithm/python/1013_partition_array_into_three_parts_with_equal_sum.py) | Easy | Array |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python3](./algorithm/python/1010_pairs_of_songs_with_total_durations_divisible_by_60.py) | Easy | Array |
