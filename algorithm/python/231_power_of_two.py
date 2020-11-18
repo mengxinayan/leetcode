@@ -11,6 +11,7 @@ class Solution:
             tmp += tmp
         return res
 
+
 # Solution 2
 
 class Solution:
