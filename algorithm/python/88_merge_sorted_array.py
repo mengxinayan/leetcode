@@ -1,4 +1,5 @@
 # Solution 1
+
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
@@ -31,7 +32,9 @@ class Solution:
                 for k in range(j, n):
                     nums1.append(nums2[k])
 
+
 # Solution 2, easy to understand, but poor efficiency
+
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
