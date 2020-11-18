@@ -25,7 +25,6 @@ class Solution:
         return res
 
 
-
 # Solution 2: Using stack
 
 class Solution:
