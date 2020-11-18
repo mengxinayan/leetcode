@@ -20,6 +20,7 @@ class Solution:
             res = False
         return res
 
+
 # Solution 2
 
 # Definition for singly-linked list.
