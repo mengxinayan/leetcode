@@ -9,6 +9,7 @@ class Solution:
         for i in range(length):
             s.insert(i, s.pop())
 
+
 # Solution 2
 
 class Solution:
