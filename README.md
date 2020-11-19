@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Python3](./algorithm/python/1030_matrix_cells_in_distance_order.py) | Easy | Sort |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python3](./algorithm/python/1025_divisor_game.py) | Easy | Math, Dynamic Programming |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python3](./algorithm/python/1022_sum_of_root_to_leaf_binary_numbers.py) | Easy | Tree |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python3](./algorithm/python/1021_remove_outermost_parentheses.py) | Easy | Stack |
