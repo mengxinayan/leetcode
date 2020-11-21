@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1037 | [Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/) | [Python3](./algorithm/python/1037_valid_boomerang.py) | Easy | Math |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [Python3](./algorithm/python/1033_moving_stones_until_consecutive.py) | Easy | Brainteaser |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Python3](./algorithm/python/1030_matrix_cells_in_distance_order.py) | Easy | Sort |
 | 1025 | [Divisor Game](https://leetcode-cn.com/problems/divisor-game/) | [Python3](./algorithm/python/1025_divisor_game.py) | Easy | Math, Dynamic Programming |
