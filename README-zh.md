@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](./algorithm/python/1047_remove_all_adjacent_duplicates_in_string.py) | Easy | Stack |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | Easy | Heap, Greedy |
 | 1037 | [Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/) | [Python3](./algorithm/python/1037_valid_boomerang.py) | Easy | Math |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [Python3](./algorithm/python/1033_moving_stones_until_consecutive.py) | Easy | Brainteaser |
