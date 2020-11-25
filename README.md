@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python3](./algorithm/python/1051_height_checker.py) | Easy | Array | 
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](./algorithm/python/1047_remove_all_adjacent_duplicates_in_string.py) | Easy | Stack |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | Easy | Heap, Greedy |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Python3](./algorithm/python/1037_valid_boomerang.py) | Easy | Math |
