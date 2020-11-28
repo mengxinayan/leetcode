@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python3](./algorithm/python/1089_duplicate_zeros.py) | Easy | Array |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Python3](./algorithm/python/1078_occurrences_after_bigram.py) | Easy | Hash Table |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python3](./algorithm/python/1071_greatest_common_divisor_of_strings.py) | Easy | String |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python3](./algorithm/python/1051_height_checker.py) | Easy | Array | 
