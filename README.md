@@ -287,3 +287,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 193 | [Valid Phone Number](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### Concurrency
+
+| # | Title | Solution | Difficulty |
+| :-: | :-: | :-: | :-: |
+| 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | [Python3](./algorithm/python/1114_print_in_order.py) | Easy |

@@ -288,3 +288,7 @@
 | 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
 
 ### 多线程
+
+| # | 题名 | 解答 | 难度 |
+| :-: | :-: | :-: | :-: |
+| 1114 | [Print in Order](https://leetcode-cn.com/problems/print-in-order/) | [Python3](./algorithm/python/1114_print_in_order.py) | Easy |
