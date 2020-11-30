@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | Easy | String | 
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Python3](./algorithm/python/1103_distribute_candies_to_people.py) | Easy | Math |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python3](./algorithm/python/1089_duplicate_zeros.py) | Easy | Array |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Python3](./algorithm/python/1078_occurrences_after_bigram.py) | Easy | Hash Table |
