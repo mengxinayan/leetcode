@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python3](./algorithm/python/1122_relative_sort_array.py) | Easy | Sort, Array |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | Easy | String |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Python3](./algorithm/python/1103_distribute_candies_to_people.py) | Easy | Math |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python3](./algorithm/python/1089_duplicate_zeros.py) | Easy | Array |
