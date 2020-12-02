@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [Python3](./algorithm/python/1128_number_of_equivalent_domino_pairs.py) | Easy | Array |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/) | [Python3](./algorithm/python/1122_relative_sort_array.py) | Easy | Sort, Array |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | Easy | String |
 | 1103 | [Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [Python3](./algorithm/python/1103_distribute_candies_to_people.py) | Easy | Math |
