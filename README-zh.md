@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1137 | [N-th Tribonacci Number](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [Python3](./algorithm/python/1137_N-th_Tribonacci_Number.py) | Easy | Recursion |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [Python3](./algorithm/python/1128_number_of_equivalent_domino_pairs.py) | Easy | Array |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/) | [Python3](./algorithm/python/1122_relative_sort_array.py) | Easy | Sort, Array |
 | 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | Easy | String |
