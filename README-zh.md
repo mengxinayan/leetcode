@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1154 | [Day of the Year](https://leetcode-cn.com/problems/day-of-the-year/) | [Python3](./algorithm/python/1154_day_of_the_year.py) | Easy | Math |
 | 1137 | [N-th Tribonacci Number](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [Python3](./algorithm/python/1137_N-th_Tribonacci_Number.py) | Easy | Recursion |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [Python3](./algorithm/python/1128_number_of_equivalent_domino_pairs.py) | Easy | Array |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/) | [Python3](./algorithm/python/1122_relative_sort_array.py) | Easy | Sort, Array |
