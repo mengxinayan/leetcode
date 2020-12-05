@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python3](./algorithm/python/1160_find_words_that_can_be_formed_by_characters.py) | Easy | Array, Hash Table |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Python3](./algorithm/python/1154_day_of_the_year.py) | Easy | Math |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python3](./algorithm/python/1137_N-th_Tribonacci_Number.py) | Easy | Recursion |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Python3](./algorithm/python/1128_number_of_equivalent_domino_pairs.py) | Easy | Array |
