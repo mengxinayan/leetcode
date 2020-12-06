@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Python3](./algorithm/python/1170_compare_strings_by_frequency_of_the_smallest_character.py) | Easy | Array, String |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [Python3](./algorithm/python/1160_find_words_that_can_be_formed_by_characters.py) | Easy | Array, Hash Table |
 | 1154 | [Day of the Year](https://leetcode-cn.com/problems/day-of-the-year/) | [Python3](./algorithm/python/1154_day_of_the_year.py) | Easy | Math |
 | 1137 | [N-th Tribonacci Number](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [Python3](./algorithm/python/1137_N-th_Tribonacci_Number.py) | Easy | Recursion |
