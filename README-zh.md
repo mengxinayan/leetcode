@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1185 | [Day of the Week](https://leetcode-cn.com/problems/day-of-the-week/) | [Python3](./algorithm/python/1185_day_of_the_week.py) | Easy | Array |
 | 1184 | [Distance Between Bus Stops](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Python3](./algorithm/python/1184_distance_between_bus_stops.py) | Easy | Array |
 | 1175 | [Prime Arrangements](https://leetcode-cn.com/problems/prime-arrangements/) | [Python3](./algorithm/python/1175_prime_arrangements.py) | Easy | Math |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Python3](./algorithm/python/1170_compare_strings_by_frequency_of_the_smallest_character.py) | Easy | Array, String |
