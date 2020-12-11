@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1200 | [Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/) | [Python3](./algorithm/python/1200_minimum_absolute_difference.py) | Easy | Array |
 | 1189 | [Maximum Number of Balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [Python3](./algorithm/python/1189_maximum_number_of_balloons.py) | Easy | Hash Table, String |
 | 1185 | [Day of the Week](https://leetcode-cn.com/problems/day-of-the-week/) | [Python3](./algorithm/python/1185_day_of_the_week.py) | Easy | Array |
 | 1184 | [Distance Between Bus Stops](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Python3](./algorithm/python/1184_distance_between_bus_stops.py) | Easy | Array |
