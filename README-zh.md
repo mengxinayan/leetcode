@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Python3](./algorithm/python/1237_find_positive_integer_solution_for_a_given_equation.py) | Easy | Math, Binary Search |
 | 1232 | [Check If It a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [Python3](./algorithm/python/1232_check_if_it_is_a_straight_line.py) | Easy | Geometry, Array, Math | 
 | 1221 | [Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [Python3](./algorithm/python/1221_split_a_string_in_balanced_strings.py) | Easy | Greedy, String |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Python3](./algorithm/python/1217_minimum_cost_to_move_chips_to_the_same_position.py) | Easy | Greedy, Array, Math |
