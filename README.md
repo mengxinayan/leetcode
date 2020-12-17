@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Python3](./algorithm/python/1252_cells_with_odd_values_in_matrix.py) | Easy | Array |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Python3](./algorithm/python/1237_find_positive_integer_solution_for_a_given_equation.py) | Easy | Math, Binary Search |
 | 1232 | [Check If It a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python3](./algorithm/python/1232_check_if_it_is_a_straight_line.py) | Easy | Geometry, Array, Math | 
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python3](./algorithm/python/1221_split_a_string_in_balanced_strings.py) | Easy | Greedy, String |
