@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Python3](./algorithm/python/1275_find_winner_on_a_tic_tac_toe_game.py) | Easy | Array |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | [Python3](./algorithm/python/1266_minimum_time_visiting_all_points.py) | Easy | Geometry, Array |
 | 1260 | [Shift 2D Grid](https://leetcode-cn.com/problems/shift-2d-grid/) | [Python3](./algorithm/python/1260_shift_2D_grid.py) | Easy | Array |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | [Python3](./algorithm/python/1252_cells_with_odd_values_in_matrix.py) | Easy | Array |
