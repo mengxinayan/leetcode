@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python3](./algorithm/python/1323_maximum_69_number.py) | Easy | Math |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python3](./algorithm/python/1317_convert_integer_to_the_sum_of_two_np-zero_integers.py) | Easy | Math |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python3](./algorithm/python/1313_decompress_run-length_encoded_list.py) | Easy | Array |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Python3](./algorithm/python/1309_decrypt_string_from_alphabet_to_integer_mapping.py) | Easy | String |
