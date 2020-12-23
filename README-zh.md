@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1331 | [Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/) | [Python3](./algorithm/python/1331_rank_transform_of_an_array.py) | Easy | Array |
 | 1323 | [Maximum 69 Number](https://leetcode-cn.com/problems/maximum-69-number/) | [Python3](./algorithm/python/1323_maximum_69_number.py) | Easy | Math |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python3](./algorithm/python/1317_convert_integer_to_the_sum_of_two_np-zero_integers.py) | Easy | Math |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | [Python3](./algorithm/python/1313_decompress_run-length_encoded_list.py) | Easy | Array |
