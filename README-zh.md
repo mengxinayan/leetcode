@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | [Python3](./algorithm/python/1313_decompress_run-length_encoded_list.py) | Easy | Array |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Python3](./algorithm/python/1309_decrypt_string_from_alphabet_to_integer_mapping.py) | Easy | String |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python3](./algorithm/python/1304_find_N_unique_integers_sum_up_to_zero.py) | Easy | Array |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python3](./algorithm/python/1299_replace_elements_with_greatest_element_on_right_side.py) | Easy | Array |
