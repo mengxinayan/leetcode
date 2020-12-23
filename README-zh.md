@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [Python3](./algorithm/python/1332_remove_palindromic_subsequences.py) | Easy | String |
 | 1331 | [Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/) | [Python3](./algorithm/python/1331_rank_transform_of_an_array.py) | Easy | Array |
 | 1323 | [Maximum 69 Number](https://leetcode-cn.com/problems/maximum-69-number/) | [Python3](./algorithm/python/1323_maximum_69_number.py) | Easy | Math |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python3](./algorithm/python/1317_convert_integer_to_the_sum_of_two_np-zero_integers.py) | Easy | Math |
