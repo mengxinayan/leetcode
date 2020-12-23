@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python3](./algorithm/python/1290_convert_binary_number_in_a_linked_list_to_integer.py) | Easy | Bit Manipulation, Linked List |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python3](./algorithm/python/1287_element_appearing_more_than_25%_in_sorted_array.py) | Easy | Array |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python3](./algorithm/python/1281_subtract_the_product_and_sum_of_digits_of_an_Integer.py) | Easy | Math |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Python3](./algorithm/python/1275_find_winner_on_a_tic_tac_toe_game.py) | Easy | Array |
