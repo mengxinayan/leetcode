@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python3](./algorithm/python/1304_find_N_unique_integers_sum_up_to_zero.py) | Easy | Array |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python3](./algorithm/python/1299_replace_elements_with_greatest_element_on_right_side.py) | Easy | Array |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [Python3](./algorithm/python/1295_find_numbers_with_even_number_of_digits.py) | Easy | Array |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python3](./algorithm/python/1290_convert_binary_number_in_a_linked_list_to_integer.py) | Easy | Bit Manipulation, Linked List |
