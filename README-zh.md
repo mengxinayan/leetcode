@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [Python3](./algorithm/python/1337_the_K_weakest_rows_in_a_matrix.py) | Easy | Array, Binary Search |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [Python3](./algorithm/python/1332_remove_palindromic_subsequences.py) | Easy | String |
 | 1331 | [Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/) | [Python3](./algorithm/python/1331_rank_transform_of_an_array.py) | Easy | Array |
 | 1323 | [Maximum 69 Number](https://leetcode-cn.com/problems/maximum-69-number/) | [Python3](./algorithm/python/1323_maximum_69_number.py) | Easy | Math |
