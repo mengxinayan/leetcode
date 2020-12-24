@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python3](./algorithm/python/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | Array, Binary Search |
 | 1346 | [Check If and Its Double Exist](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [Python3](./algorithm/python/1346_check_if_N_and_its_double_exist.py) | Easy | Array |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python3](./algorithm/python/1342_number_of_steps_to_reduce_a_number_to_zero.py) | Easy | Bit Manipulation |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [Python3](./algorithm/python/1337_the_K_weakest_rows_in_a_matrix.py) | Easy | Array, Binary Search |
