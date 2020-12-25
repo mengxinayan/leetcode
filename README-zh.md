@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [Python3](./algorithm/python/1380_lucky_numbers_in_a_matrix.py) | Easy | Array |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python3](./algorithm/python/1374_generate_a_string_with_characters_that_have_odd_counts.py) | Easy | String |
 | 1370 | [Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Python3](./algorithm/python/1370_increasing_decreasing_string.py) | Easy | Sort, String |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python3](./algorithm/python/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array, Hash Table |
