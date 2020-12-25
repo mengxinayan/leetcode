@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Python3](./algorithm/python/1370_increasing_decreasing_string.py) | Easy | Sort, String |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python3](./algorithm/python/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array, Hash Table |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Python3](./algorithm/python/1360_number_of_days_between_two_dates.py) | Easy | None |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Python3](./algorithm/python/1356_sort_integers_by_the_number_of_1_bits.py) | Easy | Sort, Bit Manipulation |
