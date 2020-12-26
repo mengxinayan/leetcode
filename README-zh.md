@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1389 | [Create Target Array in the Given Order](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/) | [Python3](./algorithm/python/1389_create_target_array_in_the_given_order.py) | Easy | Array |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/) | [Python3](./algorithm/python/1385_find_the_distance_value_between_two_arrays.py) | Easy | Array |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [Python3](./algorithm/python/1380_lucky_numbers_in_a_matrix.py) | Easy | Array |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python3](./algorithm/python/1374_generate_a_string_with_characters_that_have_odd_counts.py) | Easy | String |
