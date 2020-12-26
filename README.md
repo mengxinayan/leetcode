@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python3](./algorithm/python/1394_find_lucky_integer_in_an_array.py) | Easy | Array |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python3](./algorithm/python/1389_create_target_array_in_the_given_order.py) | Easy | Array |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python3](./algorithm/python/1385_find_the_distance_value_between_two_arrays.py) | Easy | Array |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python3](./algorithm/python/1380_lucky_numbers_in_a_matrix.py) | Easy | Array |
