@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python3](./algorithm/python/1403_minimum_subsequence_in_non-increasing_order.py) | Easy | Greedy, Sort |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python3](./algorithm/python/1399_count_largest_group.py) | Easy | Array |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python3](./algorithm/python/1394_find_lucky_integer_in_an_array.py) | Easy | Array |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python3](./algorithm/python/1389_create_target_array_in_the_given_order.py) | Easy | Array |
