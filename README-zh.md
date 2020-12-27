@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Python3](./algorithm/python/1413_mininum_value_to_get_positive_step_by_step_sum.py) | Easy | Array |
 | 1408 | [String Matching in an Array](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [Python3](./algorithm/python/1408_string_matching_in_an_array.py) | Easy | String |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python3](./algorithm/python/1403_minimum_subsequence_in_non-increasing_order.py) | Easy | Greedy, Sort |
 | 1399 | [Count Largest Group](https://leetcode-cn.com/problems/count-largest-group/) | [Python3](./algorithm/python/1399_count_largest_group.py) | Easy | Array |
