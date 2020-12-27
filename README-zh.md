@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/) | [Python3](./algorithm/python/1422_maximum_score_after_splitting_a_string.py) | Easy | String |
 | 1417 | [Reformat The String](https://leetcode-cn.com/problems/reformat-the-string/) | [Python3](./algorithm/python/1417_reformat_the_string.py) | Easy | String |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Python3](./algorithm/python/1413_minimum_value_to_get_positive_step_by_step_sum.py) | Easy | Array |
 | 1408 | [String Matching in an Array](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [Python3](./algorithm/python/1408_string_matching_in_an_array.py) | Easy | String |
