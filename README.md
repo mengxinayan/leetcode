@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python3](./algorithm/python/1436_destination_city.py) | Easy | String |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python3](./algorithm/python/1431_kids_with_greatest_number_of_candies.py) | Easy | Array |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](./algorithm/python/1422_maximum_score_after_splitting_a_string.py) | Easy | String |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Python3](./algorithm/python/1417_reformat_the_string.py) | Easy | String |
