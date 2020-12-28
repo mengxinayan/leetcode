@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python3](./algorithm/python/1450_number_of_students_doing_homework_at_a_given_time.py) | Easy | Array |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Python3](./algorithm/python/1446_consecutive_characters.py) | [Python3](./algorithm/python/1446_consecutive_characters.py) | Easy | String |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Python3](./algorithm/python/1441_build_an_array_with_stack_operations.py) | Easy | Stack |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python3](./algorithm/python/1436_destination_city.py) | Easy | String |
