@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Python3](./algorithm/python/1475_final_prices_with_a_special_discount_in_a_shop.py) | Easy | Array |
 | 1470 | [Shuffle the Array](https://leetcode-cn.com/problems/shuffle-the-array/) | [Python3](./algorithm/python/1470_shuffle_the_array.py) | Easy | Array |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python3](./algorithm/python/1464_maximum_product_of_two_elements_in_an_array.py) | Easy | Array |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [Python3](./algorithm/python/1460_make_two_arrays_equal_by_reversing_sub-arrays.py) | Easy | Array |
