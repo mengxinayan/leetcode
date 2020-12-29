@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [Python3](./algorithm/python/1460_make_two_arrays_equal_by_reversing_sub-arrays.py) | Easy | Array |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](./algorithm/python/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) | Easy | String |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python3](./algorithm/python/1450_number_of_students_doing_homework_at_a_given_time.py) | Easy | Array |
 | 1446 | [Consecutive Characters](https://leetcode-cn.com/problems/consecutive-characters/) | [Python3](./algorithm/python/1446_consecutive_characters.py) | [Python3](./algorithm/python/1446_consecutive_characters.py) | Easy | String |
