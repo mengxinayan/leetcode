@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python3](./algorithm/python/1486_XOR_operation_in_an_array.py) | Easy | Bit Manipulation, Array |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](./algorithm/python/1480_running_sum_of_1d_array.py) | Easy | Array |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Python3](./algorithm/python/1475_final_prices_with_a_special_discount_in_a_shop.py) | Easy | Array |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python3](./algorithm/python/1470_shuffle_the_array.py) | Easy | Array |
