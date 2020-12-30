@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1507 | [Reformat Date](https://leetcode-cn.com/problems/reformat-date/) | [Python3](./algorithm/python/1507_reformat_date.py) | Easy | String |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) | [Python3](./algorithm/python/1502_can_make_arithmetic_progression_from_sequence.py) | Easy | Sort, Array |
 | 1496 | [Path Crossing](https://leetcode-cn.com/problems/path-crossing/) | [Python3](./algorithm/python/1496_path_crossing.py) | Easy | String |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Python3](./algorithm/python/1491_average_salaray_excluding_the_minimum_and_maximum_salary.py)| Easy | Sort, Array |
