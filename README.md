@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [Python3](./algorithm/python/1496_path_crossing.py) | Easy | String |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Python3](./algorithm/python/1491_average_salaray_excluding_the_minimum_and_maximum_salary.py)| Easy | Sort, Array |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python3](./algorithm/python/1486_XOR_operation_in_an_array.py) | Easy | Bit Manipulation, Array |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](./algorithm/python/1480_running_sum_of_1d_array.py) | Easy | Array |
