@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1512 | [Number of Good Pairs](https://leetcode-cn.com/problems/number-of-good-pairs/) | [Python3](./algorithm/python/1512_number_of_good_pairs.py) | Easy | Array, Hash Table, Math |
 | 1507 | [Reformat Date](https://leetcode-cn.com/problems/reformat-date/) | [Python3](./algorithm/python/1507_reformat_date.py) | Easy | String |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) | [Python3](./algorithm/python/1502_can_make_arithmetic_progression_from_sequence.py) | Easy | Sort, Array |
 | 1496 | [Path Crossing](https://leetcode-cn.com/problems/path-crossing/) | [Python3](./algorithm/python/1496_path_crossing.py) | Easy | String |
