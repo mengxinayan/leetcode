@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python3](./algorithm/python/1528_shuffle_string.py) | Easy | Sort |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Python3](./algorithm/python/1523_count_odd_numbers_in_an_interval_range.py) | Easy | Math |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Python3](./algorithm/python/1518_water_bottles.py) | Easy | Greedy |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python3](./algorithm/python/1512_number_of_good_pairs.py) | Easy | Array, Hash Table, Math |
