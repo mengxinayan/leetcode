@@ -13,7 +13,8 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [Python3](./algorithm/python/1539_Kth_missing_positive_number.py) | Easy | 
+| 1544 | [Make The String Great](https://leetcode-cn.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | Easy | Stack, String |
+| 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [Python3](./algorithm/python/1539_Kth_missing_positive_number.py) | Easy | Array, Hash Table |
 | 1534 | [Count Good Triplets](https://leetcode-cn.com/problems/count-good-triplets/) | [Python3](./algorithm/python/1534_count_good_triplets.py) | Easy | Array |
 | 1528 | [Shuffle String](https://leetcode-cn.com/problems/shuffle-string/) | [Python3](./algorithm/python/1528_shuffle_string.py) | Easy | Sort |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/) | [Python3](./algorithm/python/1523_count_odd_numbers_in_an_interval_range.py) | Easy | Math |
