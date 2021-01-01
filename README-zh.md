@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1560 | [Most Visited Sector in  a Circular Track](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/) | [Python3](./algorithm/python/1560_most_visited_sector_in_a_circular_track.py) | Easy | Array |
 | 1556 | [Thousand Separator](https://leetcode-cn.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | Easy | String |
 | 1550 | [Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Python3](./algorithm/python/1550_three_consecutive_odds.py) | Easy | Array |
 | 1544 | [Make The String Great](https://leetcode-cn.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | Easy | Stack, String |
