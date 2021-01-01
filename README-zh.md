@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1556 | [Thousand Separator](https://leetcode-cn.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | Easy | String |
 | 1550 | [Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Python3](./algorithm/python/1550_three_consecutive_odds.py) | Easy | Array |
 | 1544 | [Make The String Great](https://leetcode-cn.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | Easy | Stack, String |
 | 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [Python3](./algorithm/python/1539_Kth_missing_positive_number.py) | Easy | Array, Hash Table |

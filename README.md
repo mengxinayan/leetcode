@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | Easy | String |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Python3](./algorithm/python/1550_three_consecutive_odds.py) | Easy | Array |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | Easy | Stack, String |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python3](./algorithm/python/1539_Kth_missing_positive_number.py) | Easy | Array, Hash Table |
