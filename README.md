@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python3](./algorithm/python/1572_matrix_diagonal_sum.py) | Easy | Array |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Python3](./algorithm/python/1566_detect_pattern_of_length_M_repeated_K_or_more_times.py) | Easy | Array |
 | 1560 | [Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Python3](./algorithm/python/1560_most_visited_sector_in_a_circular_track.py) | Easy | Array |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | Easy | String |
