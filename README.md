@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python3](./algorithm/python/1582_special_positions_in_a_binary_matrix.py) | Easy | Array |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Python3](./algorithm/python/1576_replace_add_?'s_to_avoid_consecutive_repeating_characters.py) | Easy | String |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python3](./algorithm/python/1572_matrix_diagonal_sum.py) | Easy | Array |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Python3](./algorithm/python/1566_detect_pattern_of_length_M_repeated_K_or_more_times.py) | Easy | Array |
