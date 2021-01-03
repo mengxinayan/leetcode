@@ -12,7 +12,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
-| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | Easy |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python3](./algorithm/python/1603_design_parking_system.py) | [Python3](./algorithm/python/1603_design_parking_system.py) | Easy | Design |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | Easy | Stack |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Python3](./algorithm/python/1592_rearrange_spaces_between_words.py) | Easy | String |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python3](./algorithm/python/1588_sum_of_all_odd_length_subarrays.py) | Easy | Array |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python3](./algorithm/python/1582_special_positions_in_a_binary_matrix.py) | Easy | Array |
