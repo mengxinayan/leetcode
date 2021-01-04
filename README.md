@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Python3](./algorithm/python/1608_special_array_with_X_elements_greater_than_or_equal_X.py) | Easy | Array |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python3](./algorithm/python/1603_design_parking_system.py) | [Python3](./algorithm/python/1603_design_parking_system.py) | Easy | Design |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | Easy | Stack |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Python3](./algorithm/python/1592_rearrange_spaces_between_words.py) | Easy | String |
