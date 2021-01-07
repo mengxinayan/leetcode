@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | Easy | String |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Python3](./algorithm/python/1619_mean_of_array_after_removing_some_elements.py) | Easy | Array |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](./algorithm/python/1614_maximum_nesting_depth_of_the_parentheses.py) | Easy | String |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Python3](./algorithm/python/1608_special_array_with_X_elements_greater_than_or_equal_X.py) | Easy | Array |
