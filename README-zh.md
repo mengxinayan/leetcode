@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1629 | [Slowest Key](https://leetcode-cn.com/problems/slowest-key/) | [Python3](./algorithm/python/1629_slowest_key.py) | [Python3](./algorithm/python/1629_slowest_key.py) | Easy | Array |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | Easy | String |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/) | [Python3](./algorithm/python/1619_mean_of_array_after_removing_some_elements.py) | Easy | Array |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](./algorithm/python/1614_maximum_nesting_depth_of_the_parentheses.py) | Easy | String |
