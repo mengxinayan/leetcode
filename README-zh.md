@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/) | [Python3](./algorithm/python/1636_sort_array_by_increasing_frequency.py) | Easy | Sort, Array |
 | 1629 | [Slowest Key](https://leetcode-cn.com/problems/slowest-key/) | [Python3](./algorithm/python/1629_slowest_key.py) | [Python3](./algorithm/python/1629_slowest_key.py) | Easy | Array |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | Easy | String |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/) | [Python3](./algorithm/python/1619_mean_of_array_after_removing_some_elements.py) | Easy | Array |
