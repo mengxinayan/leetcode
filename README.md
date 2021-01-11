@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Python3](./algorithm/python/1640_check_array_formation_through_concatenation.py) | Easy | Sort, Array, Hash Table |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Python3](./algorithm/python/1636_sort_array_by_increasing_frequency.py) | Easy | Sort, Array |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [Python3](./algorithm/python/1629_slowest_key.py) | [Python3](./algorithm/python/1629_slowest_key.py) | Easy | Array |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | Easy | String |
