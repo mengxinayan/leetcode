@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1652 | [Defuse the Bomb](https://leetcode-cn.com/problems/defuse-the-bomb/) | [Python3](./algorithm/python/1652_defuse_the_bomb.py) | Easy | Array |
 | 1646 | [Get Maximum in Generated Array](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | [Python3](./algorithm/python/1646_get_maximum_in_generated_array.py) | Easy | Array |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode-cn.com/problems/check-array-formation-through-concatenation/) | [Python3](./algorithm/python/1640_check_array_formation_through_concatenation.py) | Easy | Sort, Array, Hash Table |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/) | [Python3](./algorithm/python/1636_sort_array_by_increasing_frequency.py) | Easy | Sort, Array |
