@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](./algorithm/python/1662_check_if_two_string_arrays_are_equivalent.py) | Easy | String |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [Python3](./algorithm/python/1656_design_an_ordered_stream.py) | Easy | Design, Array |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Python3](./algorithm/python/1652_defuse_the_bomb.py) | Easy | Array |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Python3](./algorithm/python/1646_get_maximum_in_generated_array.py) | Easy | Array |
