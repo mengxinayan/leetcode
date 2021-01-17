@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1672 | [Richest Customer Wealth](https://leetcode-cn.com/problems/richest-customer-wealth/) | [Python3](./algorithm/python/1672_richest_customer_wealth.py) | Easy | Array |
 | 1668 | [Maximum Repeating Substring](https://leetcode-cn.com/problems/maximum-repeating-substring/) | [Python3](./algorithm/python/1668_maximum_repeating_substring.py) | Easy | String |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](./algorithm/python/1662_check_if_two_string_arrays_are_equivalent.py) | Easy | String |
 | 1656 | [Design an Ordered Stream](https://leetcode-cn.com/problems/design-an-ordered-stream/) | [Python3](./algorithm/python/1656_design_an_ordered_stream.py) | Easy | Design, Array |
