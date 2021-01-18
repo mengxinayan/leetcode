@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Python3](./algorithm/python/1678_goal_parser_interpretation.py) | Easy | String |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python3](./algorithm/python/1672_richest_customer_wealth.py) | Easy | Array |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python3](./algorithm/python/1668_maximum_repeating_substring.py) | Easy | String |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](./algorithm/python/1662_check_if_two_string_arrays_are_equivalent.py) | Easy | String |
