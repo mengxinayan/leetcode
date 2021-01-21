@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1694 | [Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | Easy | String |
 | 1688 | [Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | Easy | Backtracking |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/) | [Python3](./algorithm/python/1684_count_the_number_of_consistent_strings.py) | Easy | String |
 | 1678 | [Goal Parser Interpretation](https://leetcode-cn.com/problems/goal-parser-interpretation/) | [Python3](./algorithm/python/1678_goal_parser_interpretation.py) | Easy | String |
