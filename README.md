@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](./algorithm/python/1700_number_of_students_unable_to_eat_lunch.py) | Easy | Array |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | Easy | String |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | Easy | Backtracking |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python3](./algorithm/python/1684_count_the_number_of_consistent_strings.py) | Easy | String |
