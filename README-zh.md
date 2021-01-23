@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | Easy | String |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](./algorithm/python/1700_number_of_students_unable_to_eat_lunch.py) | Easy | Array |
 | 1694 | [Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | Easy | String |
 | 1688 | [Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | Easy | Backtracking |
