@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Python3](./algorithm/python/1710_maximum_units_on_a_truck.py) | Easy | Greedy, Sort |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | Easy | String |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](./algorithm/python/1700_number_of_students_unable_to_eat_lunch.py) | Easy | Array |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | Easy | String |
