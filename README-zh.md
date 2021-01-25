@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1720 | [Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [Python3](./algorithm/python/1720_decode_XORed_array.py) | Easy | Bit Manipulation |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | [Python3](./algorithm/python/1716_calculate_money_in_leetcode_bank.py) | Easy | Greedy, Math |
 | 1710 | [Maximum Units on a Truck](https://leetcode-cn.com/problems/maximum-units-on-a-truck/) | [Python3](./algorithm/python/1710_maximum_units_on_a_truck.py) | Easy | Greedy, Sort |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | Easy | String |
