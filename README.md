@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](./algorithm/python/1725_number_of_rectangles_that_can_form_the_largest_square.py) | Easy | Greedy |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Python3](./algorithm/python/1720_decode_XORed_array.py) | Easy | Bit Manipulation 
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Python3](./algorithm/python/1716_calculate_money_in_leetcode_bank.py) | Easy | Greedy, Math |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Python3](./algorithm/python/1710_maximum_units_on_a_truck.py) | Easy | Greedy, Sort |
