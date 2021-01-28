@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | Easy | Greedy, String |
 | 1732 | [Find the Highest Altitude](https://leetcode-cn.com/problems/find-the-highest-altitude/) | [Python3](./algorithm/python/1732_find_the_highest_altitude.py) | Easy | Array |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](./algorithm/python/1725_number_of_rectangles_that_can_form_the_largest_square.py) | Easy | Greedy |
 | 1720 | [Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [Python3](./algorithm/python/1720_decode_XORed_array.py) | Easy | Bit Manipulation |
