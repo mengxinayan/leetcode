@@ -371,6 +371,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | Easy | Math |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | Easy | Math |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | Medium | Recursion, Linked List, Math |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
 
