@@ -372,6 +372,7 @@
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | Easy | Math |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | Easy | Math |
+| 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | String, Dynamic Programming |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | Medium | Recursion, Linked List, Math |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | Easy | Array, Hash Table |
