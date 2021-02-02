@@ -370,6 +370,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | Easy | String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | Easy | Math |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | Medium | Math, String |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | Easy | Math |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | String |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | String, Dynamic Programming |
