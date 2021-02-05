@@ -368,6 +368,7 @@
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
+| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | Medium | Array, Two Pointers |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | Easy | String |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | Math, String |
