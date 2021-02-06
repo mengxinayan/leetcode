@@ -313,7 +313,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](./algorithm/python/242_valid_anagram.py) | Easy | Sort, Hash Table |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python3](./algorithm/python/237_delete_node_in_a_linked_list.py) | Easy | Linked List |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python3](./algorithm/python/235_lowest_common_ancestor_of_a_binary_search_tree.py) | Easy | Tree |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./algorithm/python/234_palindrome_linked_list.py) | Easy | Linked List, Two Points |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./algorithm/python/234_palindrome_linked_list.py) | Easy | Linked List, Two Pointers |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python3](./algorithm/python/232_implement_queue_using_stacks.py) | Easy | Stack, Design |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python3](./algorithm/python/231_power_of_two.py) | Easy | Bit Manipulation, Math |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python3](./algorithm/python/228_summary_ranges.py) | Easy | Array |
