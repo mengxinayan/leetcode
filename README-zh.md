@@ -159,7 +159,7 @@
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [Python3](./algorithm/python/941_valid_mountain_array.py) | 简单 | 数组 |
 | 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [Python3](./algorithm/python/938_range_sum_of_BST.py) | 简单 | 树, 递归 |
 | 937 | [Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Python3](./algorithm/python/937_reorder_data_in_log_files.py) | 简单 | 字符串 |
-| 933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | 简单 | Queue |
+| 933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | 简单 | 队列 |
 | 929 | [Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | 简单 | 字符串 |
 | 925 | [Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | 简单 | 双指针, 字符串 |
 | 922 | [Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | 简单 | 排序, 数组 |
