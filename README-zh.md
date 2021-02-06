@@ -38,7 +38,7 @@
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/) | [Python3](./algorithm/python/1619_mean_of_array_after_removing_some_elements.py) | Easy | Array |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](./algorithm/python/1614_maximum_nesting_depth_of_the_parentheses.py) | Easy | String |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Python3](./algorithm/python/1608_special_array_with_X_elements_greater_than_or_equal_X.py) | Easy | Array |
-| 1603 | [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Python3](./algorithm/python/1603_design_parking_system.py) | [Python3](./algorithm/python/1603_design_parking_system.py) | Easy | Design |
+| 1603 | [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Python3](./algorithm/python/1603_design_parking_system.py) | Easy | Design |
 | 1598 | [Crawler Log Folder](https://leetcode-cn.com/problems/crawler-log-folder/) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | Easy | Stack |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [Python3](./algorithm/python/1592_rearrange_spaces_between_words.py) | Easy | String |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [Python3](./algorithm/python/1588_sum_of_all_odd_length_subarrays.py) | Easy | Array |
