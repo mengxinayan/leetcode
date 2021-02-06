@@ -144,7 +144,7 @@
 | 1005 | [Maximize Sum of Array After K Negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | [Python3](./algorithm/python/1005_maximize_sum_of_array_after_k_negations.py) | 简单 | 贪心算法 |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [Python3](./algorithm/python/1002_find_common_characters.py) | 简单 | 数组, 哈希表 |
 | 999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | [Python3](./algorithm/python/999_available_captures_for_rook.py) | 简单 | 数组 |
-| 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | 简单 | Graph |
+| 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | 简单 | 图 |
 | 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | 简单 | 树, 广度优先搜索 |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | 简单 | 数组 |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | 简单 | 数组 |
