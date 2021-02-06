@@ -22,7 +22,7 @@
 | 1704 | [Determine if String Halves Are Alike](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | 简单 | 字符串 |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](./algorithm/python/1700_number_of_students_unable_to_eat_lunch.py) | 简单 | 数组 |
 | 1694 | [Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | 简单 | 字符串 |
-| 1688 | [Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | 简单 | Backtracking |
+| 1688 | [Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | 简单 | 回溯算法 |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/) | [Python3](./algorithm/python/1684_count_the_number_of_consistent_strings.py) | 简单 | 字符串 |
 | 1678 | [Goal Parser Interpretation](https://leetcode-cn.com/problems/goal-parser-interpretation/) | [Python3](./algorithm/python/1678_goal_parser_interpretation.py) | 简单 | 字符串 |
 | 1672 | [Richest Customer Wealth](https://leetcode-cn.com/problems/richest-customer-wealth/) | [Python3](./algorithm/python/1672_richest_customer_wealth.py) | 简单 | 数组 |
@@ -287,7 +287,7 @@
 | 409 | [Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/) | [Python3](./algorithm/python/409_longest_palindrome.py) | 简单 | 哈希表 |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [Python3](./algorithm/python/405_convert_a_number_to_hexadecimal.py) | 简单 | Bit Manipulation |
 | 403 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Python3](./algorithm/python/403_sum_of_left_leaves.py) | 简单 | Tree |
-| 401 | [Binary Watch](https://leetcode-cn.com/problems/binary-watch/) | [Python3](./algorithm/python/401_binary_watch.py) | 简单 | Bit Manipulation, Backtracking |
+| 401 | [Binary Watch](https://leetcode-cn.com/problems/binary-watch/) | [Python3](./algorithm/python/401_binary_watch.py) | 简单 | Bit Manipulation, 回溯算法 |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [Python3](./algorithm/python/392_is_subsequence.py) | 简单 | 贪心算法, Binary Search, Dynamic Programming |
 | 389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/) | [Python3](./algorithm/python/389_find_the_difference.py) | 简单 | Bit Manipulation, 哈希表 |
 | 387 | [First Unique CHaracter in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py) | 简单 | 哈希表, 字符串 |
