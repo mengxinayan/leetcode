@@ -104,11 +104,11 @@
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python3](./algorithm/python/1287_element_appearing_more_than_25%_in_sorted_array.py) | 简单 | 数组 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python3](./algorithm/python/1281_subtract_the_product_and_sum_of_digits_of_an_Integer.py) | 简单 | 数学 |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Python3](./algorithm/python/1275_find_winner_on_a_tic_tac_toe_game.py) | 简单 | 数组 |
-| 1266 | [Minimum Time Visiting All Points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | [Python3](./algorithm/python/1266_minimum_time_visiting_all_points.py) | 简单 | Geometry, 数组 |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | [Python3](./algorithm/python/1266_minimum_time_visiting_all_points.py) | 简单 | 几何, 数组 |
 | 1260 | [Shift 2D Grid](https://leetcode-cn.com/problems/shift-2d-grid/) | [Python3](./algorithm/python/1260_shift_2D_grid.py) | 简单 | 数组 |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | [Python3](./algorithm/python/1252_cells_with_odd_values_in_matrix.py) | 简单 | 数组 |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Python3](./algorithm/python/1237_find_positive_integer_solution_for_a_given_equation.py) | 简单 | 数学, 二分查找 |
-| 1232 | [Check If It a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [Python3](./algorithm/python/1232_check_if_it_is_a_straight_line.py) | 简单 | Geometry, 数组, 数学 | 
+| 1232 | [Check If It a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [Python3](./algorithm/python/1232_check_if_it_is_a_straight_line.py) | 简单 | 几何, 数组, 数学 | 
 | 1221 | [Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [Python3](./algorithm/python/1221_split_a_string_in_balanced_strings.py) | 简单 | 贪心算法, 字符串 |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Python3](./algorithm/python/1217_minimum_cost_to_move_chips_to_the_same_position.py) | 简单 | 贪心算法, 数组, 数学 |
 | 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Python3](./algorithm/python/1207_unique_number_of_occurrences.py) | 简单 | 哈希表 |
@@ -170,7 +170,7 @@
 | 897 | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Python3](./algorithm/python/897_increasing_order_search_tree.py) | 简单 | Tree, Depth-first Search |
 | 896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | [Python3](./algorithm/python/896_monotonic_array.py) | 简单 | 数组 |
 | 893 | [Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/) | [Python3](./algorithm/python/893_groups_of_special-equivalent_strings.py) | 简单 | 字符串 |
-| 892 | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [Python3](./algorithm/python/892_surface_area_of_3D_shapes.py) | 简单 | Geometry, 数学 |
+| 892 | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [Python3](./algorithm/python/892_surface_area_of_3D_shapes.py) | 简单 | 几何, 数学 |
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [Python3](./algorithm/python/888_fair_candy_swap.py) | 简单 | 数组 |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [Python3](./algorithm/python/884_uncommon_words_from_two_sentences.py) | 简单 | 哈希表 |
 | 883 | [Projection Area of 3D shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Python3](./algorithm/python/883_projection_area_of_3D_shapes.py) | 简单 | 数学 |
