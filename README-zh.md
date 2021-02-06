@@ -130,7 +130,7 @@
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [Python3](./algorithm/python/1071_greatest_common_divisor_of_strings.py) | 简单 | 字符串 |
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | [Python3](./algorithm/python/1051_height_checker.py) | 简单 | 数组 | 
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](./algorithm/python/1047_remove_all_adjacent_duplicates_in_string.py) | 简单 | 栈 |
-| 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | 简单 | Heap, 贪心算法 |
+| 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | 简单 | 堆, 贪心算法 |
 | 1037 | [Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/) | [Python3](./algorithm/python/1037_valid_boomerang.py) | 简单 | 数学 |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [Python3](./algorithm/python/1033_moving_stones_until_consecutive.py) | 简单 | 脑筋急转弯 |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Python3](./algorithm/python/1030_matrix_cells_in_distance_order.py) | 简单 | 排序 |
@@ -212,7 +212,7 @@
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | 简单 | 设计, 哈希表 |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [Python3](./algorithm/python/705_design_hashset.py) | 简单 | 设计, 哈希表 |
 | 704 | [Binary Search](https://leetcode-cn.com/problems/binary-search/) | [Python3](./algorithm/python/704_binary_search.py) | 简单 | 二分查找 |
-| 703 | [Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [Python3](./algorithm/python/703_kth_largest_element_in_a_stream.py) | 简单 | Heap |
+| 703 | [Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [Python3](./algorithm/python/703_kth_largest_element_in_a_stream.py) | 简单 | 堆 |
 | 700 | [Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [Python3](./algorithm/python/700_search_in_a_binary_search_tree.py) | 简单 | 树 |
 | 697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | 简单 | 数组 |
 | 696 | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | 简单 | 字符串 |
