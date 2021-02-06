@@ -132,7 +132,7 @@
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](./algorithm/python/1047_remove_all_adjacent_duplicates_in_string.py) | 简单 | 栈 |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | 简单 | Heap, 贪心算法 |
 | 1037 | [Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/) | [Python3](./algorithm/python/1037_valid_boomerang.py) | 简单 | 数学 |
-| 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [Python3](./algorithm/python/1033_moving_stones_until_consecutive.py) | 简单 | Brainteaser |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [Python3](./algorithm/python/1033_moving_stones_until_consecutive.py) | 简单 | 脑筋急转弯 |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Python3](./algorithm/python/1030_matrix_cells_in_distance_order.py) | 简单 | 排序 |
 | 1025 | [Divisor Game](https://leetcode-cn.com/problems/divisor-game/) | [Python3](./algorithm/python/1025_divisor_game.py) | 简单 | 数学, Dynamic Programming |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python3](./algorithm/python/1022_sum_of_root_to_leaf_binary_numbers.py) | 简单 | Tree |
@@ -303,7 +303,7 @@
 | 326 | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | 简单 | 数学 |
 | 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | 简单 | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | 简单 | 哈希表 |
-| 292 | [Nim Game](https://leetcode-cn.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | 简单 | Brainteaser, Minimax |
+| 292 | [Nim Game](https://leetcode-cn.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | 简单 | 脑筋急转弯, Minimax |
 | 290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | [Python3](./algorithm/python/290_word_pattern.py) | 简单 | 哈希表 |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [Python3](./algorithm/python/283_move_zeroes.py) | 简单 | 数组, Two Points |
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/) | [Python3](./algorithm/python/278_first_bad_version.py) | 简单 | 二分查找 |
