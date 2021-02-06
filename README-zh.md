@@ -147,7 +147,7 @@
 | 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | 简单 | Graph |
 | 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | 简单 | 树, 广度优先搜索 |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | 简单 | 数组 |
-| 985 | [Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | 简单 | Array |
+| 985 | [Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | 简单 | 数组 |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Python3](./algorithm/python/977_squares_of_a_sorted_array.py) | 简单 | 数组, Two Pointers |
 | 976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [Python3](./algorithm/python/976_largest_perimeter_triangle.py) | 简单 | 排序, 数学 |
 | 970 | [Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/) | [Python3](./algorithm/python/970_powerful_integers.py) | 简单 | 哈希表, 数学 |
@@ -226,7 +226,7 @@
 | 671 | [Second Minimum Node in a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [Python3](./algorithm/python/671_second_minimum_node_in_a_binary_tree.py) | 简单 | 树 |
 | 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Python3](./algorithm/python/669_trim_a_binary_search_tree.py) | 简单 | 树 |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Python3](./algorithm/python/665_non-decreasing_array.py) | 简单 | 数组 |
-| 661 | [Image Smoother](https://leetcode-cn.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | 简单 | Array |
+| 661 | [Image Smoother](https://leetcode-cn.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | 简单 | 数组 |
 | 657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | 简单 | 字符串 |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [Python3](./algorithm/python/653_two_sum_IV_input_is_a_BST.py) | 简单 | 树 |
 | 645 | [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/) | [Python3](./algorithm/python/645_set_mismatch.py) | 简单 | 哈希表, 数学 |
