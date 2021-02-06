@@ -206,7 +206,7 @@
 | 733 | [Flood Fill](https://leetcode-cn.com/problems/flood-fill/) | [Python3](./algorithm/python/733_flood_fill.py) | 简单 | 深度优先搜索 |
 | 728 | [Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/) | [Python3](./algorithm/python/728_self_dividing_numbers.py) | 简单 | 数学 |
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [Python3](./algorithm/python/724_find_pivot_index.py) | 简单 | 数组 |
-| 720 | [Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | 简单 | Trie, 哈希表 |
+| 720 | [Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | 简单 | 字典树, 哈希表 |
 | 717 | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | 简单 | 数组 |
 | 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | 简单 | 字符串 |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | 简单 | 设计, 哈希表 |
