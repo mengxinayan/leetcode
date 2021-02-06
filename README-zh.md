@@ -85,7 +85,7 @@
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python3](./algorithm/python/1374_generate_a_string_with_characters_that_have_odd_counts.py) | 简单 | 字符串 |
 | 1370 | [Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Python3](./algorithm/python/1370_increasing_decreasing_string.py) | 简单 | 排序, 字符串 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python3](./algorithm/python/1365_how_many_numbers_are_smaller_than_the_current_number.py) | 简单 | 数组, 哈希表 |
-| 1360 | [Number of Days Between Two Dates](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [Python3](./algorithm/python/1360_number_of_days_between_two_dates.py) | 简单 | None |
+| 1360 | [Number of Days Between Two Dates](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [Python3](./algorithm/python/1360_number_of_days_between_two_dates.py) | 简单 | 无 |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Python3](./algorithm/python/1356_sort_integers_by_the_number_of_1_bits.py) | 简单 | 排序, 位运算 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python3](./algorithm/python/1351_count_negative_numbers_in_a_sorted_matrix.py) | 简单 | 数组, Binary Search |
 | 1346 | [Check If and Its Double Exist](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [Python3](./algorithm/python/1346_check_if_N_and_its_double_exist.py) | 简单 | 数组 |
@@ -187,13 +187,13 @@
 | 832 | [Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/) | [Python3](./algorithm/python/832_flipping_an_image.py) | 简单 | 数组 |
 | 830 | [Position of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [Python3](./algorithm/python/830_positions_of_large_groups.py) | 简单 | 数组 |
 | 824 | [Goat Latin](https://leetcode-cn.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | 简单 | 字符串 |
-| 821 | [Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | 简单 | None |
+| 821 | [Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | 简单 | 无 |
 | 819 | [Most Common Word](https://leetcode-cn.com/problems/most-common-word/) | [Python3](./algorithm/python/819_most_common_word.py) | 简单 | 字符串 |
 | 812 | [Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/) | [Python3](./algorithm/python/812_largest_triangle_area.py) | 简单 | 数学 |
 | 811 | [Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/) | [Python3](./algorithm/python/811_subdomain_visit_count.py) | 简单 | 哈希表 |
-| 806 | [Number of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [Python3](./algorithm/python/806_number_of_lines_to_write_string.py) | 简单 | None |
+| 806 | [Number of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [Python3](./algorithm/python/806_number_of_lines_to_write_string.py) | 简单 | 无 |
 | 804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [Python3](./algorithm/python/804_unique_morse_code_words.py) | 简单 | 字符串 |
-| 796 | [Rotate String](https://leetcode-cn.com/problems/rotate-string/) | [Python3](./algorithm/python/796_rotate_string.py) | 简单 | None |
+| 796 | [Rotate String](https://leetcode-cn.com/problems/rotate-string/) | [Python3](./algorithm/python/796_rotate_string.py) | 简单 | 无 |
 | 788 | [Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/) | [Python3](./algorithm/python/788_rotated_digits.py) | 简单 | 字符串 |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [Python3](./algorithm/python/783_minimum_distance_between_BST_nodes.py) | 简单 | Tree, Recursion |
 | 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [Python3](./algorithm/python/771_jewels_and_stones.py) | 简单 | 哈希表 |
@@ -260,14 +260,14 @@
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | 简单 | 字符串 |
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [Python3](./algorithm/python/509_fibonacci_number.py) | 简单 | 数组 |
 | 507 | [Perfect Number](https://leetcode-cn.com/problems/perfect-number/) | [Python3](./algorithm/python/507_perfect_number.py) | 简单 | 数学 |
-| 506 | [Relative Ranks](https://leetcode-cn.com/problems/relative-ranks/) | [Python3](./algorithm/python/506_relative_ranks.py) | 简单 | None |
-| 504 | [Base 7](https://leetcode-cn.com/problems/base-7/) | [Python3](./algorithm/python/504_base_7.py) | 简单 | None |
+| 506 | [Relative Ranks](https://leetcode-cn.com/problems/relative-ranks/) | [Python3](./algorithm/python/506_relative_ranks.py) | 简单 | 无 |
+| 504 | [Base 7](https://leetcode-cn.com/problems/base-7/) | [Python3](./algorithm/python/504_base_7.py) | 简单 | 无 |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [Python3](./algorithm/python/501_find_mode_in_binary_search_tree.py) | 简单 | Tree |
 | 500 | [Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/) | [Python3](./algorithm/python/500_keyboard_row.py) | 简单 | 哈希表 |
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Python3](./algorithm/python/496_next_greater_element_I.py) | 简单 | 栈 |
-| 492 | [Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/) | [Python3](./algorithm/python/492_construct_the_rectangle.py) | 简单 | None |
+| 492 | [Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/) | [Python3](./algorithm/python/492_construct_the_rectangle.py) | 简单 | 无 |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/) | [Python3](./algorithm/python/485_max_consecutive_ones.py) | 简单 | 数组 |
-| 482 | [License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/) | [Python3](./algorithm/python/482_license_key_formatting.py) | 简单 | None |
+| 482 | [License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/) | [Python3](./algorithm/python/482_license_key_formatting.py) | 简单 | 无 |
 | 476 | [Number Complement](https://leetcode-cn.com/problems/number-complement/) | [Python3](./algorithm/python/476_number_complement.py) | 简单 | 位运算 |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | 简单 | Binary Search |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | 简单 | 哈希表 |
@@ -283,7 +283,7 @@
 | 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | 简单 | 字符串 |
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | 简单 | 字符串 |
 | 414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/) | [Python3](./algorithm/python/414_third_maximum_number.py) | 简单 | 数组 |
-| 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py) | 简单 | None |
+| 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py) | 简单 | 无 |
 | 409 | [Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/) | [Python3](./algorithm/python/409_longest_palindrome.py) | 简单 | 哈希表 |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [Python3](./algorithm/python/405_convert_a_number_to_hexadecimal.py) | 简单 | 位运算 |
 | 403 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Python3](./algorithm/python/403_sum_of_left_leaves.py) | 简单 | Tree |
