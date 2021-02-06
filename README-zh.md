@@ -13,52 +13,52 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | 简单 | Greedy, String |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | 简单 | Greedy, 字符串 |
 | 1732 | [Find the Highest Altitude](https://leetcode-cn.com/problems/find-the-highest-altitude/) | [Python3](./algorithm/python/1732_find_the_highest_altitude.py) | 简单 | 数组 |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](./algorithm/python/1725_number_of_rectangles_that_can_form_the_largest_square.py) | 简单 | Greedy |
 | 1720 | [Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [Python3](./algorithm/python/1720_decode_XORed_array.py) | 简单 | Bit Manipulation |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | [Python3](./algorithm/python/1716_calculate_money_in_leetcode_bank.py) | 简单 | Greedy, 数学 |
 | 1710 | [Maximum Units on a Truck](https://leetcode-cn.com/problems/maximum-units-on-a-truck/) | [Python3](./algorithm/python/1710_maximum_units_on_a_truck.py) | 简单 | Greedy, Sort |
-| 1704 | [Determine if String Halves Are Alike](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | 简单 | String |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [Python3](./algorithm/python/1704_determine_if_string_halves_are_alike.py) | 简单 | 字符串 |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/) | [Python3](./algorithm/python/1700_number_of_students_unable_to_eat_lunch.py) | 简单 | 数组 |
-| 1694 | [Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | 简单 | String |
+| 1694 | [Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [Python3](./algorithm/python/1694_reformat_phone_number.py) | 简单 | 字符串 |
 | 1688 | [Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [Python3](./algorithm/python/1688_count_of_matches_in_tournament.py) | 简单 | Backtracking |
-| 1684 | [Count the Number of Consistent Strings](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/) | [Python3](./algorithm/python/1684_count_the_number_of_consistent_strings.py) | 简单 | String |
-| 1678 | [Goal Parser Interpretation](https://leetcode-cn.com/problems/goal-parser-interpretation/) | [Python3](./algorithm/python/1678_goal_parser_interpretation.py) | 简单 | String |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/) | [Python3](./algorithm/python/1684_count_the_number_of_consistent_strings.py) | 简单 | 字符串 |
+| 1678 | [Goal Parser Interpretation](https://leetcode-cn.com/problems/goal-parser-interpretation/) | [Python3](./algorithm/python/1678_goal_parser_interpretation.py) | 简单 | 字符串 |
 | 1672 | [Richest Customer Wealth](https://leetcode-cn.com/problems/richest-customer-wealth/) | [Python3](./algorithm/python/1672_richest_customer_wealth.py) | 简单 | 数组 |
-| 1668 | [Maximum Repeating Substring](https://leetcode-cn.com/problems/maximum-repeating-substring/) | [Python3](./algorithm/python/1668_maximum_repeating_substring.py) | 简单 | String |
-| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](./algorithm/python/1662_check_if_two_string_arrays_are_equivalent.py) | 简单 | String |
+| 1668 | [Maximum Repeating Substring](https://leetcode-cn.com/problems/maximum-repeating-substring/) | [Python3](./algorithm/python/1668_maximum_repeating_substring.py) | 简单 | 字符串 |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python3](./algorithm/python/1662_check_if_two_string_arrays_are_equivalent.py) | 简单 | 字符串 |
 | 1656 | [Design an Ordered Stream](https://leetcode-cn.com/problems/design-an-ordered-stream/) | [Python3](./algorithm/python/1656_design_an_ordered_stream.py) | 简单 | Design, 数组 |
 | 1652 | [Defuse the Bomb](https://leetcode-cn.com/problems/defuse-the-bomb/) | [Python3](./algorithm/python/1652_defuse_the_bomb.py) | 简单 | 数组 |
 | 1646 | [Get Maximum in Generated Array](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | [Python3](./algorithm/python/1646_get_maximum_in_generated_array.py) | 简单 | 数组 |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode-cn.com/problems/check-array-formation-through-concatenation/) | [Python3](./algorithm/python/1640_check_array_formation_through_concatenation.py) | 简单 | Sort, 数组, 哈希表 |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/) | [Python3](./algorithm/python/1636_sort_array_by_increasing_frequency.py) | 简单 | Sort, 数组 |
 | 1629 | [Slowest Key](https://leetcode-cn.com/problems/slowest-key/) | [Python3](./algorithm/python/1629_slowest_key.py) | 简单 | 数组 |
-| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | 简单 | String |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/) | [Python3](./algorithm/python/1624_largest_substring_between_two_equal_characters.py) | 简单 | 字符串 |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/) | [Python3](./algorithm/python/1619_mean_of_array_after_removing_some_elements.py) | 简单 | 数组 |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](./algorithm/python/1614_maximum_nesting_depth_of_the_parentheses.py) | 简单 | String |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python3](./algorithm/python/1614_maximum_nesting_depth_of_the_parentheses.py) | 简单 | 字符串 |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Python3](./algorithm/python/1608_special_array_with_X_elements_greater_than_or_equal_X.py) | 简单 | 数组 |
 | 1603 | [Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | [Python3](./algorithm/python/1603_design_parking_system.py) | 简单 | Design |
 | 1598 | [Crawler Log Folder](https://leetcode-cn.com/problems/crawler-log-folder/) | [Python3](./algorithm/python/1598_crawler_log_folder.py) | 简单 | Stack |
-| 1592 | [Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [Python3](./algorithm/python/1592_rearrange_spaces_between_words.py) | 简单 | String |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [Python3](./algorithm/python/1592_rearrange_spaces_between_words.py) | 简单 | 字符串 |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [Python3](./algorithm/python/1588_sum_of_all_odd_length_subarrays.py) | 简单 | 数组 |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix/) | [Python3](./algorithm/python/1582_special_positions_in_a_binary_matrix.py) | 简单 | 数组 |
-| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Python3](./algorithm/python/1576_replace_add_?'s_to_avoid_consecutive_repeating_characters.py) | 简单 | String |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Python3](./algorithm/python/1576_replace_add_?'s_to_avoid_consecutive_repeating_characters.py) | 简单 | 字符串 |
 | 1572 | [Matrix Diagonal Sum](https://leetcode-cn.com/problems/matrix-diagonal-sum/) | [Python3](./algorithm/python/1572_matrix_diagonal_sum.py) | 简单 | 数组 |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Python3](./algorithm/python/1566_detect_pattern_of_length_M_repeated_K_or_more_times.py) | 简单 | 数组 |
 | 1560 | [Most Visited Sector in  a Circular Track](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/) | [Python3](./algorithm/python/1560_most_visited_sector_in_a_circular_track.py) | 简单 | 数组 |
-| 1556 | [Thousand Separator](https://leetcode-cn.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | 简单 | String |
+| 1556 | [Thousand Separator](https://leetcode-cn.com/problems/thousand-separator/) | [Python3](./algorithm/python/1556_thousand_separator.py) | 简单 | 字符串 |
 | 1550 | [Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Python3](./algorithm/python/1550_three_consecutive_odds.py) | 简单 | 数组 |
-| 1544 | [Make The String Great](https://leetcode-cn.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | 简单 | Stack, String |
+| 1544 | [Make The String Great](https://leetcode-cn.com/problems/make-the-string-great/) | [Python3](./algorithm/python/1544_make_the_string_great.py) | 简单 | Stack, 字符串 |
 | 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [Python3](./algorithm/python/1539_Kth_missing_positive_number.py) | 简单 | 数组, 哈希表 |
 | 1534 | [Count Good Triplets](https://leetcode-cn.com/problems/count-good-triplets/) | [Python3](./algorithm/python/1534_count_good_triplets.py) | 简单 | 数组 |
 | 1528 | [Shuffle String](https://leetcode-cn.com/problems/shuffle-string/) | [Python3](./algorithm/python/1528_shuffle_string.py) | 简单 | Sort |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/) | [Python3](./algorithm/python/1523_count_odd_numbers_in_an_interval_range.py) | 简单 | 数学 |
 | 1518 | [Water Bottles](https://leetcode-cn.com/problems/water-bottles/) | [Python3](./algorithm/python/1518_water_bottles.py) | 简单 | Greedy |
 | 1512 | [Number of Good Pairs](https://leetcode-cn.com/problems/number-of-good-pairs/) | [Python3](./algorithm/python/1512_number_of_good_pairs.py) | 简单 | 数组, 哈希表, 数学 |
-| 1507 | [Reformat Date](https://leetcode-cn.com/problems/reformat-date/) | [Python3](./algorithm/python/1507_reformat_date.py) | 简单 | String |
+| 1507 | [Reformat Date](https://leetcode-cn.com/problems/reformat-date/) | [Python3](./algorithm/python/1507_reformat_date.py) | 简单 | 字符串 |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) | [Python3](./algorithm/python/1502_can_make_arithmetic_progression_from_sequence.py) | 简单 | Sort, 数组 |
-| 1496 | [Path Crossing](https://leetcode-cn.com/problems/path-crossing/) | [Python3](./algorithm/python/1496_path_crossing.py) | 简单 | String |
+| 1496 | [Path Crossing](https://leetcode-cn.com/problems/path-crossing/) | [Python3](./algorithm/python/1496_path_crossing.py) | 简单 | 字符串 |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Python3](./algorithm/python/1491_average_salaray_excluding_the_minimum_and_maximum_salary.py)| 简单 | Sort, 数组 |
 | 1486 | [XOR Operation in an Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [Python3](./algorithm/python/1486_XOR_operation_in_an_array.py) | 简单 | Bit Manipulation, 数组 |
 | 1480 | [Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [Python3](./algorithm/python/1480_running_sum_of_1d_array.py) | 简单 | 数组 |
@@ -66,24 +66,24 @@
 | 1470 | [Shuffle the Array](https://leetcode-cn.com/problems/shuffle-the-array/) | [Python3](./algorithm/python/1470_shuffle_the_array.py) | 简单 | 数组 |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python3](./algorithm/python/1464_maximum_product_of_two_elements_in_an_array.py) | 简单 | 数组 |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [Python3](./algorithm/python/1460_make_two_arrays_equal_by_reversing_sub-arrays.py) | 简单 | 数组 |
-| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](./algorithm/python/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) | 简单 | String |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python3](./algorithm/python/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) | 简单 | 字符串 |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python3](./algorithm/python/1450_number_of_students_doing_homework_at_a_given_time.py) | 简单 | 数组 |
-| 1446 | [Consecutive Characters](https://leetcode-cn.com/problems/consecutive-characters/) | [Python3](./algorithm/python/1446_consecutive_characters.py) | 简单 | String |
+| 1446 | [Consecutive Characters](https://leetcode-cn.com/problems/consecutive-characters/) | [Python3](./algorithm/python/1446_consecutive_characters.py) | 简单 | 字符串 |
 | 1441 | [Build an Array With Stack Operations](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [Python3](./algorithm/python/1441_build_an_array_with_stack_operations.py) | 简单 | Stack |
-| 1436 | [Destination City](https://leetcode-cn.com/problems/destination-city/) | [Python3](./algorithm/python/1436_destination_city.py) | 简单 | String |
+| 1436 | [Destination City](https://leetcode-cn.com/problems/destination-city/) | [Python3](./algorithm/python/1436_destination_city.py) | 简单 | 字符串 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [Python3](./algorithm/python/1431_kids_with_greatest_number_of_candies.py) | 简单 | 数组 |
-| 1422 | [Maximum Score After Splitting a String](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/) | [Python3](./algorithm/python/1422_maximum_score_after_splitting_a_string.py) | 简单 | String |
-| 1417 | [Reformat The String](https://leetcode-cn.com/problems/reformat-the-string/) | [Python3](./algorithm/python/1417_reformat_the_string.py) | 简单 | String |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/) | [Python3](./algorithm/python/1422_maximum_score_after_splitting_a_string.py) | 简单 | 字符串 |
+| 1417 | [Reformat The String](https://leetcode-cn.com/problems/reformat-the-string/) | [Python3](./algorithm/python/1417_reformat_the_string.py) | 简单 | 字符串 |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Python3](./algorithm/python/1413_minimum_value_to_get_positive_step_by_step_sum.py) | 简单 | 数组 |
-| 1408 | [String Matching in an Array](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [Python3](./algorithm/python/1408_string_matching_in_an_array.py) | 简单 | String |
+| 1408 | [String Matching in an Array](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [Python3](./algorithm/python/1408_string_matching_in_an_array.py) | 简单 | 字符串 |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python3](./algorithm/python/1403_minimum_subsequence_in_non-increasing_order.py) | 简单 | Greedy, Sort |
 | 1399 | [Count Largest Group](https://leetcode-cn.com/problems/count-largest-group/) | [Python3](./algorithm/python/1399_count_largest_group.py) | 简单 | 数组 |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) | [Python3](./algorithm/python/1394_find_lucky_integer_in_an_array.py) | 简单 | 数组 |
 | 1389 | [Create Target Array in the Given Order](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/) | [Python3](./algorithm/python/1389_create_target_array_in_the_given_order.py) | 简单 | 数组 |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/) | [Python3](./algorithm/python/1385_find_the_distance_value_between_two_arrays.py) | 简单 | 数组 |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [Python3](./algorithm/python/1380_lucky_numbers_in_a_matrix.py) | 简单 | 数组 |
-| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python3](./algorithm/python/1374_generate_a_string_with_characters_that_have_odd_counts.py) | 简单 | String |
-| 1370 | [Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Python3](./algorithm/python/1370_increasing_decreasing_string.py) | 简单 | Sort, String |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python3](./algorithm/python/1374_generate_a_string_with_characters_that_have_odd_counts.py) | 简单 | 字符串 |
+| 1370 | [Increasing Decreasing String](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Python3](./algorithm/python/1370_increasing_decreasing_string.py) | 简单 | Sort, 字符串 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python3](./algorithm/python/1365_how_many_numbers_are_smaller_than_the_current_number.py) | 简单 | 数组, 哈希表 |
 | 1360 | [Number of Days Between Two Dates](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [Python3](./algorithm/python/1360_number_of_days_between_two_dates.py) | 简单 | None |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Python3](./algorithm/python/1356_sort_integers_by_the_number_of_1_bits.py) | 简单 | Sort, Bit Manipulation |
@@ -91,12 +91,12 @@
 | 1346 | [Check If and Its Double Exist](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [Python3](./algorithm/python/1346_check_if_N_and_its_double_exist.py) | 简单 | 数组 |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python3](./algorithm/python/1342_number_of_steps_to_reduce_a_number_to_zero.py) | 简单 | Bit Manipulation |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [Python3](./algorithm/python/1337_the_K_weakest_rows_in_a_matrix.py) | 简单 | 数组, Binary Search |
-| 1332 | [Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [Python3](./algorithm/python/1332_remove_palindromic_subsequences.py) | 简单 | String |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [Python3](./algorithm/python/1332_remove_palindromic_subsequences.py) | 简单 | 字符串 |
 | 1331 | [Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/) | [Python3](./algorithm/python/1331_rank_transform_of_an_array.py) | 简单 | 数组 |
 | 1323 | [Maximum 69 Number](https://leetcode-cn.com/problems/maximum-69-number/) | [Python3](./algorithm/python/1323_maximum_69_number.py) | 简单 | 数学 |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python3](./algorithm/python/1317_convert_integer_to_the_sum_of_two_np-zero_integers.py) | 简单 | 数学 |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | [Python3](./algorithm/python/1313_decompress_run-length_encoded_list.py) | 简单 | 数组 |
-| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Python3](./algorithm/python/1309_decrypt_string_from_alphabet_to_integer_mapping.py) | 简单 | String |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Python3](./algorithm/python/1309_decrypt_string_from_alphabet_to_integer_mapping.py) | 简单 | 字符串 |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python3](./algorithm/python/1304_find_N_unique_integers_sum_up_to_zero.py) | 简单 | 数组 |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python3](./algorithm/python/1299_replace_elements_with_greatest_element_on_right_side.py) | 简单 | 数组 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [Python3](./algorithm/python/1295_find_numbers_with_even_number_of_digits.py) | 简单 | 数组 |
@@ -109,25 +109,25 @@
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | [Python3](./algorithm/python/1252_cells_with_odd_values_in_matrix.py) | 简单 | 数组 |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Python3](./algorithm/python/1237_find_positive_integer_solution_for_a_given_equation.py) | 简单 | 数学, Binary Search |
 | 1232 | [Check If It a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [Python3](./algorithm/python/1232_check_if_it_is_a_straight_line.py) | 简单 | Geometry, 数组, 数学 | 
-| 1221 | [Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [Python3](./algorithm/python/1221_split_a_string_in_balanced_strings.py) | 简单 | Greedy, String |
+| 1221 | [Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [Python3](./algorithm/python/1221_split_a_string_in_balanced_strings.py) | 简单 | Greedy, 字符串 |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Python3](./algorithm/python/1217_minimum_cost_to_move_chips_to_the_same_position.py) | 简单 | Greedy, 数组, 数学 |
 | 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Python3](./algorithm/python/1207_unique_number_of_occurrences.py) | 简单 | 哈希表 |
 | 1200 | [Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/) | [Python3](./algorithm/python/1200_minimum_absolute_difference.py) | 简单 | 数组 |
-| 1189 | [Maximum Number of Balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [Python3](./algorithm/python/1189_maximum_number_of_balloons.py) | 简单 | 哈希表, String |
+| 1189 | [Maximum Number of Balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [Python3](./algorithm/python/1189_maximum_number_of_balloons.py) | 简单 | 哈希表, 字符串 |
 | 1185 | [Day of the Week](https://leetcode-cn.com/problems/day-of-the-week/) | [Python3](./algorithm/python/1185_day_of_the_week.py) | 简单 | 数组 |
 | 1184 | [Distance Between Bus Stops](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Python3](./algorithm/python/1184_distance_between_bus_stops.py) | 简单 | 数组 |
 | 1175 | [Prime Arrangements](https://leetcode-cn.com/problems/prime-arrangements/) | [Python3](./algorithm/python/1175_prime_arrangements.py) | 简单 | 数学 |
-| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Python3](./algorithm/python/1170_compare_strings_by_frequency_of_the_smallest_character.py) | 简单 | 数组, String |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Python3](./algorithm/python/1170_compare_strings_by_frequency_of_the_smallest_character.py) | 简单 | 数组, 字符串 |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [Python3](./algorithm/python/1160_find_words_that_can_be_formed_by_characters.py) | 简单 | 数组, 哈希表 |
 | 1154 | [Day of the Year](https://leetcode-cn.com/problems/day-of-the-year/) | [Python3](./algorithm/python/1154_day_of_the_year.py) | 简单 | 数学 |
 | 1137 | [N-th Tribonacci Number](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [Python3](./algorithm/python/1137_N-th_Tribonacci_Number.py) | 简单 | Recursion |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [Python3](./algorithm/python/1128_number_of_equivalent_domino_pairs.py) | 简单 | 数组 |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array/) | [Python3](./algorithm/python/1122_relative_sort_array.py) | 简单 | Sort, 数组 |
-| 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | 简单 | String |
+| 1108 | [Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [Python3](./algorithm/python/1108_defanging_an_IP_address.py) | 简单 | 字符串 |
 | 1103 | [Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [Python3](./algorithm/python/1103_distribute_candies_to_people.py) | 简单 | 数学 |
 | 1089 | [Duplicate Zeros](https://leetcode-cn.com/problems/duplicate-zeros/) | [Python3](./algorithm/python/1089_duplicate_zeros.py) | 简单 | 数组 |
 | 1078 | [Occurrences After Bigram](https://leetcode-cn.com/problems/occurrences-after-bigram/) | [Python3](./algorithm/python/1078_occurrences_after_bigram.py) | 简单 | 哈希表 |
-| 1071 | [Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [Python3](./algorithm/python/1071_greatest_common_divisor_of_strings.py) | 简单 | String |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [Python3](./algorithm/python/1071_greatest_common_divisor_of_strings.py) | 简单 | 字符串 |
 | 1051 | [Height Checker](https://leetcode-cn.com/problems/height-checker/) | [Python3](./algorithm/python/1051_height_checker.py) | 简单 | 数组 | 
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python3](./algorithm/python/1047_remove_all_adjacent_duplicates_in_string.py) | 简单 | Stack |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [Python3](./algorithm/python/1046_last_stone_weight.py) | 简单 | Heap, Greedy |
@@ -158,18 +158,18 @@
 | 942 | [DI String Match](https://leetcode-cn.com/problems/di-string-match/) | [Python3](./algorithm/python/942_DI_string_match.py) | 简单 | 数学 |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [Python3](./algorithm/python/941_valid_mountain_array.py) | 简单 | 数组 |
 | 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [Python3](./algorithm/python/938_range_sum_of_BST.py) | 简单 | Tree, Recursion |
-| 937 | [Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Python3](./algorithm/python/937_reorder_data_in_log_files.py) | 简单 | String |
+| 937 | [Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Python3](./algorithm/python/937_reorder_data_in_log_files.py) | 简单 | 字符串 |
 | 933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Python3](./algorithm/python/933_number_of_recent_calls.py) | 简单 | Queue |
-| 929 | [Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | 简单 | String |
-| 925 | [Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | 简单 | Two Pointers, String |
+| 929 | [Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/) | [Python3](./algorithm/python/929_unique_email_addresses.py) | 简单 | 字符串 |
+| 925 | [Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/) | [Python3](./algorithm/python/925_long_pressed_name.py) | 简单 | Two Pointers, 字符串 |
 | 922 | [Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Python3](./algorithm/python/922_sort_array_by_parity_II.py) | 简单 | Sort, 数组 |
-| 917 | [Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/) | [Python3](./algorithm/python/917_reverse_only_letters.py) | 简单 | String |
+| 917 | [Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/) | [Python3](./algorithm/python/917_reverse_only_letters.py) | 简单 | 字符串 |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python3](./algorithm/python/914_x_of_a_kind_in_a_deck_of_cards.py) | 简单 | 数组, 数学 |
 | 908 | [Smallest Range I](https://leetcode-cn.com/problems/smallest-range-i/) | [Python3](./algorithm/python/908_smallest_range_I.py) | 简单 | 数学 |
 | 905 | [Sort Array by Parity](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Python3](./algorithm/python/905_sort_array_by_parity.py) | 简单 | 数组 |
 | 897 | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Python3](./algorithm/python/897_increasing_order_search_tree.py) | 简单 | Tree, Depth-first Search |
 | 896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | [Python3](./algorithm/python/896_monotonic_array.py) | 简单 | 数组 |
-| 893 | [Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/) | [Python3](./algorithm/python/893_groups_of_special-equivalent_strings.py) | 简单 | String |
+| 893 | [Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/) | [Python3](./algorithm/python/893_groups_of_special-equivalent_strings.py) | 简单 | 字符串 |
 | 892 | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [Python3](./algorithm/python/892_surface_area_of_3D_shapes.py) | 简单 | Geometry, 数学 |
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [Python3](./algorithm/python/888_fair_candy_swap.py) | 简单 | 数组 |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [Python3](./algorithm/python/884_uncommon_words_from_two_sentences.py) | 简单 | 哈希表 |
@@ -180,21 +180,21 @@
 | 868 | [Binary Gap](https://leetcode-cn.com/problems/binary-gap/) | [Python3](./algorithm/python/868_binary_gap.py) | 简单 | 数学 |
 | 867 | [Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/) | [Python3](./algorithm/python/867_transpose_matrix.py) | 简单 | 数组 |
 | 860 | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [Python3](./algorithm/python/860_lemonade_change.py) | 简单 | Greedy |
-| 859 | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/) | [Python3](./algorithm/python/859_buddy_strings.py) | 简单 | String |
+| 859 | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/) | [Python3](./algorithm/python/859_buddy_strings.py) | 简单 | 字符串 |
 | 852 | [Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | [Python3](./algorithm/python/852_peak_index_in_a_mountain_array.py) | 简单 | Binary Search |
 | 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [Python3](./algorithm/python/844_backspace_string_compare.py) | 简单 | Stack, Two Pointers |
 | 836 | [Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/) | [Python3](./algorithm/python/836_rectangle_overlap.py) | 简单 | 数学 |
 | 832 | [Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/) | [Python3](./algorithm/python/832_flipping_an_image.py) | 简单 | 数组 |
 | 830 | [Position of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [Python3](./algorithm/python/830_positions_of_large_groups.py) | 简单 | 数组 |
-| 824 | [Goat Latin](https://leetcode-cn.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | 简单 | String |
+| 824 | [Goat Latin](https://leetcode-cn.com/problems/goat-latin/) | [Python3](./algorithm/python/824_goat_latin.py) | 简单 | 字符串 |
 | 821 | [Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [Python3](./algorithm/python/821_shortest_distance_to_a_character.py) | 简单 | None |
-| 819 | [Most Common Word](https://leetcode-cn.com/problems/most-common-word/) | [Python3](./algorithm/python/819_most_common_word.py) | 简单 | String |
+| 819 | [Most Common Word](https://leetcode-cn.com/problems/most-common-word/) | [Python3](./algorithm/python/819_most_common_word.py) | 简单 | 字符串 |
 | 812 | [Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/) | [Python3](./algorithm/python/812_largest_triangle_area.py) | 简单 | 数学 |
 | 811 | [Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/) | [Python3](./algorithm/python/811_subdomain_visit_count.py) | 简单 | 哈希表 |
 | 806 | [Number of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [Python3](./algorithm/python/806_number_of_lines_to_write_string.py) | 简单 | None |
-| 804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [Python3](./algorithm/python/804_unique_morse_code_words.py) | 简单 | String |
+| 804 | [Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [Python3](./algorithm/python/804_unique_morse_code_words.py) | 简单 | 字符串 |
 | 796 | [Rotate String](https://leetcode-cn.com/problems/rotate-string/) | [Python3](./algorithm/python/796_rotate_string.py) | 简单 | None |
-| 788 | [Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/) | [Python3](./algorithm/python/788_rotated_digits.py) | 简单 | String |
+| 788 | [Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/) | [Python3](./algorithm/python/788_rotated_digits.py) | 简单 | 字符串 |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [Python3](./algorithm/python/783_minimum_distance_between_BST_nodes.py) | 简单 | Tree, Recursion |
 | 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [Python3](./algorithm/python/771_jewels_and_stones.py) | 简单 | 哈希表 |
 | 766 | [Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/) | [Python3](./algorithm/python/766_toeplitz_matrix.py) | 简单 | 数组 |
@@ -208,26 +208,26 @@
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [Python3](./algorithm/python/724_find_pivot_index.py) | 简单 | 数组 |
 | 720 | [Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [Python3](./algorithm/python/720_longest_word_in_dictionary.py) | 简单 | Trie, 哈希表 |
 | 717 | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [Python3](./algorithm/python/717_1-bit_and_2-bit_characters.py) | 简单 | 数组 |
-| 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | 简单 | String |
+| 709 | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case/) | [Python3](./algorithm/python/709_to_lower_case.py) | 简单 | 字符串 |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [Python3](./algorithm/python/706_design_hashmap.py) | 简单 | Design, 哈希表 |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [Python3](./algorithm/python/705_design_hashset.py) | 简单 | Design, 哈希表 |
 | 704 | [Binary Search](https://leetcode-cn.com/problems/binary-search/) | [Python3](./algorithm/python/704_binary_search.py) | 简单 | Binary Search |
 | 703 | [Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [Python3](./algorithm/python/703_kth_largest_element_in_a_stream.py) | 简单 | Heap |
 | 700 | [Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [Python3](./algorithm/python/700_search_in_a_binary_search_tree.py) | 简单 | Tree |
 | 697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | 简单 | 数组 |
-| 696 | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | 简单 | String |
+| 696 | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | 简单 | 字符串 |
 | 693 | [Binary Number with Alternating bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [Python3](./algorithm/python/693_binary_number_with_alternating_bits.py) | 简单 | Bit Manipulation |
 | 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [Python3](./algorithm/python/690_employee_importance.py) | 简单 | Depth-first Search, Breadth-first Search, 哈希表 |
 | 687 | [Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/) | [Python3](./algorithm/python/687_longest_univalue_path.py) | 简单 | Tree, Recursion |
-| 686 | [Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/) | [Python3](./algorithm/python/686_repeated_string_match.py) | 简单 | String |
+| 686 | [Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/) | [Python3](./algorithm/python/686_repeated_string_match.py) | 简单 | 字符串 |
 | 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [Python3](./algorithm/python/682_baseball_game.py) | 简单 | Stack |
-| 680 | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [Python3](./algorithm/python/680_valid_palindrome_II.py) | 简单 | String |
+| 680 | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [Python3](./algorithm/python/680_valid_palindrome_II.py) | 简单 | 字符串 |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Python3](./algorithm/python/674_longest_continuous_increasing_subsequence.py) | 简单 | 数组 |
 | 671 | [Second Minimum Node in a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [Python3](./algorithm/python/671_second_minimum_node_in_a_binary_tree.py) | 简单 | Tree |
 | 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Python3](./algorithm/python/669_trim_a_binary_search_tree.py) | 简单 | Tree |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [Python3](./algorithm/python/665_non-decreasing_array.py) | 简单 | 数组 |
 | 661 | [Image Smoother](https://leetcode-cn.com/problems/image-smoother/) | [Python3](./algorithm/python/661_image_smoother.py) | 简单 | Array |
-| 657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | 简单 | String |
+| 657 | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Python3](./algorithm/python/657_robot_return_to_origin.py) | 简单 | 字符串 |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [Python3](./algorithm/python/653_two_sum_IV_input_is_a_BST.py) | 简单 | Tree |
 | 645 | [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/) | [Python3](./algorithm/python/645_set_mismatch.py) | 简单 | 哈希表, 数学 |
 | 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [Python3](./algorithm/python/643_maximum_average_subarray_I.py) | 简单 | 数组 |
@@ -235,7 +235,7 @@
 | 633 | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/) | [Python3](./algorithm/python/633_sum_of_square_numbers.py) | 简单 | 数学 |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Python3](./algorithm/python/628_maximum_product_of_three_numbers.py) | 简单 | 数组, 数学 |
 | 617 | [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Python3](./algorithm/python/617_merge_two_binary_trees.py) | 简单 | Tree |
-| 606 | [Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Python3](./algorithm/python/606_construct_string_from_binary_tree.py) | 简单 | Tree, String |
+| 606 | [Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Python3](./algorithm/python/606_construct_string_from_binary_tree.py) | 简单 | Tree, 字符串 |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [Python3](./algorithm/python/605_can_place_flowers.py) | 简单 | 数组 |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [Python3](./algorithm/python/599_minimum_index_sum_of_two_lists.py) | 简单 | 哈希表 |
 | 598 | [Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/) | [Python3](./algorithm/python/598_range_addition_II.py) | 简单 | 数学 |
@@ -249,15 +249,15 @@
 | 563 | [Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Python3](./algorithm/python/563_binary_tree_tilt.py) | 简单 | Tree |
 | 561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i/) | [Python3](./algorithm/python/561_array_partition_I.py) | 简单 | 数组 |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [Python3](./algorithm/python/559_maximum_depth_of_N-ary_tree.py) | 简单 | Tree, Depth-first Search, Breadth-first Search |
-| 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Python3](./algorithm/python/557_reverse_words_in_a_string_III.py) | 简单 | String |
+| 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Python3](./algorithm/python/557_reverse_words_in_a_string_III.py) | 简单 | 字符串 |
 | 551 | [Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [Python3](./algorithm/python/551_student_attendance_record_I.py) | 简单 | Tree |
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Python3](./algorithm/python/543_diameter_of_binary_tree.py) | 简单 | Tree |
-| 541 | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [Python3](./algorithm/python/541_reverse_string_II.py) | 简单 | String |
+| 541 | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [Python3](./algorithm/python/541_reverse_string_II.py) | 简单 | 字符串 |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Python3](./algorithm/python/538_convert_BST_to_greater_tree.py) | 简单 | Tree |
 | 532 | [K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | [Python3](./algorithm/python/532_k-diff_pairs_in_an_array.py) | 简单 | 数组, Two Pointers |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [Python3](./algorithm/python/530_minimum_absolute_difference_in_BST.py) | 简单 | Tree |
-| 521 | [Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [Python3](./algorithm/python/521_longest_uncommon_subsequence_I.py) | 简单 | String |
-| 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | 简单 | String |
+| 521 | [Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [Python3](./algorithm/python/521_longest_uncommon_subsequence_I.py) | 简单 | 字符串 |
+| 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [Python3](./algorithm/python/520_detect_capital.py) | 简单 | 字符串 |
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [Python3](./algorithm/python/509_fibonacci_number.py) | 简单 | 数组 |
 | 507 | [Perfect Number](https://leetcode-cn.com/problems/perfect-number/) | [Python3](./algorithm/python/507_perfect_number.py) | 简单 | 数学 |
 | 506 | [Relative Ranks](https://leetcode-cn.com/problems/relative-ranks/) | [Python3](./algorithm/python/506_relative_ranks.py) | 简单 | None |
@@ -272,16 +272,16 @@
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | 简单 | Binary Search |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | 简单 | 哈希表 |
 | 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python3](./algorithm/python/461_hamming_distance.py) | 简单 | Bit Manipulation |
-| 459 | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Python3](./algorithm/python/459_repeated_substring_pattern.py) | 简单 | String |
+| 459 | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Python3](./algorithm/python/459_repeated_substring_pattern.py) | 简单 | 字符串 |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [Python3](./algorithm/python/455_assign_cookies.py) | 简单 | Greedy |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [Python3](./algorithm/python/453_minimum_moves_to_equal_array_elements.py) | 简单 | 数学 |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./algorithm/python/448_find_all_numbers_disappeared_in_an_array.py) | 简单 | 数组 |
 | 447 | [Number of Boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [Python3](./algorithm/python/447_number_of_boomerangs.py) | 简单 | 哈希表 |
-| 443 | [String Compression](https://leetcode-cn.com/problems/string-compression/) | [Python3](./algorithm/python/443_string_compression.py) | 简单 | String |
+| 443 | [String Compression](https://leetcode-cn.com/problems/string-compression/) | [Python3](./algorithm/python/443_string_compression.py) | 简单 | 字符串 |
 | 441 | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/) | [Python3](./algorithm/python/441_arranging_coins.py) | 简单 | 数学, Binary Search |
 | 437 | [Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/) | [Python3](./algorithm/python/437_path_sum_III.py) | 简单 | Tree |
-| 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | 简单 | String |
-| 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | 简单 | String |
+| 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | 简单 | 字符串 |
+| 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | 简单 | 字符串 |
 | 414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/) | [Python3](./algorithm/python/414_third_maximum_number.py) | 简单 | 数组 |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py) | 简单 | None |
 | 409 | [Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/) | [Python3](./algorithm/python/409_longest_palindrome.py) | 简单 | 哈希表 |
@@ -290,15 +290,15 @@
 | 401 | [Binary Watch](https://leetcode-cn.com/problems/binary-watch/) | [Python3](./algorithm/python/401_binary_watch.py) | 简单 | Bit Manipulation, Backtracking |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [Python3](./algorithm/python/392_is_subsequence.py) | 简单 | Greedy, Binary Search, Dynamic Programming |
 | 389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/) | [Python3](./algorithm/python/389_find_the_difference.py) | 简单 | Bit Manipulation, 哈希表 |
-| 387 | [First Unique CHaracter in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py) | 简单 | 哈希表, String |
-| 383 | [Ransom Note](https://leetcode-cn.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | 简单 | String |
+| 387 | [First Unique CHaracter in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py) | 简单 | 哈希表, 字符串 |
+| 383 | [Ransom Note](https://leetcode-cn.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | 简单 | 字符串 |
 | 374 | [Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | 简单 | Binary Search |
 | 371 | [Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | 简单 | Bit Manipulation |
 | 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | 简单 | 数学, Binary Search |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [Python3](./algorithm/python/350_intersection_of_two_arrays_II.py) | 简单 | Sort, 哈希表, Two Pointers, Binary Search |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Python3](./algorithm/python/349_intersection_of_two_arrays.py) | 简单 | Sort, 哈希表, Two Pointers, Binary Search |
-| 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | 简单 | Two Pointers, String |
-| 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py) | 简单 | Two Pointers, String |
+| 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | 简单 | Two Pointers, 字符串 |
+| 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py) | 简单 | Two Pointers, 字符串 |
 | 342 | [Power of Four](https://leetcode-cn.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | 简单 | Bit Manipulation |
 | 326 | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | 简单 | 数学 |
 | 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | 简单 | Dynamic Programming |
@@ -340,7 +340,7 @@
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | 简单 | Stack, Design |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | 简单 | Linked List, Two Pointers |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | 简单 | Bit Manipulation, 哈希表 |
-| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | 简单 | Two Pointers, String |
+| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | 简单 | Two Pointers, 字符串 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | 简单 | Greedy, 数组 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | 简单 | 数组, Dynamic Programming |
 | 119 | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | 简单 | 数组 |
@@ -357,29 +357,29 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | 简单 | Linked List |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py) | 简单 | Dynamic Programming |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | 简单 | 数学, Binary Search |
-| 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, String |
+| 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, 字符串 |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
-| 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | String |
+| 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, Divide and Conquer, Dynamic Programming |
-| 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | String |
+| 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | 字符串 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, Binary Search |
-| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | 简单 | Two Pointers, String |
+| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | 简单 | Two Pointers, 字符串 |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | 简单 | 数组, Two Pointers |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | 简单 | 数组, Two Pointers |
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | 简单 | Linked List |
-| 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | 简单 | Stack, String |
+| 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | 简单 | Stack, 字符串 |
 | 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | Medium | 数组, Two Pointers |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | Medium | 数组, Two Pointers |
-| 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | 简单 | String |
-| 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| 简单 | 数学, String |
-| 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | 数学, String |
+| 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | 简单 | 字符串 |
+| 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| 简单 | 数学, 字符串 |
+| 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | 数学, 字符串 |
 | 11 | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | Medium | 数组, Two Pointers |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | 简单 | 数学 |
-| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | Medium | 数学, String |
+| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | Medium | 数学, 字符串 |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | 简单 | 数学 |
-| 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | String |
-| 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | String, Dynamic Programming |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | Medium | 哈希表, Two Pointers, String, Sliding Window |
+| 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | 字符串 |
+| 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | 字符串, Dynamic Programming |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | Medium | 哈希表, Two Pointers, 字符串, Sliding Window |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | Medium | Recursion, Linked List, 数学 |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | 简单 | 数组, 哈希表 |
 
