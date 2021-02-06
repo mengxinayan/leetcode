@@ -145,7 +145,7 @@
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [Python3](./algorithm/python/1002_find_common_characters.py) | 简单 | 数组, 哈希表 |
 | 999 | [Available Captures for Rook](https://leetcode-cn.com/problems/available-captures-for-rook/) | [Python3](./algorithm/python/999_available_captures_for_rook.py) | 简单 | 数组 |
 | 997 | [Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/) | [Python3](./algorithm/python/997_find_the_town_judge.py) | 简单 | Graph |
-| 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | 简单 | 树, Breadth-first Search |
+| 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Python3](./algorithm/python/993_cousins_in_binary_tree.py) | 简单 | 树, 广度优先搜索 |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [Python3](./algorithm/python/989_add_to_array-form_of_integer.py) | 简单 | 数组 |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/) | [Python3](./algorithm/python/985_sum_of_even_numbers_after_queries.py) | 简单 | Array |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Python3](./algorithm/python/977_squares_of_a_sorted_array.py) | 简单 | 数组, Two Pointers |
@@ -217,7 +217,7 @@
 | 697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [Python3](./algorithm/python/697_degree_of_an_array.py) | 简单 | 数组 |
 | 696 | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/) | [Python3](./algorithm/python/696_count_binary_substrings.py) | 简单 | 字符串 |
 | 693 | [Binary Number with Alternating bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [Python3](./algorithm/python/693_binary_number_with_alternating_bits.py) | 简单 | 位运算 |
-| 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [Python3](./algorithm/python/690_employee_importance.py) | 简单 | Depth-first Search, Breadth-first Search, 哈希表 |
+| 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [Python3](./algorithm/python/690_employee_importance.py) | 简单 | Depth-first Search, 广度优先搜索, 哈希表 |
 | 687 | [Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/) | [Python3](./algorithm/python/687_longest_univalue_path.py) | 简单 | 树, Recursion |
 | 686 | [Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/) | [Python3](./algorithm/python/686_repeated_string_match.py) | 简单 | 字符串 |
 | 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [Python3](./algorithm/python/682_baseball_game.py) | 简单 | 栈 |
@@ -248,7 +248,7 @@
 | 566 | [Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/) | [Python3](./algorithm/python/566_reshape_the_matrix.py) | 简单 | 数组 |
 | 563 | [Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Python3](./algorithm/python/563_binary_tree_tilt.py) | 简单 | 树 |
 | 561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i/) | [Python3](./algorithm/python/561_array_partition_I.py) | 简单 | 数组 |
-| 559 | [Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [Python3](./algorithm/python/559_maximum_depth_of_N-ary_tree.py) | 简单 | 树, Depth-first Search, Breadth-first Search |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [Python3](./algorithm/python/559_maximum_depth_of_N-ary_tree.py) | 简单 | 树, Depth-first Search, 广度优先搜索 |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Python3](./algorithm/python/557_reverse_words_in_a_string_III.py) | 简单 | 字符串 |
 | 551 | [Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [Python3](./algorithm/python/551_student_attendance_record_I.py) | 简单 | 树 |
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Python3](./algorithm/python/543_diameter_of_binary_tree.py) | 简单 | 树 |
@@ -346,12 +346,12 @@
 | 119 | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | 简单 | 数组 |
 | 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | 简单 | 数组 |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [Python3](./algorithm/python/112_path_sum.py) | 简单 | 树, Depth-first Search |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Python3](./algorithm/python/111_minimum_depth_of_binary_tree.py) | 简单 | 树, Depth-first Search, Breadth-first Search |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Python3](./algorithm/python/111_minimum_depth_of_binary_tree.py) | 简单 | 树, Depth-first Search, 广度优先搜索 |
 | 110 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Python3](./algorithm/python/110_balanced_binary_tree.py) | 简单 | 树, Depth-first Search |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](./algorithm/python/108_convert_sorted_array_to_binary_search_tree.py) | 简单 | 树, Depth-first Search |
-| 107 | [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./algorithm/python/107_binary_tree_level_order_traversal_II.py) | 简单 | 树, Breadth-first Search |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./algorithm/python/107_binary_tree_level_order_traversal_II.py) | 简单 | 树, 广度优先搜索 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | 简单 | 树, Depth-first Search |
-| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, Depth-first Search, Breadth-first Search |
+| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, Depth-first Search, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, Depth-first Search |
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | 简单 | 数组, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | 简单 | Linked List |
