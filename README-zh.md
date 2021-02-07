@@ -368,19 +368,20 @@
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | 简单 | 数组, 双指针 |
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | 简单 | 链表 |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | 简单 | 栈, 字符串 |
-| 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | Medium | 数组, 双指针 |
-| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | Medium | 数组, 双指针 |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | 中等 | 深度优先搜索, 递归, 字符串, 回溯算法 |
+| 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | 中等 | 数组, 双指针 |
+| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | 中等 | 数组, 双指针 |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | 简单 | 字符串 |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| 简单 | 数学, 字符串 |
-| 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | 数学, 字符串 |
-| 11 | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | Medium | 数组, 双指针 |
+| 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | 中等 | 数学, 字符串 |
+| 11 | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | 中等 | 数组, 双指针 |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | 简单 | 数学 |
-| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | Medium | 数学, 字符串 |
+| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | 中等 | 数学, 字符串 |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | 简单 | 数学 |
-| 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | 字符串 |
-| 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | 字符串, 动态规划 |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | Medium | 哈希表, 双指针, 字符串, Sliding Window |
-| 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | Medium | 递归, 链表, 数学 |
+| 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | 中等 | 字符串 |
+| 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | 中等 | 字符串, 动态规划 |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py) | 中等 | 哈希表, 双指针, 字符串, Sliding Window |
+| 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | 中等 | 递归, 链表, 数学 |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py) | 简单 | 数组, 哈希表 |
 
 
