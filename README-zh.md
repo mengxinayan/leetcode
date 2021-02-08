@@ -368,6 +368,7 @@
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | 简单 | 数组, 双指针 |
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | 简单 | 链表 |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | 简单 | 栈, 字符串 |
+| 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [Python3](./algorithm/python/18_4sum.py) | 中等 | 数组, 哈希表, 双指针 |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | 中等 | 深度优先搜索, 递归, 字符串, 回溯算法 |
 | 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | 中等 | 数组, 双指针 |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | 中等 | 数组, 双指针 |
