@@ -367,6 +367,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./algorithm/python/19_remove_Nth_node_from_end_of_list.py) | Medium | Linked List, Two Pointers |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](./algorithm/python/18_4sum.py) | Medium | Array, Hash Table, Two Pointers |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | Medium | Depth-first Search, Recursion, String, Backtracking |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | Medium | Array, Two Pointers |
