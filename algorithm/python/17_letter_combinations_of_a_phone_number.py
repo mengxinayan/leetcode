@@ -1,4 +1,4 @@
-# Solution 1
+# Solution 1: Generate
 
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
@@ -13,7 +13,7 @@ class Solution:
         return res
 
 
-# Solution 2
+# Solution 2: Backtracing
 
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
