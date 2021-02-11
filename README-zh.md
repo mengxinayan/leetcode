@@ -366,6 +366,7 @@
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | 简单 | 双指针, 字符串 |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | 简单 | 数组, 双指针 |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | 简单 | 数组, 双指针 |
+| 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python3](./algorithm/python/24_swap_nodes_in_pairs.py) | 中等 | 递归, 链表 |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python3](./algorithm/python/22_generate_parentheses.py) | 中等 | 字符串, 回溯算法 |
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | 简单 | 链表 |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | 简单 | 栈, 字符串 |

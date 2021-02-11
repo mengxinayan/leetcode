@@ -365,6 +365,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | Easy | Two Pointers, String |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | Easy | Array, Two Pointers |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./algorithm/python/24_swap_nodes_in_pairs.py) | Medium | Recursion, Linked List |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python3](./algorithm/python/22_generate_parentheses.py) | Medium | String, Backtracking |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
