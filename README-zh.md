@@ -363,6 +363,7 @@
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, 分治算法, 动态规划 |
 | 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | 字符串 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, 二分查找 |
+| 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python3](./algorithm/python/31_next_permutation.py) | 中等 | 数组 |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py) | 中等 | 数学, 二分查找 |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | 简单 | 双指针, 字符串 |
