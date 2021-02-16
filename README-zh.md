@@ -362,6 +362,7 @@
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, 分治算法, 动态规划 |
 | 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | 字符串 |
+| 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py) | 中等 | 哈希表 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, 二分查找 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py) | 中等 | 数组, 二分查找 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
