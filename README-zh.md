@@ -361,6 +361,7 @@
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, 分治算法, 动态规划 |
+| 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | 中等 | 数组, 回溯算法 |
 | 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | 字符串 |
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py) | 中等 | 哈希表 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, 二分查找 |

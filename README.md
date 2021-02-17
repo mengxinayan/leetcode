@@ -360,6 +360,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | Medium | Array, Backtracking |
 | 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | Easy | String |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py) | Medium | Hash Table |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
