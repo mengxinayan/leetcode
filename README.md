@@ -360,6 +360,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
+| 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | Medium | Math, String |
 | 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | Medium | Array, Backtracking |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | Medium | Array, Backtracking |
 | 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | Easy | String |
