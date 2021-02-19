@@ -360,21 +360,21 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
-| 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | Medium | Math, String |
-| 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | Medium | Array, Backtracking |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | Medium | Math, String |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | Medium | Array, Backtracking |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | Medium | Array, Backtracking |
 | 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | Easy | String |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py) | Medium | Hash Table |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Array, Binary Search |
-| 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | Medium | Array, Binary Search |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Array, Binary Search |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | Medium | Array, Binary Search |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](./algorithm/python/31_next_permutation.py) | Medium | Array |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py) | Medium | Math, Binary Search |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | Easy | Two Pointers, String |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | Easy | Array, Two Pointers |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./algorithm/python/24_swap_nodes_in_pairs.py) | Medium | Recursion, Linked List |
-| 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python3](./algorithm/python/22_generate_parentheses.py) | Medium | String, Backtracking |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3](./algorithm/python/22_generate_parentheses.py) | Medium | String, Backtracking |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py) | Easy | Linked List |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./algorithm/python/19_remove_Nth_node_from_end_of_list.py) | Medium | Linked List, Two Pointers |
