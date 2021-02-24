@@ -361,6 +361,7 @@
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, 分治算法, 动态规划 |
+| 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | 中等 | 数学, 二分查找 |
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py) | 中等 | 哈希表, 字符串 |
 | 48 | [Rotate Image](https://leetcode-cn.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py) | 中等 | 数组 |
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | 中等 | 回溯算法 |
