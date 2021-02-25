@@ -359,6 +359,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](./algorithm/python/541_reverse_string_II.py) | Medium | Array |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | Medium | Math, Binary Search |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py) | Medium | Hash Table, String |
