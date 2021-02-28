@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/) | [Python3](./algorithm/python/1742_maximum_number_of_balls_in_a_box.py) | 简单 | 数组 |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | 简单 | 贪心算法, 字符串 |
 | 1732 | [Find the Highest Altitude](https://leetcode-cn.com/problems/find-the-highest-altitude/) | [Python3](./algorithm/python/1732_find_the_highest_altitude.py) | 简单 | 数组 |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](./algorithm/python/1725_number_of_rectangles_that_can_form_the_largest_square.py) | 简单 | 贪心算法 |

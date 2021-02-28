@@ -12,6 +12,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 ### Algorithm
 | # | Title | Solution | Difficulty | Related Topics |
 | :-: | :-: | :-: | :-: | :-: |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python3](./algorithm/python/1742_maximum_number_of_balls_in_a_box.py) | Easy | Array |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | Easy | Greedy, String |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python3](./algorithm/python/1732_find_the_highest_altitude.py) | Easy | Array |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](./algorithm/python/1725_number_of_rectangles_that_can_form_the_largest_square.py) | Easy | Greedy |
