@@ -361,6 +361,7 @@
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, 字符串 |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
+| 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [Python3](algorithm/python/57_insert_interval.py) | 中等 | 排序, 数组 |
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Python3](./algorithm/python/56_merge_intervals.py) | 中等 | 排序, 数组 |
 | 55 | [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py) | 中等 | 贪心算法, 数组 |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Python3](./algorithm/python/541_reverse_string_II.py) | 中等 | 数组 |
