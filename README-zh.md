@@ -13,6 +13,7 @@
 
 | # | 题名 | 解答 | 难度 | 相关标签 |
 | :-: | :-: | :-: | :-: | :-: |
+| 1774 | [Closest Dessert Cost](https://leetcode-cn.com/problems/closest-dessert-cost/) | [Python3](./algorithm/python/1774_closest_dessert_cost.py) | 中等 | 贪心算法 |
 | 1773 | [Count Items Matching a Rule](https://leetcode-cn.com/problems/count-items-matching-a-rule/) | [Python3](./algorithm/python/1773_count_items_matching_a_rule.py) | 简单 | 数组, 字符串 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/) | [Python3](./algorithm/python/1742_maximum_number_of_balls_in_a_box.py) | 简单 | 数组 |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [Python3](./algorithm/python/1736_latest_time_by_replacing_hidden_digits.py) | 简单 | 贪心算法, 字符串 |
