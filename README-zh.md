@@ -366,7 +366,7 @@
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [Python3](algorithm/python/57_insert_interval.py) | 中等 | 排序, 数组 |
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Python3](./algorithm/python/56_merge_intervals.py) | 中等 | 排序, 数组 |
 | 55 | [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py) | 中等 | 贪心算法, 数组 |
-| 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Python3](./algorithm/python/541_reverse_string_II.py) | 中等 | 数组 |
+| 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Python3](./algorithm/python/54_spiral_matrix.py) | 中等 | 数组 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | 简单 | 数组, 分治算法, 动态规划 |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | 中等 | 数学, 二分查找 |
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py) | 中等 | 哈希表, 字符串 |
