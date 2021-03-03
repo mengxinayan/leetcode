@@ -361,6 +361,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](./algorithm/python/61_rotate_list.py) | Medium | Linked List, Two Pointers |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python3](./algorithm/python/59_spiral_matrix_II.py) | Medium | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](algorithm/python/57_insert_interval.py) | Medium | Sort, Array |
