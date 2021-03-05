@@ -362,6 +362,7 @@
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | 简单 | 数学, 二分查找 |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, 字符串 |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
+| 62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py) | 中等 | 数组, 动态规划 |
 | 61 | [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Python3](./algorithm/python/61_rotate_list.py) | 中等 | 链表, 双指针 |
 | 59 | [Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [Python3](./algorithm/python/59_spiral_matrix_II.py) | 中等 | 数组 |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |
