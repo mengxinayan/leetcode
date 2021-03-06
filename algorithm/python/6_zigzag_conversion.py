@@ -8,14 +8,14 @@ class Solution:
             ch_group[i] = []
         for i in range(len(s)):
             ch_group[i%group_len].append(s[i])
-        res = ''
+        ans = ''
         for i in range(group_len//2+1):
             if i == 0:
                 for ch in ch_group[i]:
-                    res += ch
+                    ans += ch
             elif i == group_len//2:
                 for ch in ch_group[i]:
-                    res += ch
+                    ans += ch
             else:
                 j = group_len - i
                 m = n = 0
@@ -23,12 +23,12 @@ class Solution:
                 group_j_len = len(ch_group[j])
                 while (m < group_i_len) or (n < group_j_len):
                     if m < group_i_len:
-                        res += ch_group[i][m]
+                        ans += ch_group[i][m]
                         m += 1
                     if n < group_j_len:
-                        res += ch_group[j][n]
+                        ans += ch_group[j][n]
                         n += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
