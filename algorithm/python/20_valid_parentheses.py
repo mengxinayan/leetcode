@@ -4,7 +4,7 @@ class Solution:
         if len(s) == 0:
             return True
         chs = []
-        res = False
+        ans = False
         for i in range(len(s)):
             if s[i] == '(' or s[i] == '{' or s[i] == '[':
                 chs.append(s[i])
@@ -29,8 +29,8 @@ class Solution:
             else:
                 pass
         if len(chs) == 0:
-            res = True
-        return res
+            ans = True
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
