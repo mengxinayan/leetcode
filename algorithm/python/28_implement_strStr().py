@@ -3,13 +3,13 @@ class Solution:
         length1 = len(haystack)
         length2 = len(needle)
         if length1 > length2:
-            res = -1
+            ans = -1
             for i in range(0, length1-length2+1):
                 # Why '+1'? -> "aab" "ab"
                 if haystack[i:i+length2] == needle:
-                    res = i
+                    ans = i
                     break
-            return res
+            return ans
         elif length1 == length2:
             if haystack == needle:
                 return 0
