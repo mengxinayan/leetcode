@@ -3,7 +3,7 @@ class Solution:
 
         def backtracking(tmp: str, left: int, right: int):
             if (left == n) and (right == n):
-                res.append(tmp)
+                ans.append(tmp)
             if left < n:
                 tmp += '('
                 backtracking(tmp, left+1, right)
@@ -13,9 +13,9 @@ class Solution:
                 backtracking(tmp, left, right+1)
                 tmp = tmp[:len(tmp)-1]
         
-        res = []
+        ans = []
         backtracking('', 0, 0)
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
