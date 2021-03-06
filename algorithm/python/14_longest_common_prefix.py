@@ -8,7 +8,7 @@ class Solution:
         for i in range(len(strs)):
             lens.append(len(strs[i]))
         minlen = min(lens)
-        res = ''
+        ans = ''
         for i in range(minlen):
             ch = strs[0][i]
             flag = True
@@ -16,10 +16,10 @@ class Solution:
                 if ch != strs[j][i]:
                     flag = False
             if flag == True:
-                res += ch
+                ans += ch
             else:
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
