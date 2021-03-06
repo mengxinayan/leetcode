@@ -2,7 +2,7 @@
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        res = ''
+        ans = ''
         length = len(s)
         dp = [[False] * length for i in range(length)]
         for l in range(length):
@@ -16,9 +16,9 @@ class Solution:
                     dp[i][j] = (s[i] == s[j])
                 else:
                     dp[i][j] = (dp[i+1][j-1] and s[i] == s[j])
-                if (dp[i][j] == True) and (l+1 > len(res)):
-                    res = s[i:j+1]
-        return res
+                if (dp[i][j] == True) and (l+1 > len(ans)):
+                    ans = s[i:j+1]
+        return ans
 
 
 # Solution 2: Expand from center string
