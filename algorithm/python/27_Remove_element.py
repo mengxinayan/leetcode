@@ -2,13 +2,13 @@ class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         nums.sort()
         length = len(nums)
-        res = 0
+        ans = 0
         for i in range(length):
-            if nums[res] == val:
-                nums.pop(res)
+            if nums[ans] == val:
+                nums.pop(ans)
             else:
-                res = res + 1
-        return res
+                ans = ans + 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
