@@ -7,10 +7,10 @@ class Solution:
                     '7': ['p', 'q', 'r', 's'], '8': ['t', 'u', 'v'], '9': ['w', 'x', 'y', 'z']}
         if digits == '':
             return []
-        res = ['']
+        ans = ['']
         for ch in digits:
-            res = [pre + curr for pre in res for curr in num_ch_dict[ch]]
-        return res
+            ans = [pre + curr for pre in ans for curr in num_ch_dict[ch]]
+        return ans
 
 
 # Solution 2: Backtracing
@@ -20,7 +20,7 @@ class Solution:
 
         def backtracking(tmp: str, index: int):
             if index == len(digits):
-                res.append(tmp)
+                ans.append(tmp)
             else:
                 for ch in num_ch_dict[digits[index]]:
                     tmp += ch
@@ -32,9 +32,9 @@ class Solution:
                     '7': ['p', 'q', 'r', 's'], '8': ['t', 'u', 'v'], '9': ['w', 'x', 'y', 'z']}
         if digits == '':
             return []
-        res = []
+        ans = []
         backtracking('', 0)
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
