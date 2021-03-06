@@ -32,10 +32,10 @@ class Solution:
 
         t = 0
         curr = ListNode()
-        res_head = curr
+        ans_head = curr
         recursion(l1, l2, t, curr)
-        res_head = res_head.next
-        return res_head
+        ans_head = ans_head.next
+        return ans_head
 
 '''
     This is my personal record of solving Leetcode Problems. 
