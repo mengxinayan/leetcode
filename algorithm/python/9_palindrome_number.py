@@ -3,11 +3,11 @@ class Solution:
         if x < 0:
             return False
         s = str(x)
-        res = True
+        ans = True
         for i in range(len(s)//2):
             if s[i] != s[len(s)-1-i]:
-                res = False
-        return res
+                ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
