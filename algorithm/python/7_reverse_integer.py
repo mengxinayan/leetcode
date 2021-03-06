@@ -15,14 +15,14 @@ class Solution:
         nums.reverse()
         while(nums[0] == '0'):
             nums = nums[1:]
-        res = int(nums[0])
+        ans = int(nums[0])
         for i in range(1, len(nums)):
-            res = res * 10 + int(nums[i])
-        res = res * falg
-        if res > 2147483647 or res < -2147483648:
+            ans = ans * 10 + int(nums[i])
+        ans = ans * falg
+        if ans > 2147483647 or ans < -2147483648:
             return 0
         else:
-            return res
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
