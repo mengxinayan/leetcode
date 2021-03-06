@@ -3,7 +3,7 @@ class Solution:
         if len(nums) < 3:
             return []
         nums.sort()
-        res = []
+        ans = []
         for i in range(len(nums)-2):
             # Some details
             if (i >= 1) and (nums[i] == nums[i-1]):
@@ -19,14 +19,14 @@ class Solution:
                 elif tmp_sum > 0:
                     right -= 1
                 else:
-                    res.append([nums[i], nums[left], nums[right]])
+                    ans.append([nums[i], nums[left], nums[right]])
                     while (left < right) and (nums[left+1] == nums[left]):
                         left += 1
                     while (left < right) and (nums[right-1] == nums[right]):
                         right -= 1
                     left += 1
                     right -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
