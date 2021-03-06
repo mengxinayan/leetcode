@@ -4,9 +4,9 @@ class Solution:
         for i in range(0, len(nums)):
             List_dic[nums[i]] = i
         for i in range(0, len(nums)):
-            res = List_dic.get(target-nums[i], -1)
-            if res != -1 and res != i:
-                return [i, res]
+            ans = List_dic.get(target-nums[i], -1)
+            if ans != -1 and ans != i:
+                return [i, ans]
 
 '''
     This is my personal record of solving Leetcode Problems. 
