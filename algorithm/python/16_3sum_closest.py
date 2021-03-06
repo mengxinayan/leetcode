@@ -1,10 +1,10 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         nums.sort()
-        res = min_diff = float('inf')
+        ans = min_diff = float('inf')
         for i in range(len(nums)-2):
             # Some details
-            if res == target:
+            if ans == target:
                 break
             if (i >= 1) and (nums[i] == nums[i-1]):
                 continue
@@ -15,15 +15,15 @@ class Solution:
                 tmp_diff = abs(tmp_sum - target)
                 if tmp_diff < min_diff:
                     min_diff = tmp_diff
-                    res = tmp_sum
+                    ans = tmp_sum
                 if tmp_sum < target:
                     left += 1
                 elif tmp_sum > target:
                     right -= 1
                 else:
-                    res = target
+                    ans = target
                     break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
