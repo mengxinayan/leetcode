@@ -3,7 +3,7 @@ class Solution:
 
         def backtracking(tmp: List[int]):
             if len(tmp) == len(nums):
-                res.append(tmp[:])
+                ans.append(tmp[:])
             else:
                 for i in range(len(nums)):
                     if visited[i] == False:
@@ -21,9 +21,9 @@ class Solution:
             return [nums]
         else:
             visited = [False for i in range(len(nums))]
-            res = []
+            ans = []
             backtracking([])
-            return res
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
