@@ -2,13 +2,13 @@ class Solution:
     def addBinary(self, a: str, b: str) -> str:
         
         def bin_to_dec(s: str) -> int:
-            res = 0
+            ans = 0
             nums = list(s)
             nums.reverse()
             for i in range(len(nums)):
                 if nums[i] == '1':
-                    res += 2**i
-            return res
+                    ans += 2**i
+            return ans
 
         def dec_to_bin(num: int) -> str:
             if num == 0:
@@ -18,13 +18,13 @@ class Solution:
                 tmp.append(num % 2)
                 num = num // 2
             tmp.reverse() # 因为reverse方法没有返回值
-            res = ''
+            ans = ''
             for i in range(len(tmp)):
-                res += str(tmp[i])
-            return res
+                ans += str(tmp[i])
+            return ans
         
-        res = dec_to_bin(bin_to_dec(a) + bin_to_dec(b))
-        return res
+        ans = dec_to_bin(bin_to_dec(a) + bin_to_dec(b))
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
