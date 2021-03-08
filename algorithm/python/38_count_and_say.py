@@ -4,22 +4,22 @@ class Solution:
         def read(string: str) -> str:
             tmp = ''
             num = 0
-            res = ''
+            ans = ''
             for i in range(0, len(string)):
                 if string[i] == tmp:
                     num += 1
                 else:
                     if i != 0:
-                        res = res + str(num) + tmp
+                        ans = ans + str(num) + tmp
                     tmp = string[i]
                     num = 1
-            res = res + str(num) + tmp
-            return res
+            ans = ans + str(num) + tmp
+            return ans
         
-        res = '1'
+        ans = '1'
         for i in range(n-1):
-            res = read(res)
-        return res
+            ans = read(ans)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
