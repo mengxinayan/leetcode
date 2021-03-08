@@ -24,10 +24,10 @@ class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
 
         def factorial(n: int) -> int:
-            res = 1
+            ans = 1
             for i in range(1, n+1):
-                res *= i
-            return res
+                ans *= i
+            return ans
 
         def combination(all_num: int, select_num: int) -> int:
             return factorial(all_num) // (factorial(select_num) * factorial(all_num-select_num))
