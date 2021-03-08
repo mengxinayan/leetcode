@@ -4,9 +4,9 @@ class Solution:
         direction_arr = [[0, 1], [1, 0], [0, -1], [-1, 0]]
         direction = i = j = 0
         total_num = len(matrix) * len(matrix[0])
-        res = []
-        while len(res) != total_num:
-            res.append(matrix[i][j])
+        ans = []
+        while len(ans) != total_num:
+            ans.append(matrix[i][j])
             visited[i][j] = True
             next_i = i + direction_arr[direction][0]
             next_j = j + direction_arr[direction][1]
@@ -17,7 +17,7 @@ class Solution:
                 direction = (direction + 1) % 4
                 i += direction_arr[direction][0]
                 j += direction_arr[direction][1]
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
