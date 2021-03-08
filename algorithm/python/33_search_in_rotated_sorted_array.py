@@ -31,8 +31,8 @@ class Solution:
             else:
                 return -1
 
-        res = binary_search_in_unsorted(0, len(nums)-1)
-        return res
+        ans = binary_search_in_unsorted(0, len(nums)-1)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
