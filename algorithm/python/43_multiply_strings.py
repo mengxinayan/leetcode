@@ -27,27 +27,27 @@ class Solution:
         def multiply_num_one(num1: str, num2: str) -> str:
             # len(num1) >= 1 , len(num2) == 1.
             # num1 = [0-9]*, num2 = [0-9]
-            res = ''
+            ans = ''
             carry_bit = '0'
             current_bit = ''
             for i in range(len(num1)-1, -1, -1):
-                tmp_res = multiplication_table[num1[i]][num2]
-                current_bit = addition_table[tmp_res[1]][carry_bit]
+                tmp_ans = multiplication_table[num1[i]][num2]
+                current_bit = addition_table[tmp_ans[1]][carry_bit]
                 if current_bit[0] == '1':
-                    carry_bit = addition_table[tmp_res[0]]['1'][1]
-                    #carry_bit = add_one_one(tmp_res[0], '1')
+                    carry_bit = addition_table[tmp_ans[0]]['1'][1]
+                    #carry_bit = add_one_one(tmp_ans[0], '1')
                 else:
-                    carry_bit = tmp_res[0]
-                res = current_bit[1] + res
+                    carry_bit = tmp_ans[0]
+                ans = current_bit[1] + ans
             if carry_bit != '0':
-                res = carry_bit + res
-            return res
+                ans = carry_bit + ans
+            return ans
 
         def add_num_num(num1: str, num2: str) -> str:
             # len(num1) <=  len(num2)
             # num1 = [0-9]*, num2 = [0-9]*
             num1 = '0' * (len(num2) - len(num1)) + num1
-            res = ''
+            ans = ''
             carry_bit = '0'
             for i in range(len(num1)-1, -1, -1):
                 num_sum = addition_table[num1[i]][num2[i]]
@@ -56,24 +56,24 @@ class Solution:
                     carry_bit = '1'
                 else:
                     carry_bit = '0'
-                res = add_carry_sum[1] + res
+                ans = add_carry_sum[1] + ans
             if carry_bit == '1':
-                res = carry_bit + res
-            return res
+                ans = carry_bit + ans
+            return ans
 
         def multiply_num_num(num1: str, num2: str) -> str:
             # num1 != '0', num2 != '0'
             # num1 = [0-9]*, num2 = [0-9]*
             tmp_sum_arr = []
-            res = '0'
+            ans = '0'
             count = 0
             for i in range(len(num2)-1, -1, -1):
                 tmp = multiply_num_one(num1, num2[i]) + count * '0'
                 count += 1
                 tmp_sum_arr.append(tmp)
             for tmp_sum in tmp_sum_arr:
-                res = add_num_num(res, tmp_sum)
-            return res
+                ans = add_num_num(ans, tmp_sum)
+            return ans
 
         if (num1 == '0') or (num2 == '0'):
             return '0'
