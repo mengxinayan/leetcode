@@ -1,150 +1,150 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        res = True
+        ans = True
         for i in range(9):
             tmp = set()
             for j in range(9):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         for i in range(9):
             tmp = set()
             for j in range(9):
                 if board[j][i] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[j][i].isdigit() == True:
                     tmp.add(board[j][i])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(3):
             for j in range(3):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(3):
             for j in range(3, 6):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(3):
             for j in range(6, 9):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
         
         tmp = set()
         for i in range(3, 6):
             for j in range(3):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(3, 6):
             for j in range(3, 6):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(3, 6):
             for j in range(6, 9):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
         
         tmp = set()
         for i in range(6, 9):
             for j in range(3):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(6, 9):
             for j in range(3, 6):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
 
         tmp = set()
         for i in range(6, 9):
             for j in range(6, 9):
                 if board[i][j] in tmp:
-                    res = False
+                    ans = False
                     break
                 elif board[i][j].isdigit() == True:
                     tmp.add(board[i][j])
                 else:
                     pass
-        if res == False:
-            return res
+        if ans == False:
+            return ans
         
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
