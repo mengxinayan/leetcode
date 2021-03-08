@@ -3,7 +3,7 @@ class Solution:
 
         def backtracking(tmp_sum: int, tmp_combination: List[int], begin: int):
             if tmp_sum == target:
-                res.append(tmp_combination[:])
+                ans.append(tmp_combination[:])
             elif tmp_sum > target:
                 pass
             else:
@@ -18,9 +18,9 @@ class Solution:
                         tmp_combination.pop()
 
         candidates_set = set(candidates)
-        res = []
+        ans = []
         backtracking(0, [], 0)
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
