@@ -11,10 +11,10 @@ class Solution:
                 string_dict[strs_sorted[i]] = [strs[i]]
             else:
                 string_dict[strs_sorted[i]].append(strs[i])
-        res = []
+        ans = []
         for value in string_dict.values():
-            res.append(value)
-        return res
+            ans.append(value)
+        return ans
 
 
 # Solution 2: count number
@@ -23,10 +23,10 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
         def count_str(string: str) -> tuple:
-            res = [0 for i in range(26)]
+            ans = [0 for i in range(26)]
             for ch in string:
-                res[ord(ch) - ord('a')] += 1
-            return tuple(res)
+                ans[ord(ch) - ord('a')] += 1
+            return tuple(ans)
         
         count_str_dict = {}
         for string in strs:
@@ -35,10 +35,10 @@ class Solution:
                 count_str_dict[tmp_tuple] = [string]
             else:
                 count_str_dict[tmp_tuple].append(string)
-        res = []
+        ans = []
         for value in count_str_dict.values():
-            res.append(value)
-        return res
+            ans.append(value)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
