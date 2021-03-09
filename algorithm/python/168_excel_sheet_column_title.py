@@ -13,10 +13,10 @@ class Solution:
                 n -= 1
             n = n // 26
         nums.reverse()
-        res = ''
+        ans = ''
         for i in range(len(nums)):
-            res += (chars[nums[i]])
-        return res
+            ans += (chars[nums[i]])
+        return ans
 '''
     This is my personal record of solving Leetcode Problems. 
     If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
