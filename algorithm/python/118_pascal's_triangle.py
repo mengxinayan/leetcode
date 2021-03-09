@@ -2,23 +2,23 @@ class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         
         def cal_next(nums: List[int]) -> List[int]:
-            res = [0 for i in range( len(nums)+1 )]
-            res[0] = 1
-            res[-1] = 1
+            ans = [0 for i in range( len(nums)+1 )]
+            ans[0] = 1
+            ans[-1] = 1
             for i in range(1, len(nums)):
-                res[i] = nums[i] + nums[i-1]
-            return res
+                ans[i] = nums[i] + nums[i-1]
+            return ans
 
         if numRows == 0:
             return []
         elif numRows == 1:
             return [[1]]
         else:
-            res = [[1], [1,1]]
+            ans = [[1], [1,1]]
             for i in range(numRows-2):
-                tmp = cal_next(res[-1])
-                res.append(tmp)
-            return res
+                tmp = cal_next(ans[-1])
+                ans.append(tmp)
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
