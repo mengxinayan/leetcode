@@ -1,11 +1,11 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        res = 0
+        ans = 0
         for i in range(32):
-            res = res << 1
-            res += (n & 1)
+            ans = ans << 1
+            ans += (n & 1)
             n = n >> 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
