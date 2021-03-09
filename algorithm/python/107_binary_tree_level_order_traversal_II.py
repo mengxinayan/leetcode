@@ -9,7 +9,7 @@ class Solution:
     def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
         if root == None:
             return []
-        res = []
+        ans = []
         queue = [root]
         while len(queue) != 0:
             length = len(queue)
@@ -21,9 +21,9 @@ class Solution:
                     queue.append(node.left)
                 if node.right != None:
                     queue.append(node.right)
-            res.append(tmp_val)
-        res.reverse()
-        return res
+            ans.append(tmp_val)
+        ans.reverse()
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
