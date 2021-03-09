@@ -7,10 +7,10 @@ class Solution:
         elif len(nums) == 2:
             return max(nums[0], nums[1])
         else:
-            res = [nums[0], max(nums[0], nums[1])]
+            ans = [nums[0], max(nums[0], nums[1])]
             for i in range(2,len(nums)):
-                res.append(max(res[i-2]+nums[i], res[i-1]))
-            return res[-1]
+                ans.append(max(ans[i-2]+nums[i], ans[i-1]))
+            return ans[-1]
 
 '''
     This is my personal record of solving Leetcode Problems. 
