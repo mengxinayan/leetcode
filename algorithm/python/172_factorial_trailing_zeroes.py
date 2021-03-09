@@ -1,11 +1,11 @@
 class Solution:
     def trailingZeroes(self, n: int) -> int:
-        res = 0
+        ans = 0
         tmp = 5
         while n >= tmp:
-            res += (n // tmp)
+            ans += (n // tmp)
             tmp *= 5
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
