@@ -2,22 +2,22 @@ class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
         
         def cal_next(nums: List[int]) -> List[int]:
-            res = [0 for i in range( len(nums)+1 )]
-            res[0] = 1
-            res[-1] = 1
+            ans = [0 for i in range( len(nums)+1 )]
+            ans[0] = 1
+            ans[-1] = 1
             for i in range(1, len(nums)):
-                res[i] = nums[i] + nums[i-1]
-            return res
+                ans[i] = nums[i] + nums[i-1]
+            return ans
 
         if rowIndex == 0:
             return [1]
         elif rowIndex == 1:
             return [1,1]
         else:
-            res = [1,1]
+            ans = [1,1]
             for i in range(rowIndex-1):
-                res = cal_next(res)
-            return res
+                ans = cal_next(ans)
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
