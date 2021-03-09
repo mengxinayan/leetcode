@@ -2,16 +2,16 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
 
         def process(s: str) -> str:
-            res = ''
+            ans = ''
             for i in range(len(s)):
                 if s[i].isalnum():
-                    res += s[i]
-            return res.lower()
+                    ans += s[i]
+            return ans.lower()
         
         if len(s) == 0 or len(s) == 1:
             return True
         processed_str = process(s)
-        res = False
+        ans = False
         left = 0
         right = len(processed_str) - 1
         while left < right:
@@ -20,8 +20,8 @@ class Solution:
             left += 1
             right -= 1
         else:
-            res = True
-        return res 
+            ans = True
+        return ans 
 
 '''
     This is my personal record of solving Leetcode Problems. 
