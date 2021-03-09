@@ -6,12 +6,12 @@ class Solution:
                 num_times[nums[i]] += 1
             else:
                 num_times[nums[i]] = 1
-        res = times = 0
+        ans = times = 0
         for key, value in num_times.items():
             if times < value:
-                res = key
+                ans = key
                 times = value
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
