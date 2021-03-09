@@ -9,7 +9,7 @@
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
         node_id = set([])
-        res = True
+        ans = True
         while head != None:
             if id(head) not in node_id:
                 node_id.add(id(head))
@@ -17,8 +17,8 @@ class Solution:
                 break
             head = head.next
         else:
-            res = False
-        return res
+            ans = False
+        return ans
 
 
 # Solution 2
@@ -38,15 +38,15 @@ class Solution:
         else:
             slow = head
             fast = head.next
-            res = False
+            ans = False
             while slow != fast:
                 if (fast.next == None) or (fast.next.next == None):
                     break
                 slow = slow.next
                 fast = fast.next.next
             else:
-                res = True
-            return res
+                ans = True
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
