@@ -2,17 +2,17 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         if len(prices) == 0: # Don't Forget this case!
             return 0
-        res = curr = 0
+        ans = curr = 0
         start = prices[0]
         for i in range(1, len(prices)):
             if (start <= prices[i]) :
                 curr = max(curr, prices[i]-start)
             else:
                 start = prices[i]
-                res = max(res, curr)
+                ans = max(ans, curr)
                 curr = 0
-        res = max(res, curr)
-        return res
+        ans = max(ans, curr)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
