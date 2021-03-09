@@ -2,13 +2,13 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         if len(prices) == 0:
             return 0
-        res = 0
+        ans = 0
         buy = prices[0]
         for i in range(1, len(prices)):
             if prices[i] >= buy:
-                res = res + prices[i] - buy
+                ans = ans + prices[i] - buy
             buy = prices[i]
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
