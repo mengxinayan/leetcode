@@ -358,6 +358,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | Easy | Tree, Depth-first Search |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | Easy | Array, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py) | Medium | Sort, Array, Two Pointers |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | Medium | Array, Binary Search |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py) | Medium | Array |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | Medium | Stack, String |
