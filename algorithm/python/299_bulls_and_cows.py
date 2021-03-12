@@ -14,8 +14,8 @@ class Solution:
             if guess[i] in tmp:
                 cow += 1
                 tmp.remove(guess[i])
-        res = str(bull) + 'A' + str(cow) + 'B'
-        return res
+        ans = str(bull) + 'A' + str(cow) + 'B'
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
