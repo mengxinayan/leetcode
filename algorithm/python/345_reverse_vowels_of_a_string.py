@@ -16,10 +16,10 @@ class Solution:
             else:
                 left += 1
                 right -= 1
-        res = ''
+        ans = ''
         for i in range(len(chs)):
-            res += chs[i]
-        return res
+            ans += chs[i]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
