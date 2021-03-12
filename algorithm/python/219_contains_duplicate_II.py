@@ -1,17 +1,17 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         dict_num = {}
-        res = False
+        ans = False
         for i in range(len(nums)):
             if nums[i] in dict_num:
                 if i - dict_num[nums[i]] <= k:
-                    res = True
+                    ans = True
                     break
                 else:
                     dict_num[nums[i]] = i
             else:
                 dict_num[nums[i]] = i
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
