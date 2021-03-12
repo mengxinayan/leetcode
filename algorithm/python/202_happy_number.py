@@ -2,24 +2,24 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         
         def cal(n: int) -> int:
-            res = 0
+            ans = 0
             while n != 0:
-                res = res + (n%10) ** 2
+                ans = ans + (n%10) ** 2
                 n = n // 10
-            return res
+            return ans
 
         nums = set([])
-        res = True
-        cal_res = cal(n)
-        nums.add(cal_res)
-        while cal_res != 1:
-            cal_res = cal(cal_res)
-            if cal_res in nums:
-                res = False
+        ans = True
+        cal_ans = cal(n)
+        nums.add(cal_ans)
+        while cal_ans != 1:
+            cal_ans = cal(cal_ans)
+            if cal_ans in nums:
+                ans = False
                 break
             else:
-                nums.add(cal_res)
-        return res
+                nums.add(cal_ans)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
