@@ -6,7 +6,7 @@ class Solution:
                 chs_dict[magazine[i]] = 1
             else:
                 chs_dict[magazine[i]] += 1
-        res = False
+        ans = False
         for i in range(len(ransomNote)):
             if ransomNote[i] in chs_dict:
                 if chs_dict[ransomNote[i]] == 1:
@@ -16,8 +16,8 @@ class Solution:
             else:
                 break
         else:
-            res = True
-        return res
+            ans = True
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
