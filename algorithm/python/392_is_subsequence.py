@@ -2,7 +2,7 @@ class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         j = 0
         length = len(s)
-        res = True
+        ans = True
         for i in range(len(t)):
             if j < length:
                 if t[i] == s[j]:
@@ -11,8 +11,8 @@ class Solution:
                 break
         else:
             if j < length:
-                res = False
-        return res
+                ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
