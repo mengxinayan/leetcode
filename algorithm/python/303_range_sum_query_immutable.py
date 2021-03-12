@@ -6,10 +6,10 @@ class NumArray:
         self.arr = nums[:]
 
     def sumRange(self, i: int, j: int) -> int:
-        res = 0
+        ans = 0
         for index in range(i, j+1):
-            res += self.arr[index]
-        return res
+            ans += self.arr[index]
+        return ans
 
 
 # Your NumArray object will be instantiated and called as such:
