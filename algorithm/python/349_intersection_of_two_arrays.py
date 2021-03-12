@@ -3,11 +3,11 @@ class Solution:
         
         # len(nums1) < len(set2)
         def cal(nums1: List[int], set2: set) -> List[int]:
-            res = []
+            ans = []
             for i in range(len(nums1)):
                 if nums1[i] in set2:
-                    res.append(nums1[i])
-            return res
+                    ans.append(nums1[i])
+            return ans
         
         set1 = set(nums1)
         set2 = set(nums2)
