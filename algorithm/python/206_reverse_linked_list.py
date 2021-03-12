@@ -8,13 +8,13 @@ class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         if head == None:
             return None
-        res = None
+        ans = None
         while head != None:
             p = ListNode(head.val)
-            p.next = res
-            res = p
+            p.next = ans
+            ans = p
             head = head.next
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
