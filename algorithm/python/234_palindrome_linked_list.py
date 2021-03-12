@@ -13,14 +13,14 @@ class Solution:
             p = p.next
         left = 0
         right = len(nums) - 1
-        res = True
+        ans = True
         while left < right:
             if nums[left] != nums[right]:
-                res = False
+                ans = False
                 break
             left += 1
             right -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
