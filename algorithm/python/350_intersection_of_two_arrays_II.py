@@ -2,24 +2,24 @@ class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         
         def list_to_dict(nums: List[int]) -> dict:
-            res = {}
+            ans = {}
             for i in range(len(nums)):
-                if nums[i] not in res:
-                    res[nums[i]] = 1
+                if nums[i] not in ans:
+                    ans[nums[i]] = 1
                 else:
-                    res[nums[i]] += 1
-            return res
+                    ans[nums[i]] += 1
+            return ans
         
         def cal_intersection(num_dict: dict, nums: List[int]) -> List[int]:
-            res = []
+            ans = []
             for i in range(len(nums)):
                 if nums[i] in num_dict:
-                    res.append(nums[i])
+                    ans.append(nums[i])
                     if num_dict[nums[i]] == 1:
                         del num_dict[nums[i]]
                     else:
                         num_dict[nums[i]] -= 1
-            return res
+            return ans
 
         if (len(nums1) == 0) or (len(nums2) == 0):
             return []
