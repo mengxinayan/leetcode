@@ -5,7 +5,7 @@ class Solution:
         elif len(nums) == 1:
             return [str(nums[0])]
         else:
-            res = []
+            ans = []
             start = pre = nums[0]
             for i in range(1, len(nums)):
                 curr = nums[i]
@@ -13,15 +13,15 @@ class Solution:
                     pre = curr
                 else:
                     if start == pre:
-                        res.append(str(start))
+                        ans.append(str(start))
                     else:
-                        res.append(str(start)+'->'+str(pre))
+                        ans.append(str(start)+'->'+str(pre))
                     start = pre = curr
             if start == pre:
-                res.append(str(start))
+                ans.append(str(start))
             else:
-                res.append(str(start)+'->'+str(pre))
-            return res
+                ans.append(str(start)+'->'+str(pre))
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
