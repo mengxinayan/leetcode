@@ -1,18 +1,18 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         char_map = {}
-        res = True
+        ans = True
         for i in range(len(s)):
             if (s[i] not in char_map) and (t[i] not in char_map.values()):
                 char_map[s[i]] = t[i]
             elif (s[i] not in char_map) and (t[i] in char_map.values()):
-                res = False
+                ans = False
                 break
             else:
                 if char_map[s[i]] != t[i]:
-                    res = False
+                    ans = False
                     break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
