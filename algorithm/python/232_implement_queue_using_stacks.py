@@ -20,11 +20,11 @@ class MyQueue:
         tmp = []
         while len(self.nums) != 1:
             tmp.append(self.nums.pop())
-        res = self.nums.pop()
+        ans = self.nums.pop()
         tmp.reverse()
         for i in range(len(tmp)):
             self.nums.append(tmp[i])
-        return res 
+        return ans 
         
 
     def peek(self) -> int:
