@@ -20,10 +20,10 @@ class MyStack:
         tmp = []
         while len(self.nums) != 1:
             tmp.append(self.nums.pop(0))
-        res = self.nums.pop()
+        ans = self.nums.pop()
         for i in range(len(tmp)):
             self.nums.append(tmp[i])
-        return res
+        return ans
         
 
     def top(self) -> int:
