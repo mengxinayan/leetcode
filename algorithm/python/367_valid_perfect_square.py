@@ -6,7 +6,7 @@ class Solution:
             else:
                 return False
         else:
-            res = True
+            ans = True
             left = 0
             right = num
             mid = (left + right) // 2
@@ -17,7 +17,7 @@ class Solution:
                     if (mid-1) * (mid-1) == num:
                         break
                     elif (mid-1) * (mid-1) < num:
-                        res = False
+                        ans = False
                         break
                     else:
                         right = mid - 1
@@ -26,12 +26,12 @@ class Solution:
                     if (mid+1) * (mid+1) == num:
                         break
                     elif (mid+1) * (mid+1) > num:
-                        res = False
+                        ans = False
                         break
                     else:
                         left = mid + 1
                         mid = (left + right) // 2
-            return res
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
