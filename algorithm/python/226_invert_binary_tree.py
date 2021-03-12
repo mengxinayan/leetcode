@@ -12,10 +12,10 @@ class Solution:
         elif (root != None) and (root.left == None) and (root.right == None):
             return TreeNode(root.val)
         else:
-            res = TreeNode(root.val)
-            res.left = self.invertTree(root.right)
-            res.right = self.invertTree(root.left)
-            return res
+            ans = TreeNode(root.val)
+            ans.left = self.invertTree(root.right)
+            ans.right = self.invertTree(root.left)
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
