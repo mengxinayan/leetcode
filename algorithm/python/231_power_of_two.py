@@ -3,13 +3,13 @@
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         tmp = 1
-        res = False
+        ans = False
         while tmp <= n:
             if tmp == n:
-                res = True
+                ans = True
                 break
             tmp += tmp
-        return res
+        return ans
 
 
 # Solution 2
