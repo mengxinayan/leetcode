@@ -2,20 +2,20 @@ class Solution:
     def countPrimes(self, n: int) -> int:
         if n == 0 or n == 1 or n == 2:
             return 0
-        res = n - 2
+        ans = n - 2
         nums = set([2])
         i = 2
         while i * i < n:
             tmp = i * i
             while tmp < n:
                 if tmp not in nums:
-                    res -= 1
+                    ans -= 1
                     nums.add(tmp)
                 tmp += i
             i += 1
             while i in nums:
                 i += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
