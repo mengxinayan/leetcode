@@ -383,6 +383,7 @@
 | 48 | [Rotate Image](https://leetcode-cn.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py) | 中等 | 数组 |
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | 中等 | 回溯算法 |
 | 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py) | 中等 | 回溯算法 |
+| 45 | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | [Python3](./algorithm/python/45_jump_game_II.py) | 中等 | 贪心算法, 数组 |
 | 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | 中等 | 数学, 字符串 |
 | 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | 中等 | 数组, 回溯算法 |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | 中等 | 数组, 回溯算法 |
