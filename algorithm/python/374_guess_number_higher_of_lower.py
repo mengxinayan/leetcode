@@ -7,10 +7,10 @@ class Solution:
         left = 1
         right = n
         mid = (left + right) // 2 
-        res = 0
+        ans = 0
         while left <= right:
             if guess(mid) == 0:
-                res = mid
+                ans = mid
                 break
             elif guess(mid) == -1:
                 right = mid - 1
@@ -18,7 +18,7 @@ class Solution:
             else:
                 left = mid + 1
                 mid = (left + right) // 2
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
