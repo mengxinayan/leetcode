@@ -8,7 +8,7 @@ class Solution:
                 ch_dict[t[i]] = 1
             else:
                 ch_dict[t[i]] += 1
-        res = ''
+        ans = ''
         for i in range(len(s)):
             if s[i] in ch_dict:
                 if ch_dict[s[i]] == 1:
@@ -16,11 +16,11 @@ class Solution:
                 else:
                     ch_dict[s[i]] -= 1
             else:
-                res = s[i]
+                ans = s[i]
                 break
         else:
-            res = list(ch_dict.keys())[0]
-        return res
+            ans = list(ch_dict.keys())[0]
+        return ans
 
 
 # Solution 2
