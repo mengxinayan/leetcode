@@ -3,7 +3,7 @@ class Solution:
         string = s.strip()
         if len(string) == 0:
             return 0
-        res = 1
+        ans = 1
         flag = True
         for i in range(len(string)):
             if string[i] == ' ':
@@ -12,8 +12,8 @@ class Solution:
             else:
                 if flag == False:
                     flag = True
-                    res += 1
-        return res
+                    ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
