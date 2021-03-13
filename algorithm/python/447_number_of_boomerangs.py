@@ -12,16 +12,16 @@ class Solution:
                     path_len_dict[tmp] = 1
                 else:
                     path_len_dict[tmp] += 1
-            res = 0
+            ans = 0
             for value in path_len_dict.values():
                 if value > 1:
-                    res += value * (value-1)
-            return res
+                    ans += value * (value-1)
+            return ans
         
-        res = 0
+        ans = 0
         for i in range(len(points)):
-            res += cal_point_num_of_boomerangs(points[i], points[:i] + points[i+1:])
-        return res
+            ans += cal_point_num_of_boomerangs(points[i], points[:i] + points[i+1:])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
