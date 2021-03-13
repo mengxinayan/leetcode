@@ -2,39 +2,39 @@ class Solution:
     def readBinaryWatch(self, num: int) -> List[str]:
 
         def combine_hour_and_minute(hour: List[str], minute: List[str]) -> List[str]:
-            res = []
+            ans = []
             for i in range(len(hour)):
                 for j in range(len(minute)):
-                    res.append(hour[i] + ':' + minute[j])
-            return res
+                    ans.append(hour[i] + ':' + minute[j])
+            return ans
 
         def cal_hour_value(n):
             arr = [1, 2, 4, 8]
             tmp = combination(arr, n)
-            res = []
+            ans = []
             for nums in tmp:
                 t = sum(nums)
                 if t < 12:
-                    res.append(str(t))
+                    ans.append(str(t))
                 else:
                     pass
-            return res
+            return ans
 
         def cal_minute_value(n):
             arr = [1, 2, 4, 8, 16, 32]
             tmp = combination(arr, n)
-            res = []
+            ans = []
             for nums in tmp:
                 t = sum(nums)
                 if t == 0:
-                    res.append('00')
+                    ans.append('00')
                 elif 1 <= t <= 9:
-                    res.append('0'+str(t))
+                    ans.append('0'+str(t))
                 elif 10 <= t < 60:
-                    res.append(str(t))
+                    ans.append(str(t))
                 else:
                     pass
-            return res
+            return ans
 
         def combination(L, k): # C(n,k) = C(n-1,k) + C(n-1,k-1)
             if k >= len(L):
@@ -55,19 +55,19 @@ class Solution:
                 return []
         else:
             if num <= 4:
-                res = []
+                ans = []
                 for i in range(num+1):
                     hour = cal_hour_value(i)
                     minute = cal_minute_value(num-i)
-                    res.extend(combine_hour_and_minute(hour, minute))
-                return res
+                    ans.extend(combine_hour_and_minute(hour, minute))
+                return ans
             else:
-                res = []
+                ans = []
                 for i in range(5):
                     hour = cal_hour_value(i)
                     minute = cal_minute_value(num-i)
-                    res.extend(combine_hour_and_minute(hour, minute))
-                return res
+                    ans.extend(combine_hour_and_minute(hour, minute))
+                return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
