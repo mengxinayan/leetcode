@@ -1,20 +1,20 @@
 class Solution:
     def findRelativeRanks(self, nums: List[int]) -> List[str]:
-        res = ['' for i in range(len(nums))]
+        ans = ['' for i in range(len(nums))]
         num_index = {}
         for i in range(len(nums)):
             num_index[nums[i]] = i
         nums.sort(reverse=True)
         for i in range(len(nums)):
             if i == 0:
-                res[num_index[nums[i]]] = 'Gold Medal'
+                ans[num_index[nums[i]]] = 'Gold Medal'
             elif i == 1:
-                res[num_index[nums[i]]] = 'Silver Medal'
+                ans[num_index[nums[i]]] = 'Silver Medal'
             elif i == 2:
-                res[num_index[nums[i]]] = 'Bronze Medal'
+                ans[num_index[nums[i]]] = 'Bronze Medal'
             else:
-                res[num_index[nums[i]]] = str(i+1)
-        return res
+                ans[num_index[nums[i]]] = str(i+1)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
