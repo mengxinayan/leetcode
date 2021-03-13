@@ -3,19 +3,19 @@ class Solution:
 
         def cal_sum(s1: str, s2: str) -> str: # len(s1) >= len(s2)
             s2 = s2.rjust(len(s1), '0')
-            res = ''
+            ans = ''
             flag = 0
             for i in range(len(s1)-1, -1, -1):
                 tmp = ord(s1[i]) - ord('0') + ord(s2[i]) - ord('0') + flag
                 if tmp >= 10:
-                    res = str(tmp-10) + res
+                    ans = str(tmp-10) + ans
                     flag = 1
                 else:
-                    res = str(tmp) + res
+                    ans = str(tmp) + ans
                     flag = 0
             if flag == 1:
-                res = str(flag) + res
-            return res
+                ans = str(flag) + ans
+            return ans
         
         if len(num1) >= len(num2):
             return cal_sum(num1, num2)
