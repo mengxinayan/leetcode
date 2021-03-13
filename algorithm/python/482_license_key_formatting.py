@@ -7,19 +7,19 @@ class Solution:
                 tmp += S[i]
         if len(tmp) == 0: # S = '---'
             return ''
-        res = ''
+        ans = ''
         first = len(tmp) % K
         i = 0
         if first != 0:
-            res += tmp[:first]
+            ans += tmp[:first]
             i = first
         else:
-            res += tmp[:K]
+            ans += tmp[:K]
             i = K
         while i != len(tmp):
-            res = res + '-' + tmp[i:i+K]
+            ans = ans + '-' + tmp[i:i+K]
             i += K
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
