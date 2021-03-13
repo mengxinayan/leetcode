@@ -10,19 +10,19 @@ class Solution:
                     index = i
             if index == -1:
                 return -1
-            res = 0
+            ans = 0
             for i in range(index+1, len(nums2)):
                 if nums2[i] > nums1[pos]:
-                    res = nums2[i]
+                    ans = nums2[i]
                     break
             else:
-                res = -1
-            return res
+                ans = -1
+            return ans
 
-        res = []
+        ans = []
         for i in range(len(nums1)):
-            res.append(find_next_greater(i))
-        return res
+            ans.append(find_next_greater(i))
+        return ans
 
 
 # Solution 2: Using stack
@@ -37,13 +37,13 @@ class Solution:
                 stack.pop()
             if (len(stack) == 0) or (nums2[i] <= stack[-1]):
                 stack.append(nums2[i])
-        res = []
+        ans = []
         for i in range(0, len(nums1)):
             if nums1[i] in num_next_greater_num:
-                res.append(num_next_greater_num[nums1[i]])
+                ans.append(num_next_greater_num[nums1[i]])
             else:
-                res.append(-1)
-        return res
+                ans.append(-1)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
