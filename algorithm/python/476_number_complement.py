@@ -2,7 +2,7 @@ class Solution:
     def findComplement(self, num: int) -> int:
         number = num
         valid_num = 31
-        res = 0
+        ans = 0
         while valid_num != 0:
             if (num & 0x80000000) == 0x80000000:
                 break
@@ -12,10 +12,10 @@ class Solution:
         valid_number = valid_num
         while valid_num != 0:
             if (number & 0x1) == 0:
-                res += 2 ** (valid_number - valid_num)
+                ans += 2 ** (valid_number - valid_num)
             number = number >> 1
             valid_num -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
