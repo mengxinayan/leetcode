@@ -6,16 +6,16 @@ class Solution:
         g.reverse()
         s.sort()
         s.reverse()
-        res = 0
+        ans = 0
         i = j = 0
         while (i != len(s)) and (j != len(g)):
             if s[i] >= g[j]:
-                res += 1
+                ans += 1
                 i += 1
                 j += 1
             else:
                 j += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
