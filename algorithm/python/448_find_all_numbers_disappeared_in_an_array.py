@@ -1,11 +1,11 @@
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         set_nums = set(nums)
-        res = []
+        ans = []
         for i in range(1, len(nums)+1):
             if i not in set_nums:
-                res.append(i)
-        return res
+                ans.append(i)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
