@@ -1,11 +1,11 @@
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        res = 0
+        ans = 0
         for i in range(32):
-            res += ((x & 1) ^ (y & 1))
+            ans += ((x & 1) ^ (y & 1))
             x = x >> 1
             y = y >> 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
