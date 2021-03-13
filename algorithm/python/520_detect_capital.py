@@ -4,7 +4,7 @@ class Solution:
             return True
         upper_chars = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'}
         lower_chars = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'}
-        res = True
+        ans = True
         if word[0] in upper_chars:
             if len(word) == 2:
                 return True
@@ -12,19 +12,19 @@ class Solution:
                 if word[1] in upper_chars:
                     for i in range(2, len(word)):
                         if word[i] not in upper_chars:
-                            res = False
+                            ans = False
                             break
                 else:
                     for i in range(2, len(word)):
                         if word[i] not in lower_chars:
-                            res = False
+                            ans = False
                             break
         else:
             for i in range(1, len(word)):
                 if word[i] not in lower_chars:
-                    res = False
+                    ans = False
                     break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
