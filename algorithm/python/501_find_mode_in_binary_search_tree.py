@@ -24,11 +24,11 @@ class Solution:
         num_times = {}
         recursive(root)
         max_times = max(num_times.values())
-        res = []
+        ans = []
         for key,value in num_times.items():
             if value == max_times:
-                res.append(key)
-        return res
+                ans.append(key)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
