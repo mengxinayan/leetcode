@@ -17,10 +17,10 @@ class Solution:
 
         arr = []
         in_order(root)
-        res = float('inf')
+        ans = float('inf')
         for i in range(0, len(arr)-1):
-            res = min(res, arr[i+1]-arr[i])
-        return res
+            ans = min(ans, arr[i+1]-arr[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
