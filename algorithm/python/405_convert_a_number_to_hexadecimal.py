@@ -2,14 +2,14 @@ class Solution:
     def toHex(self, num: int) -> str:
         if num == 0:
             return '0'
-        res = ''
+        ans = ''
         number = '0123456789abcdef'
         mask = 0xf
         for i in range(8):
-            res = number[num & mask] + res
+            ans = number[num & mask] + ans
             num = num >> 4
-        res = res.lstrip('0')
-        return res
+        ans = ans.lstrip('0')
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
