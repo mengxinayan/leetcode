@@ -1,6 +1,6 @@
 class Solution:
     def findPairs(self, nums: List[int], k: int) -> int:
-        res = 0
+        ans = 0
         if k < 0:
             pass
         else:
@@ -17,15 +17,15 @@ class Solution:
             if k == 0:
                 for key in keys:
                     if num_times[key] > 1:
-                        res += 1
+                        ans += 1
             else:
                 for key in keys:
                     del num_times[key]
                     if key + k in num_times:
-                        res += 1
+                        ans += 1
                     if key - k in num_times:
-                        res += 1
-        return res
+                        ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
