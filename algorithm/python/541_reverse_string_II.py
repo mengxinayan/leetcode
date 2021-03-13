@@ -1,12 +1,12 @@
 class Solution:
     def reverseStr(self, s: str, k: int) -> str:
-        res = ''
+        ans = ''
         for i in range(0, len(s), 2*k):
             if i+k <= len(s):
-                res = res + s[i:i+k][::-1] + s[i+k:i+2*k]
+                ans = ans + s[i:i+k][::-1] + s[i+k:i+2*k]
             else:
-                res = res + s[i:len(s)][::-1]
-        return res
+                ans = ans + s[i:len(s)][::-1]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
