@@ -4,37 +4,37 @@ class Solution:
         def is_in_one_row(word: str) -> bool:
             if len(word) == 0:
                 return True
-            res = False
+            ans = False
             if word[0] in set1:
                 for i in range(1, len(word)):
                     if word[i] not in set1:
                         break
                 else:
-                    res = True
+                    ans = True
             elif word[0] in set2:
                 for i in range(1, len(word)):
                     if word[i] not in set2:
                         break
                 else:
-                    res = True
+                    ans = True
             elif word[0] in set3:
                 for i in range(1, len(word)):
                     if word[i] not in set3:
                         break
                 else:
-                    res = True
+                    ans = True
             else:
                 pass
-            return res
+            return ans
 
         set1 = {'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'}
         set2 = {'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'}
         set3 = {'z', 'x', 'c', 'v', 'b', 'n', 'm', 'Z', 'X', 'C', 'V', 'B', 'N', 'M'}
-        res = []
+        ans = []
         for i in range(len(words)):
             if is_in_one_row(words[i]) == True:
-                res.append(words[i])
-        return res
+                ans.append(words[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
