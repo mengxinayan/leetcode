@@ -2,16 +2,16 @@ class Solution:
     def convertToBase7(self, num: int) -> str:
         if num == 0: # Don't forget this case!
             return '0'
-        res = ''
+        ans = ''
         flag = ''
         if num < 0:
             flag = '-'
             num = -num
         while num != 0:
-            res = str(num%7) + res
+            ans = str(num%7) + ans
             num //= 7
-        res = flag + res
-        return res
+        ans = flag + ans
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
