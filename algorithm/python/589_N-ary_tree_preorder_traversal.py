@@ -13,13 +13,13 @@ class Solution:
             if root == None:
                 pass
             elif root != None:
-                self.res_nums.append(root.val)
+                self.ans_nums.append(root.val)
                 for node in root.children:
                     traversal(node)
 
-        self.res_nums = []
+        self.ans_nums = []
         traversal(root)
-        return self.res_nums
+        return self.ans_nums
 
 '''
     This is my personal record of solving Leetcode Problems. 
