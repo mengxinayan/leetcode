@@ -2,24 +2,24 @@ class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
 
         def str_to_dict(str_list: List[str]) -> dict:
-            res = {}
+            ans = {}
             for i in range(len(str_list)):
-                res[str_list[i]] = i
-            return res
+                ans[str_list[i]] = i
+            return ans
         
         def cal_min_index(dict1: dict, dict2: dict) -> List[str]:
             min_index = len(dict1) + len(dict2)
-            res = []
+            ans = []
             for key in dict1.keys():
                 if key in dict2:
                     if dict1[key]+dict2[key] < min_index:
                         min_index = dict1[key]+dict2[key]
-                        res = [key]
+                        ans = [key]
                     elif dict1[key]+dict2[key] == min_index:
-                        res.append(key)
+                        ans.append(key)
                     else:
                         pass
-            return res
+            return ans
 
         dict1 = str_to_dict(list1)
         dict2 = str_to_dict(list2)
