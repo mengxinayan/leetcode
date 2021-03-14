@@ -3,8 +3,8 @@ class Solution:
         str_arr = s.split(' ')
         for i in range(len(str_arr)):
             str_arr[i] = str_arr[i][::-1]
-        res = ' '.join(str_arr)
-        return res
+        ans = ' '.join(str_arr)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
