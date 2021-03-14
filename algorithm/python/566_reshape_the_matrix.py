@@ -3,19 +3,19 @@ class Solution:
         if r*c != len(nums)*len(nums[0]):
             return nums
         else:
-            res = []
+            ans = []
             tmp = []
             count = 0
             for i in range(len(nums)):
                 for j in range(len(nums[0])):
                     if count == c:
-                        res.append(tmp)
+                        ans.append(tmp)
                         tmp = []
                         count = 0
                     count += 1
                     tmp.append(nums[i][j])
-            res.append(tmp)
-            return res
+            ans.append(tmp)
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
