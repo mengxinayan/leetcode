@@ -7,7 +7,7 @@
 
 class Solution:
     def longestUnivaluePath(self, root: TreeNode) -> int:
-        self.res = 0
+        self.ans = 0
 
         def node_length(node: TreeNode) -> int:
             if node == None:
@@ -19,11 +19,11 @@ class Solution:
                 left_len = left_length + 1
             if (node.right != None) and (node.right.val == node.val):
                 right_len = right_length + 1
-            self.res = max(self.res, left_len+right_len)
+            self.ans = max(self.ans, left_len+right_len)
             return max(left_len, right_len)
 
         node_length(root)
-        return self.res
+        return self.ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
