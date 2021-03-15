@@ -10,7 +10,7 @@ class Solution:
         if root == None:
             return []
         node_queue = [root]
-        res = []
+        ans = []
         while node_queue:
             next_nodes = []
             curr_values = []
@@ -21,8 +21,8 @@ class Solution:
                 if node.right != None:
                     next_nodes.append(node.right)
             node_queue = next_nodes
-            res.append(sum(curr_values)/len(curr_values))
-        return res
+            ans.append(sum(curr_values)/len(curr_values))
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
