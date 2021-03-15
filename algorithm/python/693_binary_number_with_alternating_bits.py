@@ -4,15 +4,15 @@ class Solution:
             return True
         pre = n % 2
         n = n // 2
-        res = True
+        ans = True
         while n != 0:
             if n % 2 != pre:
                 pre = n % 2
                 n = n // 2
             else:
-                res = False
+                ans = False
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
