@@ -1,15 +1,15 @@
 class Solution:
     def toLowerCase(self, str: str) -> str:
-        res = ''
+        ans = ''
         length = ord('a') - ord('A')
         for ch in str:
             if (ch >= 'a') and (ch <= 'z'):
-                res += ch
+                ans += ch
             elif (ch >= 'A') and (ch <= 'Z'):
-                res += chr(ord(ch) + length)
+                ans += chr(ord(ch) + length)
             else:
-                res += ch
-        return res
+                ans += ch
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
