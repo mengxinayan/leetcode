@@ -1,6 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        res = -1
+        ans = -1
         left = 0
         right = len(nums)-1
         while left <= right:
@@ -11,9 +11,9 @@ class Solution:
             elif nums[mid] > target:
                 right = mid - 1
             else:
-                res = mid
+                ans = mid
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
