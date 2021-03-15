@@ -11,14 +11,14 @@ class Solution:
             for i in range(max_num):
                 square_nums.append(i**2)
             square_nums_set = set(square_nums)
-            res = False
+            ans = False
             for i in range(len(square_nums)):
                 if c-square_nums[i] in square_nums_set:
-                    res = True
+                    ans = True
                     break
                 else:
                     pass
-            return res
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
