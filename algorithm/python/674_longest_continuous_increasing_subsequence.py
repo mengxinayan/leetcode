@@ -2,15 +2,15 @@ class Solution:
     def findLengthOfLCIS(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
-        res = 0
+        ans = 0
         count = 1
         for i in range(len(nums)-1):
             if nums[i] < nums[i+1]:
                 count += 1
             else:
-                res = max(res, count)
+                ans = max(ans, count)
                 count = 1
-        return max(res, count)
+        return max(ans, count)
 
 '''
     This is my personal record of solving Leetcode Problems. 
