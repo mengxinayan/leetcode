@@ -2,15 +2,15 @@ class Solution:
     def repeatedStringMatch(self, A: str, B: str) -> int:
         length_A = len(A)
         length_B = len(B)
-        repeted_times = 0
+        repeated_times = 0
         if length_B % length_A == 0:
-            repeted_times = length_B // length_A
+            repeated_times = length_B // length_A
         else:
-            repeted_times = length_B // length_A + 1
-        if B in (A * repeted_times):
-            return repeted_times
-        elif B in (A * (repeted_times+1)):
-            return repeted_times + 1
+            repeated_times = length_B // length_A + 1
+        if B in (A * repeated_times):
+            return repeated_times
+        elif B in (A * (repeated_times+1)):
+            return repeated_times + 1
         else:
             return -1
 
