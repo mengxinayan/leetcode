@@ -1,17 +1,17 @@
 class Solution:
     def checkPossibility(self, nums: List[int]) -> bool:
         count = 0
-        res = True
+        ans = True
         for i in range(len(nums)-1):
             if nums[i] > nums[i+1]:
                 count += 1
                 if i+1 < len(nums)-1 and i-1 >= 0:
                     if (nums[i] > nums[i+2]) and (nums[i-1] > nums[i+1]):
-                        res = False
+                        ans = False
                         break
         if count > 1:
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
