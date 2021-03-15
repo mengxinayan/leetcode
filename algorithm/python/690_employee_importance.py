@@ -11,23 +11,23 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        self.res = 0
+        self.ans = 0
 
         def find_subordinates(employees: List['Employee'], id: int) -> Employee:
-            res = None
+            ans = None
             for employee in employees:
                 if employee.id == id:
-                    res = employee
-            return res
+                    ans = employee
+            return ans
         
         def cal_total_importance(employees: List['Employee'], id: int) -> int:
             employee = find_subordinates(employees, id)
-            self.res += employee.importance
+            self.ans += employee.importance
             for subordinate_id in employee.subordinates:
                 cal_total_importance(employees, subordinate_id)
         
         cal_total_importance(employees, id)
-        return self.res
+        return self.ans
 
 
 # Solution 2
@@ -43,7 +43,7 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        self.res = 0
+        self.ans = 0
         self.employee_dict = {}
 
         def build_dict(employees: List['Employee']) -> dict:
@@ -55,13 +55,13 @@ class Solution:
         
         def cal_total_importance(id: int) -> int:
             employee = find_employee(id)
-            self.res += employee.importance
+            self.ans += employee.importance
             for subordinate_id in employee.subordinates:
                 cal_total_importance(subordinate_id)
         
         build_dict(employees)
         cal_total_importance(id)
-        return self.res
+        return self.ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
