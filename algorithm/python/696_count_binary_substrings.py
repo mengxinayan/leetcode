@@ -2,7 +2,7 @@ class Solution:
     def countBinarySubstrings(self, s: str) -> int:
         if len(s) <= 1:
             return 0
-        res = last = 0
+        ans = last = 0
         cur = 1
         for i in range(1, len(s)):
             if s[i] == s[i-1]:
@@ -11,8 +11,8 @@ class Solution:
                 last = cur
                 cur = 1
             if last >= cur:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
