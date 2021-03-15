@@ -16,10 +16,10 @@ class Solution:
                 max_degree_nums.append(num)
             else:
                 pass
-        res = len(nums)+1
+        ans = len(nums)+1
         for number in max_degree_nums:
-            res = min(res, num_index_dict[number][-1]-num_index_dict[number][0]+1)
-        return res
+            ans = min(ans, num_index_dict[number][-1]-num_index_dict[number][0]+1)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
