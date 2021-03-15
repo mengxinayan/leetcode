@@ -20,16 +20,16 @@ class Solution:
         tree_to_nums(root)
         left = 0
         right = len(self.arr) - 1
-        res = False
+        ans = False
         while left < right:
             if self.arr[left] + self.arr[right] == k:
-                res = True
+                ans = True
                 break
             elif self.arr[left] + self.arr[right] < k:
                 left += 1
             else:
                 right -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
