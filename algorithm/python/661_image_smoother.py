@@ -2,13 +2,13 @@ class Solution:
     def imageSmoother(self, M: List[List[int]]) -> List[List[int]]:
 
         def process_M(M: List[List[int]]) -> List[List[int]]:
-            res = copy.deepcopy(M)
+            ans = copy.deepcopy(M)
             for i in range(len(M)):
-                res[i].append(0)
-                res[i].insert(0, 0)
-            res.insert(0, [0 for i in range(len(M[0])+2)])
-            res.append([0 for i in range(len(M[0])+2)])
-            return res
+                ans[i].append(0)
+                ans[i].insert(0, 0)
+            ans.insert(0, [0 for i in range(len(M[0])+2)])
+            ans.append([0 for i in range(len(M[0])+2)])
+            return ans
         
         def cal_surrounding_cells_sum(M: List[List[int]], i, j) -> int:
             return M[i-1][j-1] + M[i-1][j] + M[i-1][j+1] + M[i][j-1] + M[i][j] + M[i][j+1] + M[i+1][j-1] + M[i+1][j] + M[i+1][j+1]
@@ -19,35 +19,35 @@ class Solution:
             return M
         if (matrix_row == 1) or (matrix_col == 1):
             if matrix_row == 1:
-                res = [[0 for i in range(matrix_col)]]
-                res[0][0] = (M[0][0] + M[0][1]) // 2
-                res[0][matrix_col-1] = (M[0][matrix_col-1] + M[0][matrix_col-2]) // 2
+                ans = [[0 for i in range(matrix_col)]]
+                ans[0][0] = (M[0][0] + M[0][1]) // 2
+                ans[0][matrix_col-1] = (M[0][matrix_col-1] + M[0][matrix_col-2]) // 2
                 for i in range(1, matrix_col-1):
-                    res[0][i] = (M[0][i-1] + M[0][i] + M[0][i+1]) // 3
-                return res
+                    ans[0][i] = (M[0][i-1] + M[0][i] + M[0][i+1]) // 3
+                return ans
             else:
-                res = [[0] for i in range(matrix_row)]
-                res[0][0] = (M[0][0] + M[1][0]) // 2
-                res[matrix_row-1][0] = (M[matrix_row-1][0] + M[matrix_row-2][0]) // 2
+                ans = [[0] for i in range(matrix_row)]
+                ans[0][0] = (M[0][0] + M[1][0]) // 2
+                ans[matrix_row-1][0] = (M[matrix_row-1][0] + M[matrix_row-2][0]) // 2
                 for i in range(1, matrix_row-1):
-                    res[i][0] = (M[i-1][0] + M[i][0] + M[i+1][0]) // 3
-                return res
+                    ans[i][0] = (M[i-1][0] + M[i][0] + M[i+1][0]) // 3
+                return ans
 
         new_M = process_M(M)
         matrix_angles = [[0,0], [0, matrix_col-1], [matrix_row-1, 0], [matrix_row-1, matrix_col-1]]
         matrix_row_edge_set = set([i for i in range(1, matrix_row)])
         matrix_col_edge_set = set([i for i in range(1, matrix_col)])
-        res = [[0 for i in range(matrix_col)] for j in range(matrix_row)]
+        ans = [[0 for i in range(matrix_col)] for j in range(matrix_row)]
         for i in range(matrix_row):
             for j in range(matrix_col):
                 if [i, j] in matrix_angles:
-                    res[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//4
+                    ans[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//4
                 elif ( (i in {0, matrix_row-1}) and (j in matrix_col_edge_set) ) \
                   or ( (j in {0, matrix_col-1}) and (i in matrix_row_edge_set) ):
-                    res[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//6
+                    ans[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//6
                 else:
-                    res[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//9
-        return res
+                    ans[i][j] = cal_surrounding_cells_sum(new_M, i+1, j+1)//9
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
