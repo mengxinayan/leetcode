@@ -4,32 +4,32 @@ class Solution:
         def is_palindrome(s: str) -> bool:
             left = 0
             right = len(s)-1
-            res = True
+            ans = True
             while left <= right:
                 if s[left] == s[right]:
                     left += 1
                     right -= 1
                 else:
-                    res = False
+                    ans = False
                     break
-            return res
+            return ans
 
         if len(s) <= 2:
             return True
         left = 0
         right = len(s)-1
-        res = True
+        ans = True
         while left < right:
             if s[left] == s[right]:
                 left += 1
                 right -= 1
             else:
                 if (s[left+1] != s[right]) and (s[left] != s[right-1]):
-                    res = False
+                    ans = False
                 else:
-                    res = ( is_palindrome(s[left+1:right+1]) ) or ( is_palindrome(s[left:right]) )
+                    ans = ( is_palindrome(s[left+1:right+1]) ) or ( is_palindrome(s[left:right]) )
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
