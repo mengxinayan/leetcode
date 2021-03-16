@@ -8,12 +8,12 @@ class Solution:
             left_sum.append(left_sum[i-1]+nums[i])
             right_sum.append(right_sum[i-1]+nums[-i-1])
         right_sum.reverse()
-        res = -1
+        ans = -1
         for i in range(len(left_sum)):
             if left_sum[i] == right_sum[i]:
-                res = i
+                ans = i
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
