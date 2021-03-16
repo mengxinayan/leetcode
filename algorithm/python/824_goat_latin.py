@@ -12,13 +12,13 @@ class Solution:
             return word
         
         words = S.split()
-        res = ''
+        ans = ''
         for i in range(len(words)):
             if i != len(words) - 1:
-                res = res + process_word(words[i], i) + ' '
+                ans = ans + process_word(words[i], i) + ' '
             else:
-                res += process_word(words[i], i)
-        return res
+                ans += process_word(words[i], i)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
