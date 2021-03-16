@@ -1,13 +1,13 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
         letter_set = set(letters)
-        res = ''
+        ans = ''
         for i in range(1, 27):
             ch = chr( ord('a') + (ord(target) - ord('a') + i) % 26 )
             if ch in letter_set:
-                res = ch
+                ans = ch
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
