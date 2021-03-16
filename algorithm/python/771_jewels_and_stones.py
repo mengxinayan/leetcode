@@ -6,11 +6,11 @@ class Solution:
                 stone_dict[ch] = 1
             else:
                 stone_dict[ch] += 1
-        res = 0
+        ans = 0
         for ch in J:
             if ch in stone_dict:
-                res += stone_dict[ch]
-        return res
+                ans += stone_dict[ch]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
