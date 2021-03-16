@@ -3,13 +3,13 @@ class Solution:
         if A == B:
             return True
         temp_str = A[:]
-        res = False
+        ans = False
         for i in range(len(A)):
             temp_str = temp_str[1:] + temp_str[0]
             if temp_str == B:
-                res = True
+                ans = True
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
