@@ -3,28 +3,28 @@ class Solution:
 
         def is_self_dividing_number(number: int) -> bool:
             num = number
-            res = True
+            ans = True
             while num != 0:
                 digit = num % 10
                 if digit > 1:
                     if number % digit != 0:
-                        res = False
+                        ans = False
                         break
                     else:
                         pass
                 elif digit == 0:
-                    res = False
+                    ans = False
                     break
                 else:
                     pass
                 num = num // 10
-            return res
+            return ans
         
-        res = []
+        ans = []
         for i in range(left, right+1):
             if is_self_dividing_number(i) == True:
-                res.append(i)
-        return res
+                ans.append(i)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
