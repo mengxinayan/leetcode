@@ -2,24 +2,24 @@ class Solution:
     def longestWord(self, words: List[str]) -> str:
 
         def check_valid(string: str, words_set: set) -> bool:
-            res = True
+            ans = True
             for i in range(1, len(words)):
                 if string[:i] not in words_set:
-                    res = False
+                    ans = False
                     break
-            return res
+            return ans
         
         # 因为 Python 中的排序是稳定的，所以先按照字典序排序
         # Because sorting in Python is stable. So first lexicographically sort
         words.sort()
         words.sort(key=len, reverse=True)
         words_set = set(words)
-        res = ''
+        ans = ''
         for i in range(len(words)):
             if check_valid(words[i], words_set) == True:
-                res = words[i]
+                ans = words[i]
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
