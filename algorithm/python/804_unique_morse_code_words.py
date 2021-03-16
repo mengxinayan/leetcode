@@ -3,10 +3,10 @@ class Solution:
         self.morse_code = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
 
         def word_to_morse_code(word: str) -> str:
-            res = ''
+            ans = ''
             for ch in word:
-                res += self.morse_code[ord(ch)-ord('a')]
-            return res
+                ans += self.morse_code[ord(ch)-ord('a')]
+            return ans
 
         morse_words_set = set()
         for i in range(len(words)):
