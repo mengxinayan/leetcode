@@ -4,18 +4,18 @@ class Solution:
         for i in range(len(S)):
             if S[i] == C:
                 ch_index.append(i)
-        res = []
+        ans = []
         count = 0
         for i in range(len(S)):
             if S[i] == C:
-                res.append(0)
+                ans.append(0)
                 # 避免超出 ch_index 的索引范围
                 # Avoid ch_index index out of range
                 if count < len(ch_index) - 1:
                     count += 1
             else:
-                res.append(min(abs(i-ch_index[count]), abs(i-ch_index[count-1])))
-        return res
+                ans.append(min(abs(i-ch_index[count]), abs(i-ch_index[count-1])))
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
