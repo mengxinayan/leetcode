@@ -2,13 +2,13 @@ class Solution:
     def backspaceCompare(self, S: str, T: str) -> bool:
 
         def process_string(string: str):
-            res = ''
+            ans = ''
             for ch in string:
                 if ch == '#':
-                    res = res[:len(res)-1]
+                    ans = ans[:len(ans)-1]
                 else:
-                    res += ch
-            return res
+                    ans += ch
+            return ans
         
         return process_string(S) == process_string(T)
 
