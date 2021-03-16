@@ -1,11 +1,11 @@
 class Solution:
     def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:
-        res =  True
+        ans =  True
         for i in range(len(matrix)-1):
             if matrix[i][:-1] != matrix[i+1][1:]:
-                res = False
+                ans = False
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
