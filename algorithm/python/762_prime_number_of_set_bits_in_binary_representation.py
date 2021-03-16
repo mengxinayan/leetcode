@@ -4,19 +4,19 @@ class Solution:
     def countPrimeSetBits(self, L: int, R: int) -> int:
 
         def cal_bits_number(num: int):
-            res = 0
+            ans = 0
             while num != 0:
                 if num % 2 == 1:
-                    res += 1
+                    ans += 1
                 num = num // 2
-            return res
+            return ans
         
         prime_number_set = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31}
-        res = 0
+        ans = 0
         for i in range(L, R+1):
             if cal_bits_number(i) in prime_number_set:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 
 # Solution 2
@@ -24,11 +24,11 @@ class Solution:
 class Solution:
     def countPrimeSetBits(self, L: int, R: int) -> int: 
         prime_number_set = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31}
-        res = 0
+        ans = 0
         for i in range(L, R+1):
             if (bin(i).count('1')) in prime_number_set:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
