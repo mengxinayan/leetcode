@@ -3,13 +3,13 @@ class Solution:
         if S == '':
             return [0, 0]
         lines = 1
-        res = 0
+        ans = 0
         for ch in S:
-            res += widths[ord(ch)-ord('a')]
-            if res > 100:
-                res = widths[ord(ch)-ord('a')]
+            ans += widths[ord(ch)-ord('a')]
+            if ans > 100:
+                ans = widths[ord(ch)-ord('a')]
                 lines += 1
-        return [lines, res]
+        return [lines, ans]
 
 '''
     This is my personal record of solving Leetcode Problems. 
