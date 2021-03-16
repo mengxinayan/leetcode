@@ -2,11 +2,11 @@ class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
 
         def cal_license_letters(licensePlate: str) -> List[str]:
-            res = []
+            ans = []
             for ch in licensePlate.lower():
                 if ch.isalpha() == True:
-                    res.append(ch)
-            return res
+                    ans.append(ch)
+            return ans
         
         def check_word_valid(license_letters: List[str], word: str) -> bool:
             word_letter_dict = {}
@@ -15,7 +15,7 @@ class Solution:
                     word_letter_dict[ch] = 1
                 else:
                     word_letter_dict[ch] += 1
-            res = True
+            ans = True
             for i in range(len(license_letters)):
                 if license_letters[i] in word_letter_dict:
                     if word_letter_dict[license_letters[i]] == 1:
@@ -23,18 +23,18 @@ class Solution:
                     else:
                         word_letter_dict[license_letters[i]] -= 1
                 else:
-                    res = False
+                    ans = False
                     break
-            return res
+            return ans
         
         license_letters = cal_license_letters(licensePlate)
-        res = ''
-        res_len = 16
+        ans = ''
+        ans_len = 16
         for i in range(len(words)):
-            if (check_word_valid(license_letters, words[i]) == True) and (len(words[i]) < res_len):
-                res = words[i]
-                res_len = len(words[i])
-        return res
+            if (check_word_valid(license_letters, words[i]) == True) and (len(words[i]) < ans_len):
+                ans = words[i]
+                ans_len = len(words[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
