@@ -16,10 +16,10 @@ class Solution:
         
         for string in cpdomains:
             process_str(string)
-        res = []
+        ans = []
         for key, value in self.str_times_dict.items():
-            res.append(str(value) + ' ' + key)
-        return res
+            ans.append(str(value) + ' ' + key)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
