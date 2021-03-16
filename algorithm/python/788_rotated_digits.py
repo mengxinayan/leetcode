@@ -9,11 +9,11 @@ class Solution:
                 return True
             return False
 
-        res = 0
+        ans = 0
         for i in range(1, N+1):
             if is_good(i) == True:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
