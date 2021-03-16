@@ -19,14 +19,14 @@ class Solution:
             if banned_word in word_times:
                 word_times.pop(banned_word)
         max_times = 0
-        res = []
+        ans = []
         for key, value in word_times.items():
             if value > max_times:
-                res = key
+                ans = key
                 max_times = value
             else:
                 pass
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
