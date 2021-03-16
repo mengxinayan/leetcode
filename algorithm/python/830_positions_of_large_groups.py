@@ -3,21 +3,21 @@ class Solution:
         start = 0
         count = 1
         ch = s[0]
-        res = []
+        ans = []
         for i in range(1, len(s)):
             if s[i] == ch:
                 count += 1
             else:
                 if count >= 3:
-                    res.append([start, i-1])
+                    ans.append([start, i-1])
                 start = i
                 ch = s[i]
                 count = 1
         # 字符串末尾的字符符合条件，例如："abbb"
         # The characters at the end of the string meet the conditions, for example: "abbb"
         if count >= 3:
-            res.append([start, len(s)-1])
-        return res
+            ans.append([start, len(s)-1])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
