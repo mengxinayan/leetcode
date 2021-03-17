@@ -2,26 +2,26 @@ class Solution:
     def reverseOnlyLetters(self, S: str) -> str:
         begin = 0
         last = len(S) - 1
-        res = ''
+        ans = ''
         while begin != len(S):
             if (S[begin].isalpha() == True) and (S[last].isalpha() == True):
-                res += S[last]
+                ans += S[last]
                 begin += 1
                 last -= 1
             elif (S[begin].isalpha() == True) and (S[last].isalpha() == False):
                 while S[last].isalpha() == False:
                     last -= 1
-                res += S[last]
+                ans += S[last]
                 begin += 1
                 last -= 1
             elif (S[begin].isalpha() == False) and (S[last].isalpha() == True):
-                res += S[begin]
+                ans += S[begin]
                 begin += 1
             else:
-                res += S[begin]
+                ans += S[begin]
                 begin += 1
                 last -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
