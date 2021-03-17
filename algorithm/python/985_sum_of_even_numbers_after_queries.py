@@ -1,7 +1,7 @@
 class Solution:
     def sumEvenAfterQueries(self, A: List[int], queries: List[List[int]]) -> List[int]:
         even_sum = 0
-        res = []
+        ans = []
         for num in A:
             if num % 2 == 0:
                 even_sum += num
@@ -11,8 +11,8 @@ class Solution:
             A[query[1]] += query[0]
             if A[query[1]] % 2 == 0:
                 even_sum += A[query[1]]
-            res.append(even_sum)
-        return res
+            ans.append(even_sum)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
