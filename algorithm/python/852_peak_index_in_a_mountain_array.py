@@ -4,12 +4,12 @@ class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         if len(arr) < 3:
             return False
-        res = 0
+        ans = 0
         for i in range(1, len(arr)-1):
             if (arr[i-1] < arr[i]) and (arr[i] > arr[i+1]):
-                res = i
+                ans = i
                 break
-        return res
+        return ans
 
 
 # Solution 2. Binary search
@@ -20,7 +20,7 @@ class Solution:
             return False
         left = 0
         right = len(arr)-1
-        res = -1
+        ans = -1
         while left <= right:
             mid = left + (right - left) // 2
             if arr[mid-1] < arr[mid] < arr[mid+1]:
@@ -28,9 +28,9 @@ class Solution:
             elif arr[mid-1] > arr[mid] > arr[mid+1]:
                 right = mid - 1
             else:
-                res = mid
+                ans = mid
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
