@@ -9,12 +9,12 @@ class Solution:
             for ch in word:
                 tmp += chr(ord('A')+ch_index[ch])
             convert_words.append(tmp)
-        res = True
+        ans = True
         for i in range(len(convert_words)-1):
             if convert_words[i] > convert_words[i+1]:
-                res = False
+                ans = False
                 break
-        return res
+        return ans
 
 
 '''
