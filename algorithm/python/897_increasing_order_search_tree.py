@@ -15,17 +15,17 @@ class Solution:
                 in_order_traversal(root.right)
         
         def make_tree(nums: List[int]) -> TreeNode:
-            res = curr = TreeNode(nums[0])
+            ans = curr = TreeNode(nums[0])
             for i in range(1, len(nums)):
                 curr.left = None
                 curr.right = TreeNode(nums[i])
                 curr = curr.right
-            return res
+            return ans
 
         self.arr = []
         in_order_traversal(root)
-        res = make_tree(self.arr)
-        return res
+        ans = make_tree(self.arr)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
