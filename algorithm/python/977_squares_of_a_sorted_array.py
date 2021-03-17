@@ -2,10 +2,10 @@ class Solution:
     def sortedSquares(self, A: List[int]) -> List[int]:
         # sorted_A = sorted(A, key=lambda x:abs(x))
         A.sort(key=lambda x:abs(x))
-        res = []
+        ans = []
         for num in A:
-            res.append(num**2)
-        return res
+            ans.append(num**2)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
