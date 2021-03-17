@@ -7,11 +7,11 @@ class Solution:
                 even_arr.append(num)
             else:
                 odd_arr.append(num)
-        res = []
+        ans = []
         for i in range(len(odd_arr)):
-            res.append(even_arr[i])
-            res.append(odd_arr[i])
-        return res
+            ans.append(even_arr[i])
+            ans.append(odd_arr[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
