@@ -1,10 +1,10 @@
 class Solution:
     def smallestRangeI(self, A: List[int], K: int) -> int:
-        res = (max(A) - K) - (min(A) + K)
-        if res < 0:
+        ans = (max(A) - K) - (min(A) + K)
+        if ans < 0:
             return 0
         else:
-            return res
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
