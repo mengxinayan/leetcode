@@ -9,10 +9,10 @@ class Solution:
             n //= 2
         if len(index_arr) <= 1:
             return 0
-        res = -1
+        ans = -1
         for i in range(1, len(index_arr)):
-            res = max(res, index_arr[i] - index_arr[i-1])
-        return res
+            ans = max(ans, index_arr[i] - index_arr[i-1])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
