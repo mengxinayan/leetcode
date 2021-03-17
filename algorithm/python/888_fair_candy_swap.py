@@ -6,20 +6,20 @@ class Solution:
             # 假设该函数中 sum(arr1)>= sum(arr2) 成立
             diff = sum(arr1) - sum(arr2)
             arr2_set = set(arr2)
-            res = []
+            ans = []
             for size in arr1:
                 if (size - diff//2) in arr2_set:
-                    res = [size, size - diff//2]
+                    ans = [size, size - diff//2]
                     break
-            return res
+            return ans
         
-        res = []
+        ans = []
         if sum(A) >= sum(B):
-            res = cal_exchange_size(A, B)
+            ans = cal_exchange_size(A, B)
         else:
-            res = cal_exchange_size(B, A)
-            res.reverse()
-        return res
+            ans = cal_exchange_size(B, A)
+            ans.reverse()
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
