@@ -1,7 +1,7 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
         now_change = {5:0, 10:0}
-        res = True
+        ans = True
         for bill in bills:
             if bill == 5:
                 now_change[bill] += 1
@@ -10,7 +10,7 @@ class Solution:
                     now_change[5] -= 1
                     now_change[bill] += 1
                 else:
-                    res = False
+                    ans = False
                     break
             else:
                 if (now_change[10] >= 1) and (now_change[5] >= 1):
@@ -19,9 +19,9 @@ class Solution:
                 elif (now_change[5] >= 3):
                     now_change[5] -= 3
                 else:
-                    res = False
+                    ans = False
                     break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
