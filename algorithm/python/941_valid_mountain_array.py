@@ -2,7 +2,6 @@ class Solution:
     def validMountainArray(self, A: List[int]) -> bool:
         if len(A) < 3:
             return False
-        res = True
         left = 0
         right = len(A) - 1
         while left != len(A)-1:
