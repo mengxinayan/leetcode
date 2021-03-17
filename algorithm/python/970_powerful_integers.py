@@ -6,36 +6,36 @@ class Solution:
             else:
                 return []
         elif (x == 1) and (y != 1):
-            res_set = set()
+            ans_set = set()
             j = 0
             tmp = x + y**j
             while tmp <= bound:
-                res_set.add(tmp)
+                ans_set.add(tmp)
                 j += 1
                 tmp = x + y**j
-            return list(res_set)
+            return list(ans_set)
         elif (x != 1) and (y == 1):
-            res_set = set()
+            ans_set = set()
             i = 0
             tmp = x**i + y
             while tmp <= bound:
-                res_set.add(tmp)
+                ans_set.add(tmp)
                 i += 1
                 tmp = x**i + y
-            return list(res_set)
+            return list(ans_set)
         else:
-            res_set = set()
+            ans_set = set()
             i = j = 0
             tmp = x**i + y**j
             while tmp <= bound:
                 while tmp <= bound:
-                    res_set.add(tmp)
+                    ans_set.add(tmp)
                     j += 1
                     tmp = x**i + y**j
                 i += 1
                 j = 0
                 tmp = x**i + y**j
-            return list(res_set)
+            return list(ans_set)
 
 '''
     This is my personal record of solving Leetcode Problems. 
