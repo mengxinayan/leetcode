@@ -12,11 +12,11 @@ class Solution:
             return word_dict
         
         str_dict = count_string_word(A + ' ' + B)
-        res = []
+        ans = []
         for key, value in str_dict.items():
             if value == 1:
-                res.append(key)
-        return res
+                ans.append(key)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
