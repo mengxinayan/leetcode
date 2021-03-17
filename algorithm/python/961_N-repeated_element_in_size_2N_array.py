@@ -1,14 +1,14 @@
 class Solution:
     def repeatedNTimes(self, A: List[int]) -> int:
         num_set = set()
-        res = 0
+        ans = 0
         for num in A:
             if num not in num_set:
                 num_set.add(num)
             else:
-                res = num
+                ans = num
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
