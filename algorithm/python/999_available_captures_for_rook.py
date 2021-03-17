@@ -7,11 +7,11 @@ class Solution:
                     Bi = i
                     Bj = j
                     break
-        res = 0
+        ans = 0
         j = Bj - 1
         while j >= 0:
             if board[Bi][j] == 'p':
-                res += 1
+                ans += 1
                 break
             elif board[Bi][j] == 'B':
                 break
@@ -20,7 +20,7 @@ class Solution:
         j = Bj + 1
         while j <= 7:
             if board[Bi][j] == 'p':
-                res += 1
+                ans += 1
                 break
             elif board[Bi][j] == 'B':
                 break
@@ -29,7 +29,7 @@ class Solution:
         i = Bi - 1
         while i >= 0:
             if board[i][Bj] == 'p':
-                res += 1
+                ans += 1
                 break
             elif board[i][Bj] == 'B':
                 break
@@ -38,13 +38,13 @@ class Solution:
         i = Bi + 1
         while i <= 7:
             if board[i][Bj] == 'p':
-                res += 1
+                ans += 1
                 break
             elif board[i][Bj] == 'B':
                 break
             else:
                 i += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
