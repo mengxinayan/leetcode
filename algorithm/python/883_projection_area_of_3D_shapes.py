@@ -1,6 +1,6 @@
 class Solution:
     def projectionArea(self, grid: List[List[int]]) -> int:
-        res = 0
+        ans = 0
         x = y = z = 0
         tmp_x = 0
         for i in range(len(grid)):
