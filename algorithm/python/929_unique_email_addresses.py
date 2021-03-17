@@ -2,15 +2,15 @@ class Solution:
     def numUniqueEmails(self, emails: List[str]) -> int:
 
         def process_name(s: str) -> str:
-            res = ''
+            ans = ''
             for ch in s:
                 if ch == '.':
                     pass
                 elif ch == '+':
                     break
                 else:
-                    res += ch
-            return res
+                    ans += ch
+            return ans
 
         email_set = set()
         for email in emails:
