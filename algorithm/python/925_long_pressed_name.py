@@ -6,13 +6,13 @@ class Solution:
             return True
         name_i = 0
         typed_i = 0
-        res = True
+        ans = True
         while (name_i != len(name)) and (typed_i != len(typed)):
             if name[name_i] != typed[typed_i]:
                 if (typed_i != 0) and (typed[typed_i] == typed[typed_i-1]):
                     typed_i += 1
                 else:
-                    res = False
+                    ans = False
                     break
             else:
                 name_i += 1
@@ -20,12 +20,12 @@ class Solution:
         if (name_i == len(name)) and (typed_i <= len(typed)):
             while typed_i != len(typed):
                 if typed[typed_i-1] != typed[typed_i]:
-                    res = False
+                    ans = False
                     break
                 typed_i += 1
         elif (name_i < len(name)) and (typed_i == len(typed)):
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
