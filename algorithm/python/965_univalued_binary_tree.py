@@ -12,14 +12,14 @@ class Solution:
             if root != None:
                 in_order_traverse(root.left)
                 if root.val != self.value:
-                    self.res = False
+                    self.ans = False
                     return None
                 in_order_traverse(root.right)
 
         self.value = root.val
-        self.res = True
+        self.ans = True
         in_order_traverse(root)
-        return self.res
+        return self.ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
