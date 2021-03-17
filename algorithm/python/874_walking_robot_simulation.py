@@ -4,7 +4,7 @@ class Solution:
         dx = [0, 1, 0, -1]
         dy = [1, 0, -1, 0]
         obstacles_set = set(map(tuple, obstacles))
-        x = y = res = 0
+        x = y = ans = 0
         for cmd in commands:
             if cmd == -1: # turn right
                 direction = (direction + 1) % 4
@@ -15,8 +15,8 @@ class Solution:
                     if (x+dx[direction], y+dy[direction]) not in obstacles_set:
                         x += dx[direction]
                         y += dy[direction]
-                        res = max(res, x*x+y*y)
-        return res
+                        ans = max(ans, x*x+y*y)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
