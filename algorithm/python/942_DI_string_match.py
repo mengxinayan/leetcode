@@ -3,16 +3,16 @@ class Solution:
         # permutation means a array without repeated number
         left = 0
         right = len(S)
-        res = []
+        ans = []
         for ch in S:
             if ch == 'I':
-                res.append(left)
+                ans.append(left)
                 left += 1
             else:
-                res.append(right)
+                ans.append(right)
                 right -= 1
-        res.append(right)
-        return res
+        ans.append(right)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
