@@ -10,14 +10,14 @@ class Solution:
         def traversal(root: TreeNode, curr_num: int):
             if root != None:
                 if (root.left == None) and (root.right == None):
-                    self.res_sum += curr_num*2 + root.val
+                    self.ans_sum += curr_num*2 + root.val
                     return None
                 traversal(root.left, curr_num*2 + root.val)
                 traversal(root.right, curr_num*2 + root.val)
 
-        self.res_sum = 0
+        self.ans_sum = 0
         traversal(root, 0)
-        return self.res_sum
+        return self.ans_sum
 
 '''
     This is my personal record of solving Leetcode Problems. 
