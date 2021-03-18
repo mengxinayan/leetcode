@@ -1,17 +1,17 @@
 class Solution:
     def removeOuterParentheses(self, S: str) -> str:
         stack = []
-        res = ''
+        ans = ''
         for ch in S:
             if ch == ')':
                 if len(stack) > 1:
-                    res += ch
+                    ans += ch
                 stack.pop()
             else:
                 if len(stack) >= 1:
-                    res += ch
+                    ans += ch
                 stack.append(ch)
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
