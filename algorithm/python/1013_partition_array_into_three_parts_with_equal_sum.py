@@ -6,24 +6,24 @@ class Solution:
         equal_sum = sum_A // 3
         single_sum = 0
         left = 1
-        left_res = False
+        left_ans = False
         left_sum = A[0]
         while (left != len(A)) and (left_sum != equal_sum):
             left_sum += A[left]
             left += 1
         if left < len(A):
-            left_res = True
+            left_ans = True
             left -= 1
         right = len(A) - 1 - 1
-        right_res = False
+        right_ans = False
         right_sum = A[-1]
         while (right != -1) and (right_sum != equal_sum):
             right_sum += A[right]
             right -= 1
         if right > -1:
-            right_res = True
+            right_ans = True
             right += 1
-        return left_res and right_res and (right - left > 1)
+        return left_ans and right_ans and (right - left > 1)
 
 '''
     This is my personal record of solving Leetcode Problems. 
