@@ -1,14 +1,14 @@
 class Solution:
     def prefixesDivBy5(self, A: List[int]) -> List[bool]:
         curr_num = 0
-        res = []
+        ans = []
         for num in A:
             curr_num = 2*curr_num + num
             if curr_num % 5 == 0:
-                res.append(True)
+                ans.append(True)
             else:
-                res.append(False)
-        return res
+                ans.append(False)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
