@@ -2,17 +2,17 @@ class Solution:
     def findOcurrences(self, text: str, first: str, second: str) -> List[str]:
         str_list = text.split()
         i = 0
-        res = []
+        ans = []
         while i < len(str_list)-2:
             if str_list[i] == first:
                 if str_list[i+1] == second:
-                    res.append(str_list[i+2])
+                    ans.append(str_list[i+2])
                     i += 2
                 else:
                     i += 1
             else:
                 i += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
