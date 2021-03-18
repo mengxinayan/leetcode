@@ -2,36 +2,36 @@ class Solution:
     def commonChars(self, A: List[str]) -> List[str]:
 
         def str_to_dict(string: str) -> dict:
-            res_dict = {}
+            ans_dict = {}
             for ch in string:
-                if ch not in res_dict:
-                    res_dict[ch] = 1
+                if ch not in ans_dict:
+                    ans_dict[ch] = 1
                 else:
-                    res_dict[ch] += 1
-            return res_dict
+                    ans_dict[ch] += 1
+            return ans_dict
 
         def cal_common_char_two_dict(dict1: dict, dict2: dict) -> dict:
-            res_dict = {}
+            ans_dict = {}
             for key in dict1.keys():
                 if key in dict2:
-                    res_dict[key] = min(dict1[key], dict2[key])
-            return res_dict
+                    ans_dict[key] = min(dict1[key], dict2[key])
+            return ans_dict
 
         def dict_to_list(dict1: dict) -> List[str]:
-            res = []
+            ans = []
             for key in dict1.keys():
                 for i in range(dict1[key]):
-                    res.append(key)
-            return res
+                    ans.append(key)
+            return ans
 
         if len(A) == 1:
             return list(A[0])
         else:
-            res_dict = cal_common_char_two_dict(str_to_dict(A[0]), str_to_dict(A[1]))
+            ans_dict = cal_common_char_two_dict(str_to_dict(A[0]), str_to_dict(A[1]))
             for i in range(2, len(A)):
-                res_dict = cal_common_char_two_dict(res_dict, str_to_dict(A[i]))
-            res = dict_to_list(res_dict)
-            return res
+                ans_dict = cal_common_char_two_dict(ans_dict, str_to_dict(A[i]))
+            ans = dict_to_list(ans_dict)
+            return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
