@@ -1,0 +1,46 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
+        if (head == None) or (head.next == None):
+            return head
+        dummy = temp = ListNode()
+        count = 1
+        num = head.val
+        head = head.next
+        while head != None:
+            if head.val != num:
+                if count == 1:
+                    temp.next = ListNode(num)
+                    temp = temp.next
+                else:
+                    count = 1
+                num = head.val
+            else:
+                count += 1
+            head = head.next
+        if count == 1:
+            temp.next = ListNode(num)
+        return dummy.next
+
+'''
+    This is my personal record of solving Leetcode Problems. 
+    If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
+    Copyright (C) 2020  mengxinayan
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+'''
