@@ -3,11 +3,11 @@ class Solution:
         time_count = [0 for i in range(60)]
         for num in time:
             time_count[num%60] += 1
-        res = 0
+        ans = 0
         for num in time:
             time_count[num%60] -= 1
-            res += time_count[(60-num%60)%60]
-        return res
+            ans += time_count[(60-num%60)%60]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
