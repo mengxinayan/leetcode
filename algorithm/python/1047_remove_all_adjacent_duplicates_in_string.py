@@ -9,10 +9,10 @@ class Solution:
                     stack.pop()
                 else:
                     stack.append(ch)
-        res = ''
+        ans = ''
         for ch in stack:
-            res += ch
-        return res
+            ans += ch
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
