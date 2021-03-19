@@ -6,12 +6,12 @@
 
 class Solution:
     def getDecimalValue(self, head: ListNode) -> int:
-        res = 0
+        ans = 0
         p = head
         while p != None:
-            res = res * 2 + p.val
+            ans = ans * 2 + p.val
             p = p.next
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
