@@ -4,10 +4,10 @@ class Solution:
         def cal_points_second(point_A: List[int], point_B: List[int]) -> int:
             return max(abs(point_A[0]-point_B[0]), abs(point_A[1]-point_B[1]))
         
-        res = 0
+        ans = 0
         for i in range(len(points)-1):
-            res += cal_points_second(points[i], points[i+1])
-        return res
+            ans += cal_points_second(points[i], points[i+1])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
