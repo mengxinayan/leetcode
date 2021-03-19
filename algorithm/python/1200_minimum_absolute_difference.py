@@ -5,14 +5,14 @@ class Solution:
         min_diff = float('inf')
         for i in range(len(arr)-1):
             min_diff = min(min_diff, sorted_arr[i+1]-sorted_arr[i])
-        res = []
+        ans = []
         for key in sorted_arr:
             if (key - min_diff) in arr_set:
-                res.append([key, key-min_diff])
+                ans.append([key, key-min_diff])
             if (key + min_diff) in arr_set:
-                res.append([key, key+min_diff])
+                ans.append([key, key+min_diff])
             arr_set.remove(key)
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
