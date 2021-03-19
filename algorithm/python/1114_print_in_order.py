@@ -12,17 +12,17 @@ class Foo:
 
 
     def first(self, printFirst: 'Callable[[], None]') -> None:
-        self.res(0, printFirst)
+        self.ans(0, printFirst)
 
     def second(self, printSecond: 'Callable[[], None]') -> None:
-        self.res(1, printSecond)
+        self.ans(1, printSecond)
 
 
     def third(self, printThird: 'Callable[[], None]') -> None:
-        self.res(2, printThird)
+        self.ans(2, printThird)
 
 
-    def res(self, val: int, func: 'Callable[[], None]') -> None:
+    def ans(self, val: int, func: 'Callable[[], None]') -> None:
         with self.c:
             # 参数是函数对象，返回值是bool类型
             # The parameter is a function object, and the return value is of type bool
