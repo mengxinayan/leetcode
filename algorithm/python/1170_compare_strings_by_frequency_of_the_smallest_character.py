@@ -6,14 +6,14 @@ class Solution:
             f_queries.append(query.count(min(query)))
         for word in words:
             f_words.append(word.count(min(word)))
-        res = []
+        ans = []
         for i in range(len(f_queries)):
             count = 0
             for j in range(len(f_words)):
                 if f_words[j] > f_queries[i]:
                     count += 1
-            res.append(count)
-        return res
+            ans.append(count)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
