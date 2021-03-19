@@ -1,10 +1,10 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
-        res = 0
+        ans = 0
         for num in nums:
             if len(str(num)) % 2 == 0:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
