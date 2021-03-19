@@ -16,15 +16,15 @@ class Solution:
                 return [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
         def cal_num_of_day(day: int, month: int, year: int) -> int:
-            res = 0
+            ans = 0
             for i in range(1971, year):
                 if is_leap_year(i) == True:
-                    res += 366
+                    ans += 366
                 else:
-                    res += 365
+                    ans += 365
             month_day = cal_month_day(year)
-            res += sum(month_day[:month-1]) + day
-            return res
+            ans += sum(month_day[:month-1]) + day
+            return ans
         
         ans_values = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         num_of_day = cal_num_of_day(day, month, year)
