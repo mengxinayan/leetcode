@@ -1,12 +1,12 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        res = []
-        res.append(text.count('b') // 1)
-        res.append(text.count('a') // 1)
-        res.append(text.count('l') // 2)
-        res.append(text.count('o') // 2)
-        res.append(text.count('n') // 1)
-        return min(res)
+        ans = []
+        ans.append(text.count('b') // 1)
+        ans.append(text.count('a') // 1)
+        ans.append(text.count('l') // 2)
+        ans.append(text.count('o') // 2)
+        ans.append(text.count('n') // 1)
+        return min(ans)
 
 '''
     This is my personal record of solving Leetcode Problems. 
