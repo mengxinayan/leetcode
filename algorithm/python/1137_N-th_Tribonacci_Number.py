@@ -1,12 +1,12 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        res = [0, 1, 1]
+        ans = [0, 1, 1]
         if n <= 2:
-            return res[n]
+            return ans[n]
         else:
             for i in range(3, n+1):
-                res.append(res[i-1]+res[i-2]+res[i-3])
-            return res[n]
+                ans.append(ans[i-1]+ans[i-2]+ans[i-3])
+            return ans[n]
 
 '''
     This is my personal record of solving Leetcode Problems. 
