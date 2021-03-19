@@ -12,12 +12,12 @@ class Solution:
             return num_x_points == 1
         a = (coordinates[1][1] - coordinates[0][1]) / (coordinates[1][0] - coordinates[0][0])
         b = coordinates[0][1] - a * coordinates[0][0]
-        res = True
+        ans = True
         for i in range(2, len(coordinates)):
             if coordinates[i][1] != a * coordinates[i][0] + b:
-                res = False
+                ans = False
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
