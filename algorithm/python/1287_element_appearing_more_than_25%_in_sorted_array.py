@@ -1,18 +1,18 @@
 class Solution:
     def findSpecialInteger(self, arr: List[int]) -> int:
-        res = arr[0]
+        ans = arr[0]
         count = 1
         times = len(arr) // 4
         for i in range(1, len(arr)):
-            if arr[i] == res:
+            if arr[i] == ans:
                 count += 1
             else:
                 if count > times:
                     break
                 else:
-                    res = arr[i]
+                    ans = arr[i]
                     count = 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
