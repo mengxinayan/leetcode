@@ -2,14 +2,14 @@
 
 class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:
-        res = 0
+        ans = 0
         for word in words:
             for ch in word:
                 if word.count(ch) > chars.count(ch):
                     break
             else:
-                res += len(word)
-        return res
+                ans += len(word)
+        return ans
 
 
 # Solution 2
@@ -18,32 +18,32 @@ class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:
         
         def str_to_list(string: str) -> dict:
-            res = {}
+            ans = {}
             for ch in string:
-                if ch not in res:
-                    res[ch] = 1
+                if ch not in ans:
+                    ans[ch] = 1
                 else:
-                    res[ch] += 1
-            return res
+                    ans[ch] += 1
+            return ans
         
         def is_good(word: str, chars_dict: dict) -> bool:
             str_dict = str_to_list(word)
-            res = False
+            ans = False
             for ch in str_dict.keys():
                 if (ch in chars_dict) and (chars_dict[ch] >= str_dict[ch]):
                     pass
                 else:
                     break
             else:
-                res = True
-            return res
+                ans = True
+            return ans
 
-        res = 0
+        ans = 0
         chars_dict = str_to_list(chars)
         for word in words:
             if is_good(word, chars_dict) == True:
-                res += len(word) 
-        return res
+                ans += len(word) 
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
