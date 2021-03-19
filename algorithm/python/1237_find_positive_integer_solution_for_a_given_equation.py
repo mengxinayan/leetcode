@@ -13,7 +13,7 @@
 
 class Solution:
     def findSolution(self, customfunction: 'CustomFunction', z: int) -> List[List[int]]:
-        res = []
+        ans = []
         curr_max_y = 1001
         for i in range(1, 1001):
             left = 1
@@ -25,17 +25,17 @@ class Solution:
                 elif customfunction.f(i, mid) < z:
                     left = mid + 1
                 else:
-                    res.append([i, mid])
+                    ans.append([i, mid])
                     curr_max_y = mid
                     break
-        return res
+        return ans
 
 
 # Solution 2, Binary Search
 
 class Solution:
     def findSolution(self, customfunction: 'CustomFunction', z: int) -> List[List[int]]:
-        res = []
+        ans = []
         for i in range(1, 1001):
             left = 1
             right = 1001
@@ -46,16 +46,16 @@ class Solution:
                 elif customfunction.f(i, mid) < z:
                     left = mid + 1
                 else:
-                    res.append([i, mid])
+                    ans.append([i, mid])
                     break
-        return res
+        return ans
 
 
 # Solution 3, Two Pointers
 
 class Solution:
     def findSolution(self, customfunction: 'CustomFunction', z: int) -> List[List[int]]:
-        res = []
+        ans = []
         curr_x = 1
         curr_y = 1000
         while (curr_x <= 1000) and (curr_y >= 1):
@@ -65,10 +65,10 @@ class Solution:
             elif tmp > z:
                 curr_y -= 1
             else:
-                res.append([curr_x, curr_y])
+                ans.append([curr_x, curr_y])
                 curr_x += 1
                 curr_y -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
