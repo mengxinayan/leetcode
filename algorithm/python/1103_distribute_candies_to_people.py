@@ -1,17 +1,17 @@
 class Solution:
     def distributeCandies(self, candies: int, num_people: int) -> List[int]:
-        res = [0 for i in range(num_people)]
+        ans = [0 for i in range(num_people)]
         i = 1
         curr_candies = candies
         while curr_candies > 0:
             if i <= curr_candies:
-                res[(i-1)%num_people] += i
+                ans[(i-1)%num_people] += i
                 curr_candies -= i
             else:
-                res[(i-1)%num_people] += curr_candies
+                ans[(i-1)%num_people] += curr_candies
                 curr_candies -= curr_candies
             i += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
