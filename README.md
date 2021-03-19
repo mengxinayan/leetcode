@@ -357,8 +357,9 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | Easy | Tree, Depth-first Search |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | Easy | Array, Two Pointers |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python3](./algorithm/python/86_partition_list.py) | Medium | Linked List, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
-| 82 | [Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./algorithm/python/82_remove_duplicates_from_sorted_list_II.py) | Medium | Linked List |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./algorithm/python/82_remove_duplicates_from_sorted_list_II.py) | Medium | Linked List |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python3](./algorithm/python/81_search_in_rotated_sorted_array_II.py) | Medium | Array, Binary Search |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python3](./algorithm/python/80_remove_duplicates_from_sorted_array_II.py) | Medium | Array, Two Pointers |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py) | Medium | Array, Backtracking |
