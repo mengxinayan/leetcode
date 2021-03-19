@@ -13,12 +13,12 @@ class Solution:
         for index in indices:
             add_one_row(arr, index[0])
             add_one_col(arr, index[1])
-        res = 0
+        ans = 0
         for i in range(len(arr)):
             for j in range(len(arr[0])):
                 if arr[i][j] % 2 == 1:
-                    res += 1
-        return res
+                    ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
