@@ -10,13 +10,13 @@ class Solution:
             for j in range(n):
                 arr.append(grid[i][j])
         arr_shift = arr[-k:] + arr[:-k]
-        res = []
+        ans = []
         for i in range(m):
             tmp = []
             for j in range(n):
                 tmp.append(arr_shift[i*n+j])
-            res.append(tmp)
-        return res
+            ans.append(tmp)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
