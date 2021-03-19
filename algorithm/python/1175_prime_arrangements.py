@@ -14,10 +14,10 @@ class Solution:
             return len(prime_set)
 
         def cal_factorial(n: int) -> int:
-            res = 1
+            ans = 1
             for i in range(1, n+1):
-                res *= i
-            return res
+                ans *= i
+            return ans
 
         num_of_prime = number_of_prime(n)
         return (cal_factorial(num_of_prime) * cal_factorial(n-num_of_prime)) % (10**9 + 7)
