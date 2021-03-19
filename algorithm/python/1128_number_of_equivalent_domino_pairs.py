@@ -14,18 +14,18 @@ class Solution:
                 domino_dict[domino] = 1
             else:
                 domino_dict[domino] += 1
-        res = 0
+        ans = 0
         domino_keys = list(domino_dict.keys())
         for domino in domino_keys:
             count = domino_dict[domino]
-            res += cal_pairs(domino_dict[domino])
+            ans += cal_pairs(domino_dict[domino])
             del domino_dict[domino]
             domino_tmp = list(domino)
             domino_tmp.reverse()
             domino_reverse = tuple(domino_tmp)
             if domino_reverse in domino_dict:
-                res += count * domino_dict[domino_reverse]
-        return res
+                ans += count * domino_dict[domino_reverse]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
