@@ -1,6 +1,6 @@
 class Solution:
     def balancedStringSplit(self, s: str) -> int:
-        res = 0
+        ans = 0
         L = R = 0
         for ch in s:
             if ch == 'L':
@@ -8,9 +8,9 @@ class Solution:
             else:
                 R += 1
             if L == R:
-                res += 1
+                ans += 1
                 L = R = 0
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
