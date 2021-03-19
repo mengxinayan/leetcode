@@ -6,21 +6,21 @@ class Solution:
                 num_times[num] = 1
             else:
                 num_times[num] += 1
-        res = []
+        ans = []
         for num in arr2:
             times = num_times[num]
             for i in range(times):
-                res.append(num)
+                ans.append(num)
             del num_times[num]
         others = list(num_times.keys())
         if len(others) == 0:
-            return res
+            return ans
         others.sort()
         for num in others:
             times = num_times[num]
             for i in range(times):
-                res.append(num)
-        return res
+                ans.append(num)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
