@@ -1,6 +1,6 @@
 class Solution:
     def defangIPaddr(self, address: str) -> str:
-        return address.replace('.', '[.]')
+        return addanss.replace('.', '[.]')
 
 '''
     This is my personal record of solving Leetcode Problems. 
