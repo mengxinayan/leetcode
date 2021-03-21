@@ -4,13 +4,13 @@ class Solution:
         if arr.count(0) >= 2:
             return True
         arr_set = set(arr)
-        res = True
+        ans = True
         for num in arr:
             if (num != 0) and ((num/2 in arr_set) or (num*2 in arr_set)):
                 break
         else:
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
