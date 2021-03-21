@@ -1,13 +1,13 @@
 class Solution:
     def sumZero(self, n: int) -> List[int]:
-        res = []
+        ans = []
         if n % 2 == 1:
-            res.append(0)
+            ans.append(0)
             n -= 1
         for i in range(1, n//2+1):
-            res.append(i)
-            res.append(-i)
-        return res
+            ans.append(i)
+            ans.append(-i)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
