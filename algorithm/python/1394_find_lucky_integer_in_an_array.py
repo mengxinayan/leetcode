@@ -6,14 +6,14 @@ class Solution:
                 num_freq[num] = 1
             else:
                 num_freq[num] += 1
-        res_list = []
+        ans_list = []
         for num in num_freq:
             if num_freq[num] == num:
-                res_list.append(num)
-        if len(res_list) == 0:
+                ans_list.append(num)
+        if len(ans_list) == 0:
             return -1
         else:
-            return max(res_list)
+            return max(ans_list)
 
 '''
     This is my personal record of solving Leetcode Problems. 
