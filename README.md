@@ -357,6 +357,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | Easy | Tree, Depth-first Search |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | Easy | Tree, Depth-first Search |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Python3](./algorithm/python/89_gray_code.py) | Medium | Backtracking |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | Easy | Array, Two Pointers |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python3](./algorithm/python/86_partition_list.py) | Medium | Linked List, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
