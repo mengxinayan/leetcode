@@ -1,9 +1,9 @@
 class Solution:
     def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
-        res = []
+        ans = []
         for i in range(len(nums)):
-            res.insert(index[i], nums[i])
-        return res
+            ans.insert(index[i], nums[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
