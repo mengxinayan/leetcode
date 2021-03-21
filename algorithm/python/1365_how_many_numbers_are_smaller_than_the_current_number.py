@@ -6,10 +6,10 @@ class Solution:
         for i in range(length):
             if sorted_nums[i] not in num_dict:
                 num_dict[sorted_nums[i]] = i
-        res = []
+        ans = []
         for num in nums:
-            res.append(num_dict[num])
-        return res
+            ans.append(num_dict[num])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
