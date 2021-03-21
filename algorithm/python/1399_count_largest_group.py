@@ -2,11 +2,11 @@ class Solution:
     def countLargestGroup(self, n: int) -> int:
 
         def sum_of_num(num: int) -> int:
-            res = 0
+            ans = 0
             while num != 0:
-                res += num % 10
+                ans += num % 10
                 num //= 10
-            return res
+            return ans
         
         sum_num_dict = {}
         for num in range(1, n+1):
@@ -16,11 +16,11 @@ class Solution:
             else:
                 sum_num_dict[tmp] += 1
         max_sum_num = max(list(sum_num_dict.values()))
-        res = 0
+        ans = 0
         for key in sum_num_dict:
             if sum_num_dict[key] == max_sum_num:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
