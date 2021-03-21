@@ -1,13 +1,13 @@
 class Solution:
     def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
-        res = 0
+        ans = 0
         for num1 in arr1:
             for num2 in arr2:
                 if abs(num1-num2) <= d:
                     break
             else:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
