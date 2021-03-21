@@ -2,21 +2,21 @@ class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
 
         def num_of_1(num: int) -> int:
-            res = 0
+            ans = 0
             while num != 0:
                 if num % 2 == 1:
-                    res += 1
+                    ans += 1
                 num //= 2
-            return res
+            return ans
         
         arr_bits = []
         for num in arr:
             arr_bits.append([num, num_of_1(num)])
         arr_bits.sort(key = lambda x: (x[1], x[0]))
-        res = []
+        ans = []
         for i in range(len(arr_bits)):
-            res.append(arr_bits[i][0])
-        return res
+            ans.append(arr_bits[i][0])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
