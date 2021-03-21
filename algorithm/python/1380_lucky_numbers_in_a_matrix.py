@@ -7,12 +7,12 @@ class Solution:
         for i in range(len(matrix[0])):
             col = [matrix[j][i] for j in range(len(matrix))]
             col_max.append(max(col))
-        res = []
+        ans = []
         for i in range(len(row_min)):
             for j in range(len(col_max)):
                 if row_min[i] == col_max[j]:
-                    res.append(matrix[i][j])
-        return res
+                    ans.append(matrix[i][j])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
