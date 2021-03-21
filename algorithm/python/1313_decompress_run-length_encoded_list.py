@@ -1,13 +1,13 @@
 class Solution:
     def decompressRLElist(self, nums: List[int]) -> List[int]:
-        res = []
+        ans = []
         i = 0
         while i != len(nums):
             length = nums[i]
             num = nums[i+1]
-            res += [num for i in range(length)]
+            ans += [num for i in range(length)]
             i += 2
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
