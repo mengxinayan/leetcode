@@ -2,13 +2,13 @@ class Solution:
     def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
 
         def number_of_soldiers(arr: List[int]) -> int:
-            res = 0
+            ans = 0
             for num in arr:
                 if num == 1:
-                    res += 1
+                    ans += 1
                 else:
                     break
-            return res
+            return ans
         
         row_soldiers = []
         i = 0
@@ -16,10 +16,10 @@ class Solution:
             row_soldiers.append([i, number_of_soldiers(arr)])
             i += 1
         row_soldiers.sort(key=lambda x : x[1])
-        res = []
+        ans = []
         for i in range(k):
-            res.append(row_soldiers[i][0])
-        return res
+            ans.append(row_soldiers[i][0])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
