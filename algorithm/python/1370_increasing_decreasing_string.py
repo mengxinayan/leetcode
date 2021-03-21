@@ -9,21 +9,21 @@ class Solution:
         ch_arr = list(ch_dict.keys())
         ch_arr.sort()
         ch_arr_reversed = ch_arr[::-1]
-        res = ''
+        ans = ''
         while len(ch_dict) != 0:
             for ch in ch_arr:
                 if ch in ch_dict:
-                    res += ch
+                    ans += ch
                     ch_dict[ch] -= 1
                     if ch_dict[ch] == 0:
                         del ch_dict[ch]
             for ch in ch_arr_reversed:
                 if ch in ch_dict:
-                    res += ch
+                    ans += ch
                     ch_dict[ch] -= 1
                     if ch_dict[ch] == 0:
                         del ch_dict[ch]
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
