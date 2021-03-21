@@ -1,13 +1,13 @@
 class Solution:
     def numberOfSteps (self, num: int) -> int:
-        res = 0
+        ans = 0
         while num != 0:
             if num % 2 == 0:
                 num //= 2
             else:
                 num -= 1
-            res += 1
-        return res
+            ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
