@@ -2,18 +2,18 @@ class Solution:
     def freqAlphabets(self, s: str) -> str:
         char_str = '-abcdefghijklmnopqrstuvwxyz'
         i = 0
-        res = ''
+        ans = ''
         index = -1
         while i != len(s):
             if (i+2 < len(s)) and (s[i+2] == '#'):
                 index = int(s[i:i+2])
-                res += char_str[index]
+                ans += char_str[index]
                 i += 3
             else:
                 index = int(s[i])
-                res += char_str[index]
+                ans += char_str[index]
                 i += 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
