@@ -6,10 +6,10 @@ class Solution:
         for num in num_set:
             num_dict[num] = i
             i += 1
-        res = []
+        ans = []
         for num in arr:
-            res.append(num_dict[num])
-        return res
+            ans.append(num_dict[num])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
