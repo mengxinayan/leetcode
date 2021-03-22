@@ -358,6 +358,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | 简单 | 树, 深度优先搜索 |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python3](./algorithm/python/90_subsets_II.py) | 中等 | 数组, 回溯算法 |
 | 89 | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](./algorithm/python/89_gray_code.py) | 中等 | 回溯算法 |
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | 简单 | 数组, 双指针 |
 | 86 | [Partition List](https://leetcode-cn.com/problems/partition-list/) | [Python3](./algorithm/python/86_partition_list.py) | 中等 | 链表, 双指针 |
