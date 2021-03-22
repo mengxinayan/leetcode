@@ -1,7 +1,7 @@
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:
         count = 0
-        res = True
+        ans = True
         for num in arr:
             if num % 2 == 1:
                 count += 1
@@ -10,8 +10,8 @@ class Solution:
             if count >= 3:
                 break
         if count < 3:
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
