@@ -1,9 +1,9 @@
 class Solution:
     def xorOperation(self, n: int, start: int) -> int:
-        res = start
+        ans = start
         for i in range(1, n):
-            res = res ^ (start + 2*i)
-        return res
+            ans = ans ^ (start + 2*i)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
