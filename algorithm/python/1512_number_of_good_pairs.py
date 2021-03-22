@@ -5,10 +5,10 @@ class Solution:
             if n < 2:
                 return 0
             else:
-                res = 1
+                ans = 1
                 for i in range(2, n):
-                    res += i
-                return res
+                    ans += i
+                return ans
 
         num_dict = {}
         for num in nums:
@@ -16,10 +16,10 @@ class Solution:
                 num_dict[num] = 1
             else:
                 num_dict[num] += 1
-        res = 0
+        ans = 0
         for num in num_dict.keys():
-            res += cal_same_num_pairs(num_dict[num])
-        return res
+            ans += cal_same_num_pairs(num_dict[num])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
