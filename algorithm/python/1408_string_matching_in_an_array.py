@@ -1,13 +1,13 @@
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
         words.sort(key=lambda x : len(x))
-        res = []
+        ans = []
         for i in range(len(words)):
             for j in range(i+1, len(words)):
                 if words[i] in words[j]:
-                    res.append(words[i])
+                    ans.append(words[i])
                     break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
