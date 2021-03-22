@@ -1,21 +1,21 @@
 class Solution:
     def makeGood(self, s: str) -> str:
         # Use Stack
-        res_ch = []
+        ans_ch = []
         for ch in s:
-            if len(res_ch) == 0:
-                res_ch.append(ch)
+            if len(ans_ch) == 0:
+                ans_ch.append(ch)
             else:
-                if (res_ch[-1].islower() == True) and (res_ch[-1].upper() == ch):
-                    res_ch.pop()
-                elif (res_ch[-1].isupper() == True) and (res_ch[-1].lower() == ch):
-                    res_ch.pop()
+                if (ans_ch[-1].islower() == True) and (ans_ch[-1].upper() == ch):
+                    ans_ch.pop()
+                elif (ans_ch[-1].isupper() == True) and (ans_ch[-1].lower() == ch):
+                    ans_ch.pop()
                 else:
-                    res_ch.append(ch)
-        res = ''
-        for ch in res_ch:
-            res += ch
-        return res
+                    ans_ch.append(ch)
+        ans = ''
+        for ch in ans_ch:
+            ans += ch
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
