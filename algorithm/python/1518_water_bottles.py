@@ -1,11 +1,11 @@
 class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:
-        res = curr_empty_bottles = numBottles
+        ans = curr_empty_bottles = numBottles
         while curr_empty_bottles >= numExchange:
             tmp = curr_empty_bottles // numExchange
             curr_empty_bottles = curr_empty_bottles % numExchange + tmp
-            res += tmp
-        return res
+            ans += tmp
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
