@@ -1,17 +1,17 @@
 class Solution:
     def buildArray(self, target: List[int], n: int) -> List[str]:
         target_set = set(target)
-        res = []
+        ans = []
         push = 'Push'
         pop = 'Pop'
         length = min(n+1, max(target)+1)
         for i in range(1, length):
             if i in target_set:
-                res.append(push)
+                ans.append(push)
             else:
-                res.append(push)
-                res.append(pop)
-        return res
+                ans.append(push)
+                ans.append(pop)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
