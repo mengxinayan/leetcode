@@ -1,11 +1,11 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         curr_sum = 0
-        res = []
+        ans = []
         for i in range(len(nums)):
             curr_sum += nums[i]
-            res.append(curr_sum)
-        return res
+            ans.append(curr_sum)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
