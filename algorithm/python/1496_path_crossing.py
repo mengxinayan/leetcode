@@ -3,7 +3,7 @@ class Solution:
         curr = [0, 0]
         visited = set()
         visited.add(tuple(curr))
-        res = True
+        ans = True
         for ch in path:
             if ch == 'N':
                 curr[1] += 1
@@ -20,8 +20,8 @@ class Solution:
             else:
                 visited.add(tuple(curr))
         else:
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
