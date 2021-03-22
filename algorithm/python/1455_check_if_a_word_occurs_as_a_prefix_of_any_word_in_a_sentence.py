@@ -1,12 +1,12 @@
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
-        res = -1
+        ans = -1
         words = sentence.split(' ')
         for i in range(len(words)):
             if words[i].find(searchWord) == 0:
-                res = i + 1
+                ans = i + 1
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
