@@ -3,10 +3,10 @@ class Solution:
         city_path = {}
         for path in paths:
             city_path[path[0]] = path[1]
-        res = paths[0][0]
-        while res in city_path:
-            res = city_path[res]
-        return res
+        ans = paths[0][0]
+        while ans in city_path:
+            ans = city_path[ans]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
