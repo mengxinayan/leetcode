@@ -1,15 +1,15 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        res = 0
+        ans = 0
         num_set = set(arr)
         max_num = arr[-1]
         while k != 0:
-            res += 1
-            if (res <= max_num) and (res in num_set):
+            ans += 1
+            if (ans <= max_num) and (ans in num_set):
                 pass
             else:
                 k -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
