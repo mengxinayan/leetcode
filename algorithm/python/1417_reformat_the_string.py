@@ -3,18 +3,18 @@ class Solution:
 
         def reformat_0(str1: str, str2: str) -> str:
             # len(str1) == len(str2)
-            res = ''
+            ans = ''
             for i in range(len(str1)):
-                res += str1[i] + str2[i]
-            return res
+                ans += str1[i] + str2[i]
+            return ans
 
         def reformat_1(str1: str, str2: str) -> str:
             # len(str1) == len(str2) + 1
-            res = ''
+            ans = ''
             for i in range(len(str2)):
-                res += str1[i] + str2[i]
-            res += str1[-1]
-            return res
+                ans += str1[i] + str2[i]
+            ans += str1[-1]
+            return ans
 
         chars = []
         digits = []
