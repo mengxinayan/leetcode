@@ -1,14 +1,14 @@
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
         arr.sort()
-        res = False
+        ans = False
         diff = arr[1] - arr[0]
         for i in range(2, len(arr)):
             if arr[i] - arr[i-1] != diff:
                 break
         else:
-            res = True
-        return res
+            ans = True
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
