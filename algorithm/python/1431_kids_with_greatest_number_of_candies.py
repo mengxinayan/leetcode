@@ -1,13 +1,13 @@
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        res = []
+        ans = []
         max_candies = max(candies)
         for candy in candies:
             if candy + extraCandies >= max_candies:
-                res.append(True)
+                ans.append(True)
             else:
-                res.append(False)
-        return res
+                ans.append(False)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
