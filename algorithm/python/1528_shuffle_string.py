@@ -2,10 +2,10 @@ class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
         ch_index = [[s[i], indices[i]] for i in range(len(s))]
         ch_index.sort(key=lambda x: x[1])
-        res = ''
+        ans = ''
         for i in range(len(ch_index)):
-            res += ch_index[i][0]
-        return res
+            ans += ch_index[i][0]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
