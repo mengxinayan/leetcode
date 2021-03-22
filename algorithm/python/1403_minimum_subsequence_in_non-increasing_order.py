@@ -3,12 +3,12 @@
 class Solution:
     def minSubsequence(self, nums: List[int]) -> List[int]:
         nums.sort(reverse=True)
-        res = []
+        ans = []
         for i in range(len(nums)):
             if sum(nums[:i+1]) > sum(nums[i+1:]):
-                res = nums[:i+1]
+                ans = nums[:i+1]
                 break
-        return res
+        return ans
 
 
 # Solution 2
@@ -16,13 +16,13 @@ class Solution:
 class Solution:
     def minSubsequence(self, nums: List[int]) -> List[int]:
         nums.sort(reverse=True)
-        res = []
+        ans = []
         half_nums_sum = sum(nums) / 2
         for i in range(len(nums)):
             if sum(nums[:i+1]) > half_nums_sum:
-                res = nums[:i+1]
+                ans = nums[:i+1]
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
