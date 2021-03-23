@@ -1,15 +1,15 @@
 class Solution:
     def specialArray(self, nums: List[int]) -> int:
         nums.sort()
-        res = -1
+        ans = -1
         p = -1
         length = len(nums)
         for i in range(length):
             if (nums[i] >= length - i) and (length - i > p):
-                res = length - i
+                ans = length - i
                 break
             p = nums[i]
-        return res 
+        return ans 
 
 '''
     This is my personal record of solving Leetcode Problems. 
