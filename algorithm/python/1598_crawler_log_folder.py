@@ -9,14 +9,14 @@ class Solution:
             else:
                 return 1
         
-        res = 0
+        ans = 0
         for log in logs:
             tmp = check_log(log)
-            if (res == 0) and (tmp == -1):
+            if (ans == 0) and (tmp == -1):
                 pass
             else: 
-                res += tmp
-        return res
+                ans += tmp
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
