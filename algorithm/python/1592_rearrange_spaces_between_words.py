@@ -20,13 +20,13 @@ class Solution:
             return word_list[0] + num_of_spaces * ' '
         avg = num_of_spaces // (len(word_list) - 1)
         remain = num_of_spaces % (len(word_list) - 1)
-        res = ''
+        ans = ''
         for i in range(len(word_list)):
             if i < len(word_list) - 1:
-                res = res + word_list[i] + ' ' * avg
+                ans = ans + word_list[i] + ' ' * avg
             else:
-                res = res + word_list[i] + ' ' * remain
-        return res
+                ans = ans + word_list[i] + ' ' * remain
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
