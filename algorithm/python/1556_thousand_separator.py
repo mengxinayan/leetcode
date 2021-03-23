@@ -3,16 +3,16 @@ class Solution:
         count = 0
         n_str = str(n)
         i = len(n_str) - 1
-        res = ''
+        ans = ''
         while i >= 0:
             if count == 3:
-                res = '.' + res
+                ans = '.' + ans
                 count = 0
             else:
-                res = n_str[i] + res
+                ans = n_str[i] + ans
                 count += 1
                 i -= 1
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
