@@ -2,12 +2,12 @@ class Solution:
     def mostVisited(self, n: int, rounds: List[int]) -> List[int]:
         start = rounds[0]
         end = rounds[-1]
-        res = []
+        ans = []
         if start <= end:
-            res = [i for i in range(start, end+1)]
+            ans = [i for i in range(start, end+1)]
         else:
-            res = [i for i in range(1, end+1)] + [i for i in range(start, n+1)]
-        return res
+            ans = [i for i in range(1, end+1)] + [i for i in range(start, n+1)]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
