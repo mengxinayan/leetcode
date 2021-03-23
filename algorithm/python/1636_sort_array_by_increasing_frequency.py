@@ -10,10 +10,10 @@ class Solution:
         for num in nums:
             num_times.append([num, num_dict[num]])
         num_times.sort(key=lambda x:(x[1], -x[0]))
-        res = []
+        ans = []
         for i in range(len(num_times)):
-            res.append(num_times[i][0])
-        return res
+            ans.append(num_times[i][0])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
