@@ -1,18 +1,18 @@
 class Solution:
     def interpret(self, command: str) -> str:
-        res = ''
+        ans = ''
         i = 0
         while i < len(command):
             if command[i] == 'G':
-                res += 'G'
+                ans += 'G'
                 i += 1
             elif (command[i] == '(') and (command[i+1] == ')'):
-                res += 'o'
+                ans += 'o'
                 i += 2
             else:
-                res += 'al'
+                ans += 'al'
                 i += 4
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
