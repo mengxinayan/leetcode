@@ -1,13 +1,13 @@
 class Solution:
     def containsPattern(self, arr: List[int], m: int, k: int) -> bool:
-        res = True
+        ans = True
         length = len(arr)-m*k+1
         for i in range(length):
             if arr[i:i+m*k] == arr[i:i+m] * k:
                 break
         else:
-            res = False
-        return res
+            ans = False
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
