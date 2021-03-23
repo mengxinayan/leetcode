@@ -2,10 +2,10 @@ class Solution:
     def maxRepeating(self, sequence: str, word: str) -> int:
         if word not in sequence:
             return 0
-        res = 1
-        while word * res in sequence:
-            res += 1
-        return res - 1
+        ans = 1
+        while word * ans in sequence:
+            ans += 1
+        return ans - 1
 
 '''
     This is my personal record of solving Leetcode Problems. 
