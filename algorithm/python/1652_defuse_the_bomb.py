@@ -1,6 +1,6 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
-        res = []
+        ans = []
         length = len(code)
         if k == 0:
             return [0 for i in range(len(code))]
@@ -10,14 +10,14 @@ class Solution:
                 tmp = 0
                 for j in range(1, k+1):
                     tmp += code[(i+j) % length]
-                res.append(tmp)
+                ans.append(tmp)
         else:
             for i in range(length):
                 tmp = 0
                 for j in range(1, -k+1):
                     tmp += code[(i-j) % length]
-                res.append(tmp)
-        return res
+                ans.append(tmp)
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
