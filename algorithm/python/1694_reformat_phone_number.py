@@ -18,12 +18,12 @@ class Solution:
         for i in range(start, -len(num_list), -3):
             insert_position.append(i)
         insert_position_set = set(insert_position)
-        res = ''
+        ans = ''
         for i in range(-1, -len(num_list)-1, -1):
-            res = num_list[i] + res
+            ans = num_list[i] + ans
             if i in insert_position_set:
-                res = '-' + res
-        return res
+                ans = '-' + ans
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
