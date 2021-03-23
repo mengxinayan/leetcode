@@ -1,13 +1,13 @@
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:
-        res = 0
+        ans = 0
         length = len(mat)
         for i in range(length):
             if length-1-i != i:
-                res += mat[i][i] + mat[i][length-1-i]
+                ans += mat[i][i] + mat[i][length-1-i]
             else:
-                res += mat[i][i]
-        return res
+                ans += mat[i][i]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
