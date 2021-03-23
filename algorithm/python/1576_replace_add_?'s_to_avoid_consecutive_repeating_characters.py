@@ -25,10 +25,10 @@ class Solution:
                         ch_list[i] = 'b'
                     else:
                         ch_list[i] = 'c'
-        res = ''
+        ans = ''
         for ch in ch_list:
-            res += ch
-        return res
+            ans += ch
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
