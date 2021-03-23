@@ -1,14 +1,14 @@
 class Solution:
     def numSpecial(self, mat: List[List[int]]) -> int:
         row_sum = [sum(row) for row in mat]
-        res = 0
+        ans = 0
         for i in range(len(row_sum)):
             if row_sum[i] == 1:
                 index = mat[i].index(1)
                 tmp = [mat[j][index] for j in range(len(mat))]
                 if sum(tmp) == 1:
-                    res += 1
-        return res
+                    ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
