@@ -1,14 +1,14 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         allowed_ch = set(allowed)
-        res = 0
+        ans = 0
         for word in words:
             for ch in word:
                 if ch not in allowed_ch:
                     break
             else:
-                res += 1
-        return res
+                ans += 1
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
