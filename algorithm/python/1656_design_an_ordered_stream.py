@@ -6,11 +6,11 @@ class OrderedStream:
 
     def insert(self, id: int, value: str) -> List[str]:
         self.id_value_dict[id] = value
-        res = []
+        ans = []
         while self.ptr in self.id_value_dict:
-            res.append(self.id_value_dict[self.ptr])
+            ans.append(self.id_value_dict[self.ptr])
             self.ptr += 1
-        return res
+        return ans
 
 
 # Your OrderedStream object will be instantiated and called as such:
