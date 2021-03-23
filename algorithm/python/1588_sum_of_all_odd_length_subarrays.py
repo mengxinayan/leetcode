@@ -1,11 +1,11 @@
 class Solution:
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:
         lengths = [i for i in range(1, len(arr)+1, 2)]
-        res = 0
+        ans = 0
         for length in lengths:
             for i in range(len(arr)-length+1):
-                res += sum(arr[i:i+length])
-        return res
+                ans += sum(arr[i:i+length])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
