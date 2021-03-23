@@ -4,7 +4,7 @@ class Solution:
         for piece in pieces:
             first_piece_dict[piece[0]] = piece
         i = 0
-        res = False
+        ans = False
         while i != len(arr):
             if arr[i] in first_piece_dict:
                 tmp = first_piece_dict[arr[i]]
@@ -21,8 +21,8 @@ class Solution:
             else:
                 break
         else:
-            res = True
-        return res
+            ans = True
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
