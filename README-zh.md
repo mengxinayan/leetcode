@@ -358,6 +358,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | 简单 | 树, 深度优先搜索 |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
+| 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python3](./algorithm/python/92_reverse_linked_list_II.py) | 中等 | 链表 |
 | 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | 中等 | 字符串, 动态规划 |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](./algorithm/python/90_subsets_II.py) | 中等 | 数组, 回溯算法 |
 | 89 | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](./algorithm/python/89_gray_code.py) | 中等 | 回溯算法 |
