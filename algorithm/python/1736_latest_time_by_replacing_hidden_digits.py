@@ -1,32 +1,32 @@
 class Solution:
     def maximumTime(self, time: str) -> str:
-        res = ''
+        ans = ''
         if time[0] == '?':
             # ?4:03
             if (time[1].isdigit() == True) and (int(time[1]) >= 4):
-                res += '1'
+                ans += '1'
             else:
-                res += '2'
+                ans += '2'
         else:
-            res += time[0]
+            ans += time[0]
         if time[1] == '?':
             # ??:3?
             if (time[0] == '2') or (time[0] == '?'):
-                res += '3'
+                ans += '3'
             else:
-                res += '9'
+                ans += '9'
         else:
-            res += time[1]
-        res += time[2]
+            ans += time[1]
+        ans += time[2]
         if time[3] == '?':
-            res += '5'
+            ans += '5'
         else:
-            res += time[3]
+            ans += time[3]
         if time[4] == '?':
-            res += '9'
+            ans += '9'
         else:
-            res += time[4]
-        return res
+            ans += time[4]
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
