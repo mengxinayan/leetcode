@@ -2,11 +2,11 @@ class Solution:
     def countBalls(self, lowLimit: int, highLimit: int) -> int:
 
         def number_sum(num: int) -> int:
-            res = 0
+            ans = 0
             while num != 0:
-                res += num % 10
+                ans += num % 10
                 num //= 10
-            return res
+            return ans
         
         tmp = [0 for i in range(50)]
         for i in range(lowLimit, highLimit+1):
