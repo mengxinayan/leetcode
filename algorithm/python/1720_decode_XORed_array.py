@@ -1,9 +1,9 @@
 class Solution:
     def decode(self, encoded: List[int], first: int) -> List[int]:
-        res = [first]
+        ans = [first]
         for i in range(len(encoded)):
-            res.append(res[i] ^ encoded[i])
-        return res
+            ans.append(ans[i] ^ encoded[i])
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
