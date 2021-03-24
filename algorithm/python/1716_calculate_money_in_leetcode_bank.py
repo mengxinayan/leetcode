@@ -1,9 +1,9 @@
 class Solution:
     def totalMoney(self, n: int) -> int:
-        res = 0
+        ans = 0
         for i in range(1, n+1):
-            res += 1 + (i-1) // 7 + (i-1) % 7
-        return res
+            ans += 1 + (i-1) // 7 + (i-1) % 7
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
