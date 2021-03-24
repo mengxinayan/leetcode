@@ -1,15 +1,15 @@
 class Solution:
     def maximumUnits(self, boxTypes: List[List[int]], truckSize: int) -> int:
         boxTypes.sort(key=lambda x : x[1], reverse=True)
-        res = 0
+        ans = 0
         for i in range(len(boxTypes)):
             if truckSize > boxTypes[i][0]:
-                res += boxTypes[i][0] * boxTypes[i][1]
+                ans += boxTypes[i][0] * boxTypes[i][1]
                 truckSize -= boxTypes[i][0]
             else:
-                res += truckSize * boxTypes[i][1]
+                ans += truckSize * boxTypes[i][1]
                 break
-        return res
+        return ans
 
 '''
     This is my personal record of solving Leetcode Problems. 
