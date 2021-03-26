@@ -358,7 +358,8 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | 简单 | 树, 深度优先搜索 |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
-| 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](./algorithm/python/93_restore_IP_addresses.py) | Medium | 字符串, 回溯算法 |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py) | 中等 | 栈, 树, 哈希表 |
+| 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](./algorithm/python/93_restore_IP_addresses.py) | 中等 | 字符串, 回溯算法 |
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python3](./algorithm/python/92_reverse_linked_list_II.py) | 中等 | 链表 |
 | 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | 中等 | 字符串, 动态规划 |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](./algorithm/python/90_subsets_II.py) | 中等 | 数组, 回溯算法 |
