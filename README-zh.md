@@ -358,6 +358,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py) | 简单 | 树, 深度优先搜索 |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
+| 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](./algorithm/python/96_unique_binary_search_trees.py) | 中等 | 树, 动态规划 |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](./algorithm/python/95_unique_binary_search_trees_II.py) | 中等 | 树, 动态规划 |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py) | 中等 | 栈, 树, 哈希表 |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](./algorithm/python/93_restore_IP_addresses.py) | 中等 | 字符串, 回溯算法 |
