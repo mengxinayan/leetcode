@@ -14,6 +14,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | :-: | :-: | :-: | :-: | :-: |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | [Python3](./algorithm/python/1774_closest_dessert_cost.py) | Medium | Greedy |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Python3](./algorithm/python/1773_count_items_matching_a_rule.py) | Easy | Array, String |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Python3](./algorithm/python/1758_minimum_changes_to_make_alternating_binary_string.py) | Easy | Greedy, Array |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python3](./algorithm/python/1752_check_if_array_is_sorted_and_rotated.py) | Easy | Array |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Python3](./algorithm/python/1748_sum_of_unique_elements.py) | Easy | Array, Hash Table |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python3](./algorithm/python/1742_maximum_number_of_balls_in_a_box.py) | Easy | Array |
