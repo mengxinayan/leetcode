@@ -350,6 +350,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | Easy | Array, Dynamic Programming |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | Easy | Array |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | Easy | Array |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python3](./algorithm/python/114_flatten_binary_tree_to_linked_list.py) | Medium | Tree, Depth-first Search |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python3](./algorithm/python/113_path_sum_II.py) | Medium | Tree, Depth-first Search |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](./algorithm/python/112_path_sum.py) | Easy | Tree, Depth-first Search |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python3](./algorithm/python/111_minimum_depth_of_binary_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
