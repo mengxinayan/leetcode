@@ -351,6 +351,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | 简单 | 数组, 动态规划 |
 | 119 | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | 简单 | 数组 |
 | 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | 简单 | 数组 |
+| 117 | [Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](./algorithm/python/117_populating_next_right_pointers_in_each_node_II.py) | 中等 | 树, 深度优先搜索 |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Python3](./algorithm/python/116_populating_next_right_pointers_in_each_node.py) | 中等 | 树, 深度优先搜索, 广度优先搜索 |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Python3](./algorithm/python/114_flatten_binary_tree_to_linked_list.py) | 中等 | 树, 深度优先搜索 |
 | 113 | [Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/) | [Python3](./algorithm/python/113_path_sum_II.py) | 中等 | 树, 深度优先搜索 |
