@@ -349,6 +349,7 @@
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | 简单 | 双指针, 字符串 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | 简单 | 贪心算法, 数组 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | 简单 | 数组, 动态规划 |
+| 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Python3](./algorithm/python/120_triangle.py) | 中等 | 数组, 动态规划 |
 | 119 | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | 简单 | 数组 |
 | 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | 简单 | 数组 |
 | 117 | [Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](./algorithm/python/117_populating_next_right_pointers_in_each_node_II.py) | 中等 | 树, 深度优先搜索 |

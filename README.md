@@ -348,6 +348,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | Easy | Two Pointers, String |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | Easy | Greedy, Array |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | Easy | Array, Dynamic Programming |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Python3](./algorithm/python/120_triangle.py) | Medium | Array, Dynamic Programming |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | Easy | Array |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | Easy | Array |
 | 117 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](./algorithm/python/117_populating_next_right_pointers_in_each_node_II.py) | Medium | Tree, Depth-first Search |
