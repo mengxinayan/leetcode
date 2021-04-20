@@ -346,6 +346,7 @@
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | 简单 | 栈, 设计 |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | 简单 | 链表, 双指针 |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | 简单 | 位运算, 哈希表 |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Python3](./algorithm/python/129_sum_root_to_leaf_numbers.py) | 中等 | 数组, 深度优先搜索 |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | 简单 | 双指针, 字符串 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py) | 简单 | 贪心算法, 数组 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py) | 简单 | 数组, 动态规划 |
