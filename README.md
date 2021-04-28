@@ -345,6 +345,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | Easy | Linked List, Two Pointers |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
+| 133 | [Clone Graph](https://leetcode-cn.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | Medium | Depth-first Search, Breadth-first Search, Graph |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python3](./algorithm/python/131_palindrome_partitioning.py) | Medium | Depth-first Search, Dynamic Programming, Backtracking |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./algorithm/python/130_surrounded_regions.py) | Medium | Depth-first Search, Breadth-first Search, Union Find |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python3](./algorithm/python/129_sum_root_to_leaf_numbers.py) | Medium | Tree, Depth-first Search |
@@ -355,7 +356,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python3](./algorithm/python/119_pascal's_triangle_II.py) | Easy | Array |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](./algorithm/python/118_pascal's_triangle.py) | Easy | Array |
 | 117 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python3](./algorithm/python/117_populating_next_right_pointers_in_each_node_II.py) | Medium | Tree, Depth-first Search |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python3](./algorithm/python/116_populating_next_right_pointers_in_each_node.py) | Medium | Tree, Depth-first Search, Breadth-first Search|
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python3](./algorithm/python/116_populating_next_right_pointers_in_each_node.py) | Medium | Tree, Depth-first Search, Breadth-first Search |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python3](./algorithm/python/114_flatten_binary_tree_to_linked_list.py) | Medium | Tree, Depth-first Search |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python3](./algorithm/python/113_path_sum_II.py) | Medium | Tree, Depth-first Search |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](./algorithm/python/112_path_sum.py) | Easy | Tree, Depth-first Search |
