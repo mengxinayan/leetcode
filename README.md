@@ -345,7 +345,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | Easy | Linked List, Two Pointers |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
-| 133 | [Clone Graph](https://leetcode-cn.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | Medium | Depth-first Search, Breadth-first Search, Graph |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python3](./algorithm/python/134_gas_station.py) | Medium | Greedy |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | Medium | Depth-first Search, Breadth-first Search, Graph |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python3](./algorithm/python/131_palindrome_partitioning.py) | Medium | Depth-first Search, Dynamic Programming, Backtracking |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./algorithm/python/130_surrounded_regions.py) | Medium | Depth-first Search, Breadth-first Search, Union Find |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python3](./algorithm/python/129_sum_root_to_leaf_numbers.py) | Medium | Tree, Depth-first Search |
