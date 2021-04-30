@@ -344,6 +344,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | Easy | Linked List |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | Easy | Linked List, Two Pointers |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | Medium | Hash Table, Linked List |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python3](./algorithm/python/134_gas_station.py) | Medium | Greedy |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | Medium | Depth-first Search, Breadth-first Search, Graph |
