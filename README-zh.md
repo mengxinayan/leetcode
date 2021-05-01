@@ -346,6 +346,7 @@
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | 简单 | 栈, 设计 |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | 简单 | 链表, 双指针 |
 | 138 | [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | 中等 | 哈希表, 链表 |
+| 137 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python3](./algorithm/python/137_single_number_II.py) | 中等 | 位运算 |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | 简单 | 位运算, 哈希表 |
 | 134 | [Gas Station](https://leetcode-cn.com/problems/gas-station/) | [Python3](./algorithm/python/134_gas_station.py) | 中等 | 贪心算法 |
 | 133 | [Clone Graph](https://leetcode-cn.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | 中等 | 深度优先搜索, 广度优先搜索, 图 |
