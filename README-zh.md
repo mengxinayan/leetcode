@@ -344,6 +344,7 @@
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | 简单 | 数组, 双指针, 二分查找 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | 简单 | 链表 |
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | 简单 | 栈, 设计 |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Python3](./algorithm/python/142_linked_list_cycle_II.py) | 中等 | 链表, 双指针 |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | 简单 | 链表, 双指针 |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [Python3](./algorithm/python/139_word_break.py) | 中等 | 动态规划 |
 | 138 | [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | 中等 | 哈希表, 链表 |
