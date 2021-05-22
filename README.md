@@ -343,6 +343,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | Easy | Array, Two Pointers, Binary Search |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | Easy | Linked List |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python3](./algorithm/python/148_sort_list.py) | Medium | Sort, Linked List |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python3](./algorithm/python/147_insertion_sort_list.py) | Medium | Sort, Linked List |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3](./algorithm/python/146_LRU_cache.py) | Medium | Design |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python3](./algorithm/python/144_binary_tree_preorder_traversal.py) | Medium | Stack, Tree |
