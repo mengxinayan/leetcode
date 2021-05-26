@@ -343,7 +343,8 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | Easy | Array, Two Pointers, Binary Search |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | Easy | Linked List |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Python3](./algorithm/python/150_evaluate_reverse_polish_notation.py) | Medium | Stack |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](./algorithm/python/151_reverse_words_in_a_string.py) | Medium | String |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python3](./algorithm/python/150_evaluate_reverse_polish_notation.py) | Medium | Stack |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python3](./algorithm/python/148_sort_list.py) | Medium | Sort, Linked List |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python3](./algorithm/python/147_insertion_sort_list.py) | Medium | Sort, Linked List |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3](./algorithm/python/146_LRU_cache.py) | Medium | Design |
