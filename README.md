@@ -341,6 +341,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py) | Easy | Bit Manipulation, Array, Divide and Conquer |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python3](./algorithm/python/168_excel_sheet_column_title.py) | Easy | Math |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | Easy | Array, Two Pointers, Binary Search |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./algorithm/python/162_find_peak_element.py) | Medium | Array, Binary Search |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | Easy | Linked List |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | Easy | Stack, Design |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python3](./algorithm/python/153_find_minimum_in_rotated_sorted_array.py) | Medium | Array, Binary Search |
