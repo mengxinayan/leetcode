@@ -336,6 +336,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | Easy | Bit Manipulation |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py) | Easy | Array |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python3](./algorithm/python/173_binary_search_tree_iterator.py) | Medium | Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | Easy | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py) | Easy | Math |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py) | Easy | Bit Manipulation, Array, Divide and Conquer |
