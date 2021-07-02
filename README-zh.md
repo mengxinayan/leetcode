@@ -337,6 +337,7 @@
 | 191 | [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py) | 简单 | 位运算 |
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | 简单 | 位运算 |
 | 189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py) | 简单 | 数组 |
+| 179 | [Largest Number](https://leetcode-cn.com/problems/largest-number/) | [Python3](./algorithm/python/179_largest_number.py) | 中等 | 贪心, 字符串, 排序 |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Python3](./algorithm/python/173_binary_search_tree_iterator.py) | 中等 | 栈, 树, 设计, 二叉搜索树, 二叉树, 迭代器 |
 | 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | 简单 | 数学 |
 | 171 | [Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py) | 简单 | 数学 |
