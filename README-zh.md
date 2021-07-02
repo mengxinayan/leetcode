@@ -485,6 +485,7 @@
 | 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | 简单 |
 | 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | 简单 |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | 简单 |
+| 177 | [Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [MySQL](./database/MySQL/177_Nth_highest_salary.sql) | 中等 |
 | 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [MySQL](./database/MySQL/176_second_highest_salary.sql) | 简单 |
 | 175 | [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [MySQL](./database/MySQL/175_combine_two_tables.sql) | 简单 |
 
