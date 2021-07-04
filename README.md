@@ -485,6 +485,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | Easy |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [MySQL](./database/MySQL/180_consecutive_numbers.sql) | Medium |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MySQL](./database/MySQL/178_rank_scores.sql) | Medium |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./database/MySQL/177_Nth_highest_salary.sql) | Medium |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./database/MySQL/176_second_highest_salary.sql) | Easy |
