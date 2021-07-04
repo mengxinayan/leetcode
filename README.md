@@ -482,6 +482,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./database/MySQL/595_big_countries.sql) | Easy |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | Easy |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | Easy |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](./database/MySQL/184_department_highest_salary.sql) | Medium |
 | 183 | [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | Easy |

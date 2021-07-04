@@ -483,10 +483,11 @@
 | 595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | [MySQL](./database/MySQL/595_big_countries.sql) | 简单 |
 | 197 | [Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/) | [MySQL](./database/MySQL/197_rising_temperature.sql) | 简单 |
 | 196 | [Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySQL](./database/MySQL/196_delete_duplicate_emails.sql) | 简单 |
+| 184 | [Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/) | [MySQL](./database/MySQL/184_department_highest_salary.sql) | 中等 |
 | 183 | [Customer Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySQL](./database/MySQL/183_customers_who_never_order.sql) | 简单 |
 | 182 | [Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MySQL](./database/MySQL/182_duplicate_emails.sql) | 简单 |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/MySQL/181_employees_earning_more_than_their_managers.sql) | 简单 |
-| 180 | [Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/) | [MySQL](./database/MySQL/180_consecutive_numbers.sql) | Medium |
+| 180 | [Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/) | [MySQL](./database/MySQL/180_consecutive_numbers.sql) | 中等 |
 | 178 | [Rank Scores](https://leetcode-cn.com/problems/rank-scores/) | [MySQL](./database/MySQL/178_rank_scores.sql) | 中等 |
 | 177 | [Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [MySQL](./database/MySQL/177_Nth_highest_salary.sql) | 中等 |
 | 176 | [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [MySQL](./database/MySQL/176_second_highest_salary.sql) | 简单 |
