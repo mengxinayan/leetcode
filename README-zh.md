@@ -498,6 +498,7 @@
 | # | 题名 | 解答 | 难度 |
 | :-: | :-: | :-: | :-: |
 | 195 | [Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | [Bash](./shell/195_tenth_line.sh) | 简单 |
+| 194 | [Transpose File](https://leetcode-cn.com/problems/transpose-file/) | [Bash](shell/194_transpose_file.sh) | 中等 |
 | 193 | [Valid Phone Number](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | 简单 |
 | 192 | [Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | [Bash](./shell/192_word_frequency.sh) | 中等 |
 
