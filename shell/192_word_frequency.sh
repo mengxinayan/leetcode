@@ -10,7 +10,7 @@ cat words.txt | tr -s ' ' '\n'|sort|uniq -c |sort -r|awk '{print $2" "$1}'
 
 # This is my personal record of solving Leetcode Problems. 
 # If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
-# Copyright (C) 2020  mengxinayan
+# Copyright (C) 2020-2021  mengxinayan
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
