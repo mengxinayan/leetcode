@@ -498,6 +498,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | :-: | :-: | :-: | :-: |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Bash](./shell/195_tenth_line.sh) | Easy |
 | 193 | [Valid Phone Number](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](./shell/193_valid_phone_number.sh) | Easy |
+| 192 | [Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | [Bash](./shell/192_word_frequency.sh) | Medium |
 
 ### Concurrency
 
