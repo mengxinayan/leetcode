@@ -363,7 +363,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python3](./algorithm/python/139_word_break.py) | Medium | Dynamic Programming |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | Medium | Hash Table, Linked List |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python3](./algorithm/python/137_single_number_II.py) | Medium | Bit Manipulation |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py) | Easy | Bit Manipulation, Hash Table |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](./algorithm/python/136_single_number.py), [Java](./algorithm/java/136_single_number.java) | Easy | Bit Manipulation, Hash Table |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python3](./algorithm/python/134_gas_station.py) | Medium | Greedy |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python3](./algorithm/python/133_clone_graph.py) | Medium | Depth-first Search, Breadth-first Search, Graph |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python3](./algorithm/python/131_palindrome_partitioning.py) | Medium | Depth-first Search, Dynamic Programming, Backtracking |
