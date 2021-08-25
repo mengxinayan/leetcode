@@ -301,7 +301,7 @@
 | 374 | [Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | 简单 | 二分查找 |
 | 371 | [Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | 简单 | 位运算 |
 | 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | 简单 | 数学, 二分查找 |
-| 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [Python3](./algorithm/python/350_intersection_of_two_arrays_II.py) | 简单 | 排序, 哈希表, 双指针, 二分查找 |
+| 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [Python3](./algorithm/python/350_intersection_of_two_arrays_II.py), [Java](./algorithm/java/350_intersection_of_two_arrays_II.java) | 简单 | 排序, 哈希表, 双指针, 二分查找 |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Python3](./algorithm/python/349_intersection_of_two_arrays.py) | 简单 | 排序, 哈希表, 双指针, 二分查找 |
 | 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | 简单 | 双指针, 字符串 |
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py) | 简单 | 双指针, 字符串 |
