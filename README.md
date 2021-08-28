@@ -465,7 +465,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | Math, String |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | Medium | Array, Two Pointers |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | Easy | Math |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | Medium | Math, String |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py), [Java](./algorithm/java/8_string_to_integer_(atoi).java) | Medium | Math, String |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | Easy | Math |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | String |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | Medium | String, Dynamic Programming |

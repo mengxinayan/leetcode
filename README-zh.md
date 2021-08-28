@@ -466,7 +466,7 @@
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | 中等 | 数学, 字符串 |
 | 11 | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | 中等 | 数组, 双指针 |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python3](./algorithm/python/9_palindrome_number.py) | 简单 | 数学 |
-| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py) | 中等 | 数学, 字符串 |
+| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Python3](./algorithm/python/8_string_to_integer_(atoi).py), [Java](./algorithm/java/8_string_to_integer_(atoi).java) | 中等 | 数学, 字符串 |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python3](./algorithm/python/7_reverse_integer.py) | 简单 | 数学 |
 | 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | 中等 | 字符串 |
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py) | 中等 | 字符串, 动态规划 |
