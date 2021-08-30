@@ -449,7 +449,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python3](./algorithm/python/31_next_permutation.py) | 中等 | 数组 |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py) | 中等 | 数学, 二分查找 |
-| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py) | 简单 | 双指针, 字符串 |
+| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py), [Java](,/algorithm/java/28_implement_strStr().java) | 简单 | 双指针, 字符串 |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | 简单 | 数组, 双指针 |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py) | 简单 | 数组, 双指针 |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python3](./algorithm/python/24_swap_nodes_in_pairs.py) | 中等 | 递归, 链表 |
