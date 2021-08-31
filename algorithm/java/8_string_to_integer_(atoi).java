@@ -1,3 +1,5 @@
+// Solution 1: traditional parse string
+
 class Solution {
     public int myAtoi(String s) {
         long ans = 0;
@@ -50,6 +52,55 @@ class Solution {
                 } else {
                     return (int) ans;
                 }
+        }
+    }
+}
+
+
+// Solution 2: deterministic finite automaton, DFA
+
+class Solution {
+    public int myAtoi(String s) {
+        Automation automation = new Automation();
+        for (int i = 0; i < s.length(); i++) {
+            automation.get(s.charAt(i));
+        }
+        return (int) (automation.sign * automation.ans);
+    }
+}
+
+class Automation {
+    public int sign = 1;
+    public long ans = 0;
+    private String state = "start";
+    private HashMap<String, String[]> table = new HashMap<String, String[]>();
+
+    public Automation() {
+        table.put("start", new String[] {"start", "signed", "in_number", "end"});
+        table.put("signed", new String[] {"end", "end", "in_number", "end"});
+        table.put("in_number", new String[] {"end", "end", "in_number", "end"});
+        table.put("end", new String[] {"end", "end", "end", "end"});
+    }
+
+    public void get(char ch) {
+        state = table.get(state)[get_col(ch)];
+        if ("in_number".equals(state)) {
+            ans = ans * 10 + ch - '0';
+            ans = (sign == 1) ? Math.min(ans, (long) Integer.MAX_VALUE) : Math.min(ans, - (long) Integer.MIN_VALUE);
+        } else if ("signed".equals(state)) {
+            sign = (ch == '+') ? 1: -1;
+        }
+    }
+
+    private int get_col(char ch) {
+        if (ch == ' ') {
+            return 0;
+        } else if ((ch == '+') || (ch == '-')) {
+            return 1;
+        } else if (Character.isDigit(ch) == true) {
+            return 2;
+        } else {
+            return 3;
         }
     }
 }
