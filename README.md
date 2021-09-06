@@ -394,7 +394,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python3](./algorithm/python/102_binary_tree_level_order_traversal.py) | Medium | Tree, Breadth-first Search |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | Easy | Tree, Depth-first Search, Breadth-first Search |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | Easy | Tree, Depth-first Search |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./algorithm/python/98_validate_binary_search_tree.py) | Medium | Tree, Depth-first Search, Recursion |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./algorithm/python/98_validate_binary_search_tree.py), [Java](algorithm/java/98_validate_binary_search_tree.java) | Medium | Tree, Depth-first Search, Recursion |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Python3](./algorithm/python/97_interleaving_string.py) | Medium | String, Dynamic Programming |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](./algorithm/python/96_unique_binary_search_trees.py) | Medium | Tree, Dynamic Programming |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python3](./algorithm/python/95_unique_binary_search_trees_II.py) | Medium | Tree, Dynamic Programming |

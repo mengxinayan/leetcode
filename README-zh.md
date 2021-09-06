@@ -395,7 +395,7 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Python3](./algorithm/python/102_binary_tree_level_order_traversal.py) | 中等 | 树, 广度优先搜索 |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
-| 98 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](./algorithm/python/98_validate_binary_search_tree.py) | 中等 | 树, 深度优先搜索, 递归 |
+| 98 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](./algorithm/python/98_validate_binary_search_tree.py), [Java](algorithm/java/98_validate_binary_search_tree.java) | 中等 | 树, 深度优先搜索, 递归 |
 | 97 | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](./algorithm/python/97_interleaving_string.py) | 中等 | 字符串, 动态规划 |
 | 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](./algorithm/python/96_unique_binary_search_trees.py) | 中等 | 树, 动态规划 |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](./algorithm/python/95_unique_binary_search_trees_II.py) | 中等 | 树, 动态规划 |
