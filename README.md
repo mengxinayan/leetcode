@@ -417,7 +417,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | Medium | Array, Binary Search |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py) | Medium | Array |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | Medium | Stack, String |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py) | Easy | Dynamic Programming |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py), [Java](./algorithm/java/70_climbing_stairs.java) | Easy | Dynamic Programming |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |

@@ -418,7 +418,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | 中等 | 数组, 二分查找 |
 | 73 | [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py) | 中等 | 数组 |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | 中等 | 栈, 字符串 |
-| 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py) | 简单 | 动态规划 |
+| 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py), [Java](./algorithm/java/70_climbing_stairs.java) | 简单 | 动态规划 |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | 简单 | 数学, 二分查找 |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, 字符串 |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | 简单 | 数组 |
