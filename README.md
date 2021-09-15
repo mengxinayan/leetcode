@@ -431,7 +431,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](./algorithm/python/56_merge_intervals.py) | Medium | Sort, Array |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py) | Medium | Greedy, Array |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](./algorithm/python/54_spiral_matrix.py) | Medium | Array |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py) | Easy | Array, Divide and Conquer, Dynamic Programming |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py), [Java](./algorithm/java/53_maximum_subarray.java) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | Medium | Math, Binary Search |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py) | Medium | Hash Table, String |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py) | Medium | Array |
