@@ -298,6 +298,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python3](./algorithm/python/392_is_subsequence.py) | Easy | Greedy, Binary Search, Dynamic Programming |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](./algorithm/python/389_find_the_difference.py) | Easy | Bit Manipulation, Hash Table |
 | 387 | [First Unique CHaracter in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py), [Java](./algorithm/java/387_first_unique_character_in_a_string.java) | Easy | Hash Table, String |
+| 384 | [Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | [Java](./algorithm/java/384_shuffle_an_array.java) | Medium | Array, Math, Randomized |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | Easy | String |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | Easy | Binary Search |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
