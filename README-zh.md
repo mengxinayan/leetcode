@@ -352,7 +352,7 @@
 | 165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | [Python3](./algorithm/python/165_compare_version_numbers.py) | 中等 | 字符串 |
 | 162 | [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [Python3](./algorithm/python/162_find_peak_element.py) | 中等 | 数组, 二分查找 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | 简单 | 链表 |
-| 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py) | 简单 | 栈, 设计 |
+| 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py), [Java](./algorithm/java/155_min_stack.java) | 简单 | 栈, 设计 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python3](./algorithm/python/153_find_minimum_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
 | 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Python3](./algorithm/python/152_maximum_product_subarray.py) | 中等 | 数组, 动态规划 |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [Python3](./algorithm/python/151_reverse_words_in_a_string.py) | 中等 | 字符串 |
