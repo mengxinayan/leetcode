@@ -333,7 +333,7 @@
 | 217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [Python3](./algorithm/python/217_contains_duplicate.py) | 简单 | 数组, 哈希表 |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python3](./algorithm/python/206_reverse_linked_list.py), [Java](./algorithm/java/206_reverse_linked_list.java) | 简单 | 链表 |
 | 205 | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | 简单 | 哈希表 |
-| 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py) | 简单 | 哈希表, 数学 |
+| 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py), [Java](./algorithm/java/204_count_primes.java) | 简单 | 哈希表, 数学 |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | 简单 | 链表 |
 | 202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | 简单 | 哈希表, 数学 |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py) | 简单 | 动态规划 |

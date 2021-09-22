@@ -332,7 +332,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python3](./algorithm/python/217_contains_duplicate.py) | Easy | Array, Hash Table |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./algorithm/python/206_reverse_linked_list.py), [Java](./algorithm/java/206_reverse_linked_list.java) | Easy | Linked List |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | Easy | Hash Table |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py) | Easy | Hash Table, Math |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py), [Java](./algorithm/java/204_count_primes.java) | Easy | Hash Table, Math |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | Easy | Linked List |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py) | Easy | Dynamic Programming |
