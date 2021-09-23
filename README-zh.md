@@ -291,7 +291,7 @@
 | 434 | [Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | 简单 | 字符串 |
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | 简单 | 字符串 |
 | 414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/) | [Python3](./algorithm/python/414_third_maximum_number.py) | 简单 | 数组 |
-| 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py) | 简单 | 无 |
+| 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py), [Java](./algorithm/java/412_fizz_buzz.java) | 简单 | 无 |
 | 409 | [Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/) | [Python3](./algorithm/python/409_longest_palindrome.py) | 简单 | 哈希表 |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [Python3](./algorithm/python/405_convert_a_number_to_hexadecimal.py) | 简单 | 位运算 |
 | 403 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Python3](./algorithm/python/403_sum_of_left_leaves.py) | 简单 | 树 |

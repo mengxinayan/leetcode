@@ -290,7 +290,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python3](./algorithm/python/434_number_of_segments_in_a_string.py) | Easy | String |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Python3](./algorithm/python/415_add_strings.py) | Easy | String |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python3](./algorithm/python/414_third_maximum_number.py) | Easy | Array |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py) | Easy | None |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python3](./algorithm/python/412_fizz_buzz.py), [Java](./algorithm/java/412_fizz_buzz.java) | Easy | None |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python3](./algorithm/python/409_longest_palindrome.py) | Easy | Hash Table |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python3](./algorithm/python/405_convert_a_number_to_hexadecimal.py) | Easy | Bit Manipulation |
 | 403 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python3](./algorithm/python/403_sum_of_left_leaves.py) | Easy | Tree |
