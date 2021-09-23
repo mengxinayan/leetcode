@@ -308,7 +308,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | Easy | Two Pointers, String |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py), [Java](./algorithm/java/344_reverse_string.java) | Easy | Two Pointers, String |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | Easy | Bit Manipulation |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py) | Easy | Math |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py), [Java](./algorithm/java/326_power_of_three.java) | Easy | Math |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | Easy | Brainteaser, Minimax |
