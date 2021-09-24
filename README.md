@@ -336,7 +336,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | Easy | Linked List |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py) | Easy | Dynamic Programming |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py), [Java](algorithm/java/191_number_of_1_bits.java) | Easy | Bit Manipulation |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py), [Java](./algorithm/java/191_number_of_1_bits.java) | Easy | Bit Manipulation |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | Easy | Bit Manipulation |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py), [Java](./algorithm/java/189_rotate_array.java) | Easy | Array |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python3](./algorithm/python/187_repeated_DNA_sequences.py) | Medium | Bit Manipulation, Hash Table, String, Sliding Windows, Hash Function, Rolling Hash |
@@ -455,7 +455,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./algorithm/python/24_swap_nodes_in_pairs.py) | Medium | Recursion, Linked List |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3](./algorithm/python/22_generate_parentheses.py) | Medium | String, Backtracking |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithm/python/21_merge_two_sorted_lists.py), [Java](./algorithm/java/21_merge_two_sorted_lists.java) | Easy | Linked List |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py) | Easy | Stack, String |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py), [Java](./algorithm/java/20_valid_parentheses.java) | Easy | Stack, String |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./algorithm/python/19_remove_Nth_node_from_end_of_list.py) | Medium | Linked List, Two Pointers |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](./algorithm/python/18_4sum.py) | Medium | Array, Hash Table, Two Pointers |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | Medium | Depth-first Search, Recursion, String, Backtracking |
