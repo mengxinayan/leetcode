@@ -421,7 +421,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py), [Java](./algorithm/java/70_climbing_stairs.java) | Easy | Dynamic Programming |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | Easy | Math, String |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py) | Easy | Array |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py), [Java](./algorithm/java/66_plus_one.java) | Easy | Array |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](./algorithm/python/64_minimum_path_sum.py) | Medium | Array, Dynamic Programming |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python3](./algorithm/python/63_unique_paths_II.py) | Medium | Array, Dynamic Programming |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py) | Medium | Array, Dynamic Programming |
