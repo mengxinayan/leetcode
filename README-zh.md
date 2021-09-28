@@ -330,7 +330,7 @@
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Python3](./algorithm/python/226_invert_binary_tree.py) | 简单 | 树 |
 | 225 | [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Python3](./algorithm/python/225_implement_stack_using_queues.py) | 简单 | 栈, 设计 |
 | 219 | [Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Python3](./algorithm/python/219_contains_duplicate_II.py) | 简单 | 数组, 哈希表 |
-| 217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [Python3](./algorithm/python/217_contains_duplicate.py) | 简单 | 数组, 哈希表 |
+| 217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [Python3](./algorithm/python/217_contains_duplicate.py), [Java](./algorithm/java/217_contains_duplicate.java) | 简单 | 数组, 哈希表 |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python3](./algorithm/python/206_reverse_linked_list.py), [Java](./algorithm/java/206_reverse_linked_list.java) | 简单 | 链表 |
 | 205 | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | 简单 | 哈希表 |
 | 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py), [Java](./algorithm/java/204_count_primes.java) | 简单 | 哈希表, 数学 |
