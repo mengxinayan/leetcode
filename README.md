@@ -435,7 +435,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py), [Java](./algorithm/java/53_maximum_subarray.java) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | Medium | Math, Binary Search |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py) | Medium | Hash Table, String |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py) | Medium | Array |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py), [Java](./algorithm/java/48_rotate_image.java) | Medium | Array |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | Medium | Backtracking |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py) | Medium | Backtracking |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](./algorithm/python/45_jump_game_II.py) | Medium | Greedy, Array |
