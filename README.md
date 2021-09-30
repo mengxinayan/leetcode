@@ -443,7 +443,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | Medium | Array, Backtracking |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | Medium | Array, Backtracking |
 | 38 | [Count And Say](https://leetcode.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | Easy | String |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py) | Medium | Hash Table |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py), [Java](./algorithm/java/36_valid_sudoku.java) | Medium | Hash Table |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | Easy | Array, Binary Search |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Array, Binary Search |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | Medium | Array, Binary Search |
