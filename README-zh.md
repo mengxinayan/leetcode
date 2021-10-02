@@ -374,7 +374,7 @@
 | 130 | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | [Python3](./algorithm/python/130_surrounded_regions.py) | 中等 | 深度优先搜索, 广度优先搜索, 并查集 |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Python3](./algorithm/python/129_sum_root_to_leaf_numbers.py) | 中等 | 数组, 深度优先搜索 |
 | 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Python3](./algorithm/python/128_longest_consecutive_sequence.py) | 中等 | 并查集, 数组 |
-| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | 简单 | 双指针, 字符串 |
+| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py), [Java](./algorithm/java/125_valid_palindrome.java) | 简单 | 双指针, 字符串 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py), [Java](./algorithm/java/122_best_time_to_buy_and_sell_stock_II.java) | 简单 | 贪心算法, 数组 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py), [Java](./algorithm/java/121_best_time_to_buy_and_sell_stock.java) | 简单 | 数组, 动态规划 |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Python3](./algorithm/python/120_triangle.py) | 中等 | 数组, 动态规划 |

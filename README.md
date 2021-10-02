@@ -373,7 +373,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./algorithm/python/130_surrounded_regions.py) | Medium | Depth-first Search, Breadth-first Search, Union Find |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python3](./algorithm/python/129_sum_root_to_leaf_numbers.py) | Medium | Tree, Depth-first Search |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python3](./algorithm/python/128_longest_consecutive_sequence.py) | Medium | Union Find, Array |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py) | Easy | Two Pointers, String |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](./algorithm/python/125_valid_palindrome.py), [Java](./algorithm/java/125_valid_palindrome.java) | Easy | Two Pointers, String |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python3](./algorithm/python/122_best_time_to_buy_and_sell_stock_II.py), [Java](./algorithm/java/122_best_time_to_buy_and_sell_stock_II.java) | Easy | Greedy, Array |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithm/python/121_best_time_to_buy_and_sell_stock.py), [Java](./algorithm/java/121_best_time_to_buy_and_sell_stock.java) | Easy | Array, Dynamic Programming |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Python3](./algorithm/python/120_triangle.py) | Medium | Array, Dynamic Programming |
