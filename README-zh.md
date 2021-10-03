@@ -443,7 +443,7 @@
 | 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | 中等 | 数学, 字符串 |
 | 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | 中等 | 数组, 回溯算法 |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum/) | [Python3](./algorithm/python/39_combination_sum.py) | 中等 | 数组, 回溯算法 |
-| 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py) | 简单 | 字符串 |
+| 38 | [Count And Say](https://leetcode-cn.com/problems/count-and-say/) | [Python3](./algorithm/python/38_count_and_say.py), [Java](./algorithm/java/38_count_and_say.java) | 简单 | 字符串 |
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py), [Java](./algorithm/java/36_valid_sudoku.java) | 中等 | 哈希表 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, 二分查找 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py) | 中等 | 数组, 二分查找 |
