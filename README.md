@@ -461,7 +461,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | Medium | Depth-first Search, Recursion, String, Backtracking |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | Medium | Array, Two Pointers |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py) | Medium | Array, Two Pointers |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py) | Easy | String |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py), [Java](./algorithm/java/14_longest_common_prefix.java) | Easy | String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](./algorithm/python/13_roman_to_integer.py)| Easy | Math, String |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](./algorithm/python/12_integer_to_roman.py) | Medium | Math, String |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](./algorithm/python/11_container_with_most_water.py) | Medium | Array, Two Pointers |
