@@ -363,7 +363,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Python3](./algorithm/python/144_binary_tree_preorder_traversal.py) | 中等 | 栈, 树 |
 | 143 | [Reorder List](https://leetcode-cn.com/problems/reorder-list/) | [Python3](./algorithm/python/143_reorder_list.py) | 中等 | 链表 |
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Python3](./algorithm/python/142_linked_list_cycle_II.py) | 中等 | 链表, 双指针 |
-| 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | 简单 | 链表, 双指针 |
+| 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py), [Java](./algorithm/java/141_linked_list_cycle.java) | 简单 | 链表, 双指针 |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [Python3](./algorithm/python/139_word_break.py) | 中等 | 动态规划 |
 | 138 | [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | 中等 | 哈希表, 链表 |
 | 137 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python3](./algorithm/python/137_single_number_II.py) | 中等 | 位运算 |

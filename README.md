@@ -362,7 +362,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python3](./algorithm/python/144_binary_tree_preorder_traversal.py) | Medium | Stack, Tree |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python3](./algorithm/python/143_reorder_list.py) | Medium | Linked List |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python3](./algorithm/python/142_linked_list_cycle_II.py) | Medium | Linked List, Two Pointers |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py) | Easy | Linked List, Two Pointers |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python3](./algorithm/python/141_linked_list_cycle.py), [Java](./algorithm/java/141_linked_list_cycle.java) | Easy | Linked List, Two Pointers |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python3](./algorithm/python/139_word_break.py) | Medium | Dynamic Programming |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](./algorithm/python/138_copy_list_with_random_pointer.py) | Medium | Hash Table, Linked List |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python3](./algorithm/python/137_single_number_II.py) | Medium | Bit Manipulation |
