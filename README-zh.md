@@ -394,7 +394,7 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](./algorithm/python/105_construct_binary_tree_from_preorder_and_inorder_traversal.py) | 中等 | 树, 深度优先搜索, 数组 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Python3](./algorithm/python/104_maximum_depth_of_binary_tree.py), [Java](./algorithm/java/104_maximum_depth_of_binary_tree.java) | 简单 | 树, 深度优先搜索 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Python3](./algorithm/python/102_binary_tree_level_order_traversal.py), [Java](./algorithm/java/102_binary_tree_level_order_traversal.java) | 中等 | 树, 广度优先搜索 |
-| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
+| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](./algorithm/python/101_symmetric_tree.py), [Java](./algorithm/java/101_symmetric_tree.java) | 简单 | 树, 深度优先搜索, 广度优先搜索 |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](./algorithm/python/100_same_tree.py) | 简单 | 树, 深度优先搜索 |
 | 98 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](./algorithm/python/98_validate_binary_search_tree.py), [Java](algorithm/java/98_validate_binary_search_tree.java) | 中等 | 树, 深度优先搜索, 递归 |
 | 97 | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](./algorithm/python/97_interleaving_string.py) | 中等 | 字符串, 动态规划 |
