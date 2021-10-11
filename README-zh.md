@@ -406,7 +406,7 @@
 | 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | 中等 | 字符串, 动态规划 |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](./algorithm/python/90_subsets_II.py) | 中等 | 数组, 回溯算法 |
 | 89 | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](./algorithm/python/89_gray_code.py) | 中等 | 回溯算法 |
-| 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | 简单 | 数组, 双指针 |
+| 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py), [Java](./algorithm/java/88_merge_sorted_array.java) | 简单 | 数组, 双指针 |
 | 86 | [Partition List](https://leetcode-cn.com/problems/partition-list/) | [Python3](./algorithm/python/86_partition_list.py) | 中等 | 链表, 双指针 |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | 简单 | 链表 |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./algorithm/python/82_remove_duplicates_from_sorted_list_II.py) | 中等 | 链表 |

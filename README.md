@@ -405,7 +405,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | Medium | String, Dynamic Programming |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python3](./algorithm/python/90_subsets_II.py) | Medium | Array, Backtracking |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Python3](./algorithm/python/89_gray_code.py) | Medium | Backtracking |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py) | Easy | Array, Two Pointers |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](./algorithm/python/88_merge_sorted_array.py), [Java](./algorithm/java/88_merge_sorted_array.java) | Easy | Array, Two Pointers |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python3](./algorithm/python/86_partition_list.py) | Medium | Linked List, Two Pointers |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./algorithm/python/83_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./algorithm/python/82_remove_duplicates_from_sorted_list_II.py) | Medium | Linked List |
