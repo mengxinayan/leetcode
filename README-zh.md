@@ -279,7 +279,7 @@
 | 476 | [Number Complement](https://leetcode-cn.com/problems/number-complement/) | [Python3](./algorithm/python/476_number_complement.py) | 简单 | 位运算 |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters/) | [Python3](./algorithm/python/475_heaters.py) | 简单 | 二分查找 |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [Python3](./algorithm/python/463_island_perimeter.py) | 简单 | 哈希表 |
-| 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python3](./algorithm/python/461_hamming_distance.py) | 简单 | 位运算 |
+| 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python3](./algorithm/python/461_hamming_distance.py), [Java](./algorithm/java/461_hamming_distance.java) | 简单 | 位运算 |
 | 459 | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Python3](./algorithm/python/459_repeated_substring_pattern.py) | 简单 | 字符串 |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [Python3](./algorithm/python/455_assign_cookies.py) | 简单 | 贪心算法 |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [Python3](./algorithm/python/453_minimum_moves_to_equal_array_elements.py) | 简单 | 数学 |
