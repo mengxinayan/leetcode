@@ -337,7 +337,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | Easy | Hash Table, Math |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py), [Java](./algorithm/java/198_house_robber.java) | Easy | Dynamic Programming |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py), [Java](./algorithm/java/191_number_of_1_bits.java) | Easy | Bit Manipulation |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py) | Easy | Bit Manipulation |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python3](./algorithm/python/190_reverse_bits.py), [Java](./algorithm/java/190_reverse_bits.java) | Easy | Bit Manipulation |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python3](./algorithm/python/189_rotate_array.py), [Java](./algorithm/java/189_rotate_array.java) | Easy | Array |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python3](./algorithm/python/187_repeated_DNA_sequences.py) | Medium | Bit Manipulation, Hash Table, String, Sliding Windows, Hash Function, Rolling Hash |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Python3](./algorithm/python/179_largest_number.py) | Medium | Greedy, String, Sorting |
