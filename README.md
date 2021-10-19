@@ -315,7 +315,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](./algorithm/python/290_word_pattern.py) | Easy | Hash Table |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./algorithm/python/283_move_zeroes.py), [Java](./algorithm/java/283_move_zeroes.java) | Easy | Array, Two Pointers |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python3](./algorithm/python/278_first_bad_version.py), [Java](algorithm/java/278_first_bad_version.java) | Easy | Binary Search |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py) | Easy | Bit Manipulation, Array, Math |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py), [Java](./algorithm/java/268_missing_number.java) | Easy | Bit Manipulation, Array, Math |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | Easy | Math |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |

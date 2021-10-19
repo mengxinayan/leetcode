@@ -316,7 +316,7 @@
 | 290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | [Python3](./algorithm/python/290_word_pattern.py) | 简单 | 哈希表 |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [Python3](./algorithm/python/283_move_zeroes.py), [Java](./algorithm/java/283_move_zeroes.java) | 简单 | 数组, 双指针 |
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/) | [Python3](./algorithm/python/278_first_bad_version.py), [Java](algorithm/java/278_first_bad_version.java) | 简单 | 二分查找 |
-| 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py) | 简单 | 位运算, 数组, 数学 |
+| 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | [Python3](./algorithm/python/268_missing_number.py), [Java](./algorithm/java/268_missing_number.java) | 简单 | 位运算, 数组, 数学 |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Python3](./algorithm/python/263_ugly_number.py) | 简单 | 数学 |
 | 258 | [Add Digits](https://leetcode-cn.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | 简单 | 数学 |
 | 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | 简单 | 树, 深度优先搜索 |
