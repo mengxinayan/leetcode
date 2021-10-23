@@ -1,3 +1,4 @@
+// Solution 1: HashMap
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         HashSet<List<Integer>> ansSet = new HashSet<>();
@@ -30,6 +31,41 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         for (List<Integer> tmp : ansSet) {
             ans.add(tmp);
+        }
+        return ans;
+    }
+}
+
+
+// Solution 2: Two pointer
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        int length = nums.length;
+        for (int first = 0; first < length - 1; first++) {
+            if (first > 0 && nums[first] == nums[first-1]) {
+                continue;
+            }
+            for (int second = first + 1; second < length; second++) {
+                if (second > first + 1 && nums[second] == nums[second-1]) {
+                    continue;
+                }
+                int third = length - 1;
+                while (second < third && nums[first] + nums[second] + nums[third] > 0) {
+                    third--;
+                }
+                if (second == third) {
+                    break;
+                }
+                if (nums[first] + nums[second] + nums[third] == 0) {
+                    List<Integer> tmp = new ArrayList<>();
+                    tmp.add(nums[first]);
+                    tmp.add(nums[second]);
+                    tmp.add(nums[third]);
+                    ans.add(tmp);
+                }
+            }
         }
         return ans;
     }
