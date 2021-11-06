@@ -472,7 +472,7 @@
 | 6 | [Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | 中等 | 字符串 |
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py), [Java](./algorithm/java/5_longest_palindromic_substring.java) | 中等 | 字符串, 动态规划 |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py), [Java](./algorithm/java/3_longest_substring_without_repeating_characters.java) | 中等 | 哈希表, 双指针, 字符串, Sliding Window |
-| 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | 中等 | 递归, 链表, 数学 |
+| 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py), [Java](./algorithm/java/2_add_two_numbers.java) | 中等 | 递归, 链表, 数学 |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py), [Java](./algorithm/java/1_two_sum.java) | 简单 | 数组, 哈希表 |
 
 

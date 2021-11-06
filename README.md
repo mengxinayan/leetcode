@@ -471,7 +471,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](./algorithm/python/6_zigzag_conversion.py) | Medium | String |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithm/python/5_longest_palindromic_substring.py), [Java](./algorithm/java/5_longest_palindromic_substring.java) | Medium | String, Dynamic Programming |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](./algorithm/python/3_longest_substring_without_repeating_characters.py), [Java](./algorithm/java/3_longest_substring_without_repeating_characters.java) | Medium | Hash Table, Two Pointers, String, Sliding Window |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py) | Medium | Recursion, Linked List, Math |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithm/python/2_add_two_numbers.py), [Java](./algorithm/java/2_add_two_numbers.java) | Medium | Recursion, Linked List, Math |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithm/python/1_two_sum.py), [Java](./algorithm/java/1_two_sum.java) | Easy | Array, Hash Table |
 
 
