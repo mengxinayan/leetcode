@@ -350,7 +350,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python3](./algorithm/python/166_fraction_to_recurring_decimal.py) | Medium | Hash Table, Math, String |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python3](./algorithm/python/165_compare_version_numbers.py) | Medium | String |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./algorithm/python/162_find_peak_element.py) | Medium | Array, Binary Search |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py) | Easy | Linked List |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py), [Java](./algorithm/java/160_intersection_of_two_linked_lists.java) | Easy | Linked List |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py), [Java](./algorithm/java/155_min_stack.java) | Easy | Stack, Design |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python3](./algorithm/python/153_find_minimum_in_rotated_sorted_array.py) | Medium | Array, Binary Search |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python3](./algorithm/python/152_maximum_product_subarray.py) | Medium | Array, Dynamic Programming |
