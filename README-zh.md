@@ -400,7 +400,7 @@
 | 97 | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](./algorithm/python/97_interleaving_string.py) | 中等 | 字符串, 动态规划 |
 | 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](./algorithm/python/96_unique_binary_search_trees.py) | 中等 | 树, 动态规划 |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](./algorithm/python/95_unique_binary_search_trees_II.py) | 中等 | 树, 动态规划 |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py) | 中等 | 栈, 树, 哈希表 |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py), [Java](./algorithm/java/94_binary_tree_inorder_traversal.java) | 中等 | 栈, 树, 哈希表 |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](./algorithm/python/93_restore_IP_addresses.py) | 中等 | 字符串, 回溯算法 |
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python3](./algorithm/python/92_reverse_linked_list_II.py) | 中等 | 链表 |
 | 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | 中等 | 字符串, 动态规划 |

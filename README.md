@@ -399,7 +399,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Python3](./algorithm/python/97_interleaving_string.py) | Medium | String, Dynamic Programming |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](./algorithm/python/96_unique_binary_search_trees.py) | Medium | Tree, Dynamic Programming |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python3](./algorithm/python/95_unique_binary_search_trees_II.py) | Medium | Tree, Dynamic Programming |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py) | Medium | Stack, Tree, Hash Table |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python3](./algorithm/python/94_binary_tree_inorder_traversal.py), [Java](./algorithm/java/94_binary_tree_inorder_traversal.java) | Medium | Stack, Tree, Hash Table |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python3](./algorithm/python/93_restore_IP_addresses.py) | Medium | String, Backtracking |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python3](./algorithm/python/92_reverse_linked_list_II.py) | Medium |  Linked List |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python3](./algorithm/python/91_decode_ways.py) | Medium | String, Dynamic Programming |
