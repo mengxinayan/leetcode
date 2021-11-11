@@ -460,7 +460,7 @@
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python3](./algorithm/python/20_valid_parentheses.py), [Java](./algorithm/java/20_valid_parentheses.java) | 简单 | 栈, 字符串 |
 | 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./algorithm/python/19_remove_Nth_node_from_end_of_list.py), [Java](./algorithm/java/19_remove_Nth_node_from_end_of_list.java) | 中等 | 链表, 双指针 |
 | 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [Python3](./algorithm/python/18_4sum.py) | 中等 | 数组, 哈希表, 双指针 |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py) | 中等 | 深度优先搜索, 递归, 字符串, 回溯算法 |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Python3](./algorithm/python/17_letter_combinations_of_a_phone_number.py), [Java](./algorithm/java/17_letter_combinations_of_a_phone_number.java) | 中等 | 深度优先搜索, 递归, 字符串, 回溯算法 |
 | 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [Python3](./algorithm/python/16_3sum_closest.py) | 中等 | 数组, 双指针 |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Python3](./algorithm/python/15_3sum.py), [Java](./algorithm/java/15_3sum.java) | 中等 | 数组, 双指针 |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python3](./algorithm/python/14_longest_common_prefix.py), [Java](./algorithm/java/14_longest_common_prefix.java) | 简单 | 字符串 |
