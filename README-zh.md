@@ -439,7 +439,7 @@
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py), [Java](./algorithm/java/49_group_anagrams.java) | 中等 | 哈希表, 字符串 |
 | 48 | [Rotate Image](https://leetcode-cn.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py), [Java](./algorithm/java/48_rotate_image.java) | 中等 | 数组 |
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | 中等 | 回溯算法 |
-| 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py) | 中等 | 回溯算法 |
+| 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py), [Java](./algorithm/java/46_permutations.java) | 中等 | 回溯算法 |
 | 45 | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | [Python3](./algorithm/python/45_jump_game_II.py) | 中等 | 贪心算法, 数组 |
 | 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | 中等 | 数学, 字符串 |
 | 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | 中等 | 数组, 回溯算法 |

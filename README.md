@@ -438,7 +438,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py), [Java](./algorithm/java/49_group_anagrams.java) | Medium | Hash Table, String |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py), [Java](./algorithm/java/48_rotate_image.java) | Medium | Array |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | Medium | Backtracking |
-| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py) | Medium | Backtracking |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](./algorithm/python/46_permutations.py), [Java](./algorithm/java/46_permutations.java) | Medium | Backtracking |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](./algorithm/python/45_jump_game_II.py) | Medium | Greedy, Array |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python3](./algorithm/python/43_multiply_strings.py) | Medium | Math, String |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python3](./algorithm/python/40_combination_sum_II.py) | Medium | Array, Backtracking |
