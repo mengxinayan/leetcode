@@ -414,7 +414,7 @@
 | 81 | [Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Python3](./algorithm/python/81_search_in_rotated_sorted_array_II.py) | 中等 | 数组, 二分查找 |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python3](./algorithm/python/80_remove_duplicates_from_sorted_array_II.py) | 中等 | 数组, 双指针 |
 | 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py) | 中等 | 数组, 回溯算法 |
-| 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py) | 中等 | 位运算, 数组, 回溯算法 |
+| 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py), [Java](./algorithm/java/78_subsets.java) | 中等 | 位运算, 数组, 回溯算法 |
 | 77 | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Python3](./algorithm/python/77_combinations.py) | 中等 | 回溯算法 |
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py) | 中等 | 排序, 数组, 双指针 |
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | 中等 | 数组, 二分查找 |

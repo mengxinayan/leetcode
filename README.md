@@ -413,7 +413,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python3](./algorithm/python/81_search_in_rotated_sorted_array_II.py) | Medium | Array, Binary Search |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python3](./algorithm/python/80_remove_duplicates_from_sorted_array_II.py) | Medium | Array, Two Pointers |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py) | Medium | Array, Backtracking |
-| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py) | Medium | Bit Manipulation, Array, Backtracking |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py), [Java](./algorithm/java/78_subsets.java) | Medium | Bit Manipulation, Array, Backtracking |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Python3](./algorithm/python/77_combinations.py) | Medium | Backtracking |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py) | Medium | Sort, Array, Two Pointers |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | Medium | Array, Binary Search |
