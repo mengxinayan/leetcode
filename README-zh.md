@@ -416,7 +416,7 @@
 | 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py) | 中等 | 数组, 回溯算法 |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py), [Java](./algorithm/java/78_subsets.java) | 中等 | 位运算, 数组, 回溯算法 |
 | 77 | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Python3](./algorithm/python/77_combinations.py) | 中等 | 回溯算法 |
-| 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py) | 中等 | 排序, 数组, 双指针 |
+| 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py), [Java](./algorithm/java/75_sort_colors.java) | 中等 | 排序, 数组, 双指针 |
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | 中等 | 数组, 二分查找 |
 | 73 | [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py) | 中等 | 数组 |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | 中等 | 栈, 字符串 |
