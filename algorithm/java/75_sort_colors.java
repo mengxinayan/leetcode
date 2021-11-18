@@ -1,3 +1,4 @@
+// Solution 1
 class Solution {
     public void sortColors(int[] nums) {
         int index = 0;
@@ -18,6 +19,60 @@ class Solution {
                 nums[index] = nums[i];
                 nums[i] = tmp;
                 index++;
+            }
+        }
+        return ;
+    }
+}
+
+
+// Solution 2
+class Solution {
+    public void sortColors(int[] nums) {
+        int p0 = 0;
+        int p2 = nums.length - 1;
+        for (int i = 0; i < nums.length; i++) {
+            while (i < p2 && nums[i] == 2) {
+                int tmp = nums[p2];
+                nums[p2] = nums[i];
+                nums[i] = tmp;
+                p2--;
+            }
+            if (nums[i] == 0) {
+                int tmp = nums[p0];
+                nums[p0] = nums[i];
+                nums[i] = tmp;
+                p0++;
+            }
+        }
+        return ;
+    }
+}
+
+
+// Solution 3
+class Solution {
+    public void sortColors(int[] nums) {
+        int p0 = 0;
+        int p1 = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 1) {
+                int tmp = nums[p1];
+                nums[p1] = nums[i];
+                nums[i] = tmp;
+                p1++;
+            }
+            if (nums[i] == 0) {
+                int tmp = nums[p0];
+                nums[p0] = nums[i];
+                nums[i] = tmp;
+                if (p0 < p1) {
+                    tmp = nums[p1];
+                    nums[p1] = nums[i];
+                    nums[i] = tmp;
+                }
+                p0++;
+                p1++;
             }
         }
         return ;
