@@ -448,7 +448,7 @@
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python3](./algorithm/python/36_valid_sudoku.py), [Java](./algorithm/java/36_valid_sudoku.java) | 中等 | 哈希表 |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Python3](./algorithm/python/35_search_insert_position.py) | 简单 | 数组, 二分查找 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py), [Java](./algorithm/java/34_find_first_and_last_position_of_element_in_sorted_array.java) | 中等 | 数组, 二分查找 |
-| 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
+| 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py), [Java](./algorithm/java/33_search_in_rotated_sorted_array.java) | 中等 | 数组, 二分查找 |
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python3](./algorithm/python/31_next_permutation.py) | 中等 | 数组 |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py) | 中等 | 数学, 二分查找 |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py), [Java](,/algorithm/java/28_implement_strStr().java) | 简单 | 双指针, 字符串 |
