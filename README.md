@@ -298,7 +298,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python3](./algorithm/python/392_is_subsequence.py) | Easy | Greedy, Binary Search, Dynamic Programming |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python3](./algorithm/python/389_find_the_difference.py) | Easy | Bit Manipulation, Hash Table |
 | 387 | [First Unique CHaracter in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py), [Java](./algorithm/java/387_first_unique_character_in_a_string.java) | Easy | Hash Table, String |
-| 384 | [Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | [Java](./algorithm/java/384_shuffle_an_array.java) | Medium | Array, Math, Randomized |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./algorithm/java/384_shuffle_an_array.java) | Medium | Array, Math, Randomized |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | Easy | String |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | Easy | Binary Search |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
@@ -320,6 +320,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python3](./algorithm/python/258_add_digits.py) | Easy | Math |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./algorithm/python/257_binary_tree_paths.py) | Easy | Tree, Depth-first Search |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python3](./algorithm/python/242_valid_anagram.py), [Java](./algorithm/java/242_valid_anagram.java) | Easy | Sort, Hash Table |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](./algorithm/java/240_search_a_2D_matrix_II.java) | Medium | Array, Binary Search, Divide and Conquer, Matrix |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python3](./algorithm/python/237_delete_node_in_a_linked_list.py), [Java](./algorithm/java/237_delete_node_in_a_linked_list.java) | Easy | Linked List |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python3](./algorithm/python/235_lowest_common_ancestor_of_a_binary_search_tree.py) | Easy | Tree |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./algorithm/python/234_palindrome_linked_list.py), [Java](./algorithm/java/234_palindrome_linked_list.java) | Easy | Linked List, Two Pointers |
