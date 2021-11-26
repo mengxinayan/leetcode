@@ -427,7 +427,7 @@
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py), [Java](./algorithm/java/66_plus_one.java) | 简单 | 数组 |
 | 64 | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Python3](./algorithm/python/64_minimum_path_sum.py) | 中等 | 数组, 动态规划 |
 | 63 | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [Python3](./algorithm/python/63_unique_paths_II.py) | 中等 | 数组, 动态规划 |
-| 62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py) | 中等 | 数组, 动态规划 |
+| 62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py), [Java](./algorithm/java/62_unique_paths.java) | 中等 | 数组, 动态规划 |
 | 61 | [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Python3](./algorithm/python/61_rotate_list.py) | 中等 | 链表, 双指针 |
 | 59 | [Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [Python3](./algorithm/python/59_spiral_matrix_II.py) | 中等 | 数组 |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | 简单 | 字符串 |

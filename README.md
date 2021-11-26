@@ -426,7 +426,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py), [Java](./algorithm/java/66_plus_one.java) | Easy | Array |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python3](./algorithm/python/64_minimum_path_sum.py) | Medium | Array, Dynamic Programming |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python3](./algorithm/python/63_unique_paths_II.py) | Medium | Array, Dynamic Programming |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py) | Medium | Array, Dynamic Programming |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./algorithm/python/62_unique_paths.py), [Java](./algorithm/java/62_unique_paths.java) | Medium | Array, Dynamic Programming |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python3](./algorithm/python/61_rotate_list.py) | Medium | Linked List, Two Pointers |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python3](./algorithm/python/59_spiral_matrix_II.py) | Medium | Array |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
