@@ -311,6 +311,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py), [Java](./algorithm/java/326_power_of_three.java) | Easy | Math |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Java](./algorithm/java/322_coin_change.java) | Medium | Breadth-First, Array, Dynamic Programming |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./algorithm/java/300_longest_increasing_subsequence.java) | Medium | Array, Binary Search, Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | Easy | Brainteaser, Minimax |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](./algorithm/python/290_word_pattern.py) | Easy | Hash Table |
