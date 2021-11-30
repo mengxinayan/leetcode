@@ -434,7 +434,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](./algorithm/python/58_length_of_last_word.py) | Easy | String |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python3](algorithm/python/57_insert_interval.py) | Medium | Sort, Array |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python3](./algorithm/python/56_merge_intervals.py), [Java](./algorithm/java/56_merge_intervals.java) | Medium | Sort, Array |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py) | Medium | Greedy, Array |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py), [Java](./algorithm/java/55_jump_game.java) | Medium | Greedy, Array |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](./algorithm/python/54_spiral_matrix.py) | Medium | Array |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py), [Java](./algorithm/java/53_maximum_subarray.java) | Easy | Array, Divide and Conquer, Dynamic Programming |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | Medium | Math, Binary Search |
