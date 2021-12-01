@@ -314,6 +314,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./algorithm/java/300_longest_increasing_subsequence.java) | Medium | Array, Binary Search, Dynamic Programming |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python3](./algorithm/python/299_bulls_and_cows.py) | Easy | Hash Table |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python3](./algorithm/python/292_nim_game.py) | Easy | Brainteaser, Minimax |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./algorithm/java/297_serialize_and_deserialize_binary_tree.java) | Hard | Tree, Depth-First Search, Breadth-First Search, Design, String, Binary Tree |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](./algorithm/python/290_word_pattern.py) | Easy | Hash Table |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./algorithm/python/283_move_zeroes.py), [Java](./algorithm/java/283_move_zeroes.java) | Easy | Array, Two Pointers |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python3](./algorithm/python/278_first_bad_version.py), [Java](algorithm/java/278_first_bad_version.java) | Easy | Binary Search |
