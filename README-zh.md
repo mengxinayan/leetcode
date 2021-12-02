@@ -301,6 +301,7 @@
 | 387 | [First Unique CHaracter in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py), [Java](./algorithm/java/387_first_unique_character_in_a_string.java) | 简单 | 哈希表, 字符串 |
 | 384 | [Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | [Java](./algorithm/java/384_shuffle_an_array.java) | Medium | Array, Math, Randomized |
 | 383 | [Ransom Note](https://leetcode-cn.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | 简单 | 字符串 |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [Java](./algorithm/java/380_insert_delete_getrandom_O(1).java) | 中等 | 设计, 数组, 哈希表, 数学, 随机化 |
 | 374 | [Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | 简单 | 二分查找 |
 | 371 | [Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | 简单 | 位运算 |
 | 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | 简单 | 数学, 二分查找 |

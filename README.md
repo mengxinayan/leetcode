@@ -300,6 +300,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 387 | [First Unique CHaracter in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python3](./algorithm/python/387_first_unique_character_in_a_string.py), [Java](./algorithm/java/387_first_unique_character_in_a_string.java) | Easy | Hash Table, String |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./algorithm/java/384_shuffle_an_array.java) | Medium | Array, Math, Randomized |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python3](./algorithm/python/383_ransom_note.py) | Easy | String |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Java](./algorithm/java/380_insert_delete_getrandom_O(1).java) | Medium | Design, Array, Hash Table, Math, Randomized |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python3](./algorithm/python/374_guess_number_higher_of_lower.py) | Easy | Binary Search |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python3](./algorithm/python/371_sum_of_two_integers.py) | Easy | Bit Manipulation |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | Easy | Math, Binary Search |
