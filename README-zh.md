@@ -440,7 +440,7 @@
 | 55 | [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [Python3](./algorithm/python/55_jump_game.py), [Java](./algorithm/java/55_jump_game.java) | 中等 | 贪心算法, 数组 |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [Python3](./algorithm/python/54_spiral_matrix.py) | 中等 | 数组 |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python3](./algorithm/python/53_maximum_subarray.py), [Java](./algorithm/java/53_maximum_subarray.java) | 简单 | 数组, 分治算法, 动态规划 |
-| 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py) | 中等 | 数学, 二分查找 |
+| 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [Python3](./algorithm/python/50_pow(x,n).py), [Java](./algorithm/java/50_pow(x,n).java) | 中等 | 数学, 二分查找 |
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Python3](./algorithm/python/49_group_anagrams.py), [Java](./algorithm/java/49_group_anagrams.java) | 中等 | 哈希表, 字符串 |
 | 48 | [Rotate Image](https://leetcode-cn.com/problems/rotate-image/) | [Python3](./algorithm/python/48_rotate_image.py), [Java](./algorithm/java/48_rotate_image.java) | 中等 | 数组 |
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Python3](./algorithm/python/47_permutations_II.py) | 中等 | 回溯算法 |
