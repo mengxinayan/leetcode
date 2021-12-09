@@ -455,7 +455,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](./algorithm/python/34_find_first_and_last_position_of_element_in_sorted_array.py), [Java](./algorithm/java/34_find_first_and_last_position_of_element_in_sorted_array.java) | 中等 | 数组, 二分查找 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python3](./algorithm/python/33_search_in_rotated_sorted_array.py), [Java](./algorithm/java/33_search_in_rotated_sorted_array.java) | 中等 | 数组, 二分查找 |
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python3](./algorithm/python/31_next_permutation.py) | 中等 | 数组 |
-| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py) | 中等 | 数学, 二分查找 |
+| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python3](./algorithm/python/29_divide_two_integers.py), [Java](./algorithm/java/29_divide_two_integers.java) | 中等 | 数学, 二分查找 |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](./algorithm/python/28_implement_strStr().py), [Java](,/algorithm/java/28_implement_strStr().java) | 简单 | 双指针, 字符串 |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python3](./algorithm/python/27_Remove_element.py) | 简单 | 数组, 双指针 |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python3](./algorithm/python/26_remove_duplicates_from_sorted_array.py), [Java](./algorithm/java/26_remove_duplicates_from_sorted_array.java) | 简单 | 数组, 双指针 |
