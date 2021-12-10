@@ -351,7 +351,7 @@
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Python3](./algorithm/python/173_binary_search_tree_iterator.py) | 中等 | 栈, 树, 设计, 二叉搜索树, 二叉树, 迭代器 |
 | 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | 简单 | 数学 |
 | 171 | [Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py), [Java](./algorithm/java/171_excel_sheet_column_number.java) | 简单 | 数学 |
-| 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py) | 简单 | 位运算, 数组, 分治算法 |
+| 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py), [Java](./algorithm/java/169_majority_element.java) | 简单 | 位运算, 数组, 分治算法 |
 | 168 | [Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Python3](./algorithm/python/168_excel_sheet_column_title.py) | 简单 | 数学 |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | 简单 | 数组, 双指针, 二分查找 |
 | 166 | [Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [Python3](./algorithm/python/166_fraction_to_recurring_decimal.py) | Medium | 哈希表, 数学, 字符串 |

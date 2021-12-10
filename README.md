@@ -350,7 +350,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python3](./algorithm/python/173_binary_search_tree_iterator.py) | Medium | Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | Easy | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py), [Java](./algorithm/java/171_excel_sheet_column_number.java) | Easy | Math |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py) | Easy | Bit Manipulation, Array, Divide and Conquer |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py), [Java](./algorithm/java/169_majority_element.java) | Easy | Bit Manipulation, Array, Divide and Conquer |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python3](./algorithm/python/168_excel_sheet_column_title.py) | Easy | Math |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | Easy | Array, Two Pointers, Binary Search |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python3](./algorithm/python/166_fraction_to_recurring_decimal.py) | Medium | Hash Table, Math, String |
