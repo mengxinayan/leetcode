@@ -241,6 +241,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python3](./algorithm/python/637_average_of_levels_in_binary_tree.py) | Easy | Tree |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Python3](./algorithm/python/633_sum_of_square_numbers.py) | Easy | Math |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python3](./algorithm/python/628_maximum_product_of_three_numbers.py) | Easy | Array, Math |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Java](./algorithm/java/621_task_scheduler.java) | 中等 | 贪心, 数组, 哈希表, 计数, 排序, 堆(优先队列) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python3](./algorithm/python/617_merge_two_binary_trees.py) | Easy | Tree |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Python3](./algorithm/python/606_construct_string_from_binary_tree.py) | Easy | Tree, String |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python3](./algorithm/python/605_can_place_flowers.py) | Easy | Array |
