@@ -423,7 +423,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Python3](./algorithm/python/77_combinations.py) | Medium | Backtracking |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py), [Java](./algorithm/java/75_sort_colors.java) | Medium | Sort, Array, Two Pointers |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](./algorithm/python/78_search_a_2D_matrix.py) | Medium | Array, Binary Search |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py) | Medium | Array |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py), [Java](./algorithm/java/73_set_matrix_zeroes.java) | Medium | Array |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | Medium | Stack, String |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py), [Java](./algorithm/java/70_climbing_stairs.java) | Easy | Dynamic Programming |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | Easy | Math, Binary Search |
