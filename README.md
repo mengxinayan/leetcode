@@ -310,6 +310,7 @@ If you have any questions or advices, please discuss them in [Issues](https://gi
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | Easy | Two Pointers, String |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py), [Java](./algorithm/java/344_reverse_string.java) | Easy | Two Pointers, String |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | Easy | Bit Manipulation |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](./algorithm/java/334_increasing_triplet_subsequence.java) | Medium | Greedy, Array |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py), [Java](./algorithm/java/326_power_of_three.java) | Easy | Math |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Java](./algorithm/java/322_coin_change.java) | Medium | Breadth-First, Array, Dynamic Programming |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | Easy | Dynamic Programming |
