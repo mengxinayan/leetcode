@@ -312,6 +312,7 @@
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py), [Java](./algorithm/java/344_reverse_string.java) | 简单 | 双指针, 字符串 |
 | 342 | [Power of Four](https://leetcode-cn.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | 简单 | 位运算 |
 | 334 | [Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [Java](./algorithm/java/334_increasing_triplet_subsequence.java) | 中等 | 贪心, 数组 |
+| 328 | [Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Java](./algorithm/java/328_odd_even_linked_list.java) | 中等 | 链表 |
 | 326 | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Python3](./algorithm/python/326_power_of_three.py), [Java](./algorithm/java/326_power_of_three.java) | 简单 | 数学 |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [Java](./algorithm/java/322_coin_change.java) | 中等 | 广度优先搜索, 数组, 动态规划 |
 | 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Python3](./algorithm/python/303_range_sum_query_immutable.py) | 简单 | 动态规划 |
