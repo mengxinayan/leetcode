@@ -334,6 +334,7 @@
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python3](./algorithm/python/234_palindrome_linked_list.py), [Java](./algorithm/java/234_palindrome_linked_list.java) | 简单 | 链表, 双指针 |
 | 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Python3](./algorithm/python/232_implement_queue_using_stacks.py) | 简单 | 栈, 设计 |
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Python3](./algorithm/python/231_power_of_two.py) | 简单 | 位运算, 数学 |
+| 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithm/java/230_Kth_smallest_element_in_a_BST.java) | 中等 | 树, 深度优先搜索, 二叉搜索数, 二叉树 |
 | 228 | [Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/) | [Python3](./algorithm/python/228_summary_ranges.py) | 简单 | 数组 |
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Python3](./algorithm/python/226_invert_binary_tree.py) | 简单 | 树 |
 | 225 | [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Python3](./algorithm/python/225_implement_stack_using_queues.py) | 简单 | 栈, 设计 |
