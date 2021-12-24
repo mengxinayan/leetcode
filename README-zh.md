@@ -423,7 +423,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./algorithm/python/82_remove_duplicates_from_sorted_list_II.py) | 中等 | 链表 |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Python3](./algorithm/python/81_search_in_rotated_sorted_array_II.py) | 中等 | 数组, 二分查找 |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python3](./algorithm/python/80_remove_duplicates_from_sorted_array_II.py) | 中等 | 数组, 双指针 |
-| 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py) | 中等 | 数组, 回溯算法 |
+| 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [Python3](./algorithm/python/79_word_search.py), [Java](./algorithm/java/79_word_search.java) | 中等 | 数组, 回溯算法 |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [Python3](./algorithm/python/78_subsets.py), [Java](./algorithm/java/78_subsets.java) | 中等 | 位运算, 数组, 回溯算法 |
 | 77 | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Python3](./algorithm/python/77_combinations.py) | 中等 | 回溯算法 |
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Python3](./algorithm/python/75_sort_colors.py), [Java](./algorithm/java/75_sort_colors.java) | 中等 | 排序, 数组, 双指针 |
