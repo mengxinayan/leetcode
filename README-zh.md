@@ -308,6 +308,7 @@
 | 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Python3](./algorithm/python/367_valid_perfect_square.py) | 简单 | 数学, 二分查找 |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [Python3](./algorithm/python/350_intersection_of_two_arrays_II.py), [Java](./algorithm/java/350_intersection_of_two_arrays_II.java) | 简单 | 排序, 哈希表, 双指针, 二分查找 |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Python3](./algorithm/python/349_intersection_of_two_arrays.py) | 简单 | 排序, 哈希表, 双指针, 二分查找 |
+| 347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Java](./algorithm/java/347_top_K_frequent_elements.java) | 中等 | 数组, 哈希表, 分治, 桶排序, 计数, 快速选择, 排序, 堆(优先队列) |
 | 345 | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [Python3](./algorithm/python/345_reverse_vowels_of_a_string.py) | 简单 | 双指针, 字符串 |
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python3](./algorithm/python/344_reverse_string.py), [Java](./algorithm/java/344_reverse_string.java) | 简单 | 双指针, 字符串 |
 | 342 | [Power of Four](https://leetcode-cn.com/problems/power-of-four/) | [Python3](./algorithm/python/342_power_of_four.py) | 简单 | 位运算 |
