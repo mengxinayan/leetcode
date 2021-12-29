@@ -362,7 +362,7 @@
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Python3](./algorithm/python/167_two_sum_II-input_array_is_sorted.py) | 简单 | 数组, 双指针, 二分查找 |
 | 166 | [Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [Python3](./algorithm/python/166_fraction_to_recurring_decimal.py) | Medium | 哈希表, 数学, 字符串 |
 | 165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | [Python3](./algorithm/python/165_compare_version_numbers.py) | 中等 | 字符串 |
-| 162 | [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [Python3](./algorithm/python/162_find_peak_element.py) | 中等 | 数组, 二分查找 |
+| 162 | [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [Python3](./algorithm/python/162_find_peak_element.py), [Java](./algorithm/java/162_find_peak_element.java) | 中等 | 数组, 二分查找 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python3](./algorithm/python/160_intersection_of_two_linked_lists.py), [Java](./algorithm/java/160_intersection_of_two_linked_lists.java) | 简单 | 链表 |
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python3](./algorithm/python/155_min_stack.py), [Java](./algorithm/java/155_min_stack.java) | 简单 | 栈, 设计 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python3](./algorithm/python/153_find_minimum_in_rotated_sorted_array.py) | 中等 | 数组, 二分查找 |
