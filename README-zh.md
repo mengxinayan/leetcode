@@ -346,7 +346,7 @@
 | 205 | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [Python3](./algorithm/python/205_isomorphic_strings.py) | 简单 | 哈希表 |
 | 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [Python3](./algorithm/python/204_count_primes.py), [Java](./algorithm/java/204_count_primes.java) | 简单 | 哈希表, 数学 |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python3](./algorithm/python/203_remove_linked_list_elements.py) | 简单 | 链表 |
-| 202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py) | 简单 | 哈希表, 数学 |
+| 202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/) | [Python3](./algorithm/python/202_happy_number.py), [Java](./algorithm/java/202_happy_number.java) | 简单 | 哈希表, 数学 |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [Java](./algorithm/java/200_number_of_islands.java) | Medium | Depth-First Search, Breadth-First Search, Union Find, Array, Matrix |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Python3](./algorithm/python/198_house_robber.py), [Java](./algorithm/java/198_house_robber.java) | 简单 | 动态规划 |
 | 191 | [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [Python3](./algorithm/python/191_number_of_1_bits.py), [Java](algorithm/java/191_number_of_1_bits.java) | 简单 | 位运算 |
