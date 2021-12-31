@@ -355,7 +355,7 @@
 | 187 | [Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [Python3](./algorithm/python/187_repeated_DNA_sequences.py) | 中等 | 位运算, 哈希表, 字符串, 滑动窗口, 哈希函数, 滚动哈希 |
 | 179 | [Largest Number](https://leetcode-cn.com/problems/largest-number/) | [Python3](./algorithm/python/179_largest_number.py) | 中等 | 贪心, 字符串, 排序 |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [Python3](./algorithm/python/173_binary_search_tree_iterator.py) | 中等 | 栈, 树, 设计, 二叉搜索树, 二叉树, 迭代器 |
-| 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py) | 简单 | 数学 |
+| 172 | [Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python3](./algorithm/python/172_factorial_trailing_zeroes.py), [Java](./algorithm/java/172_factorial_trailing_zeroes.java) | 简单 | 数学 |
 | 171 | [Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Python3](./algorithm/python/171_excel_sheet_column_number.py), [Java](./algorithm/java/171_excel_sheet_column_number.java) | 简单 | 数学 |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Python3](./algorithm/python/169_majority_element.py), [Java](./algorithm/java/169_majority_element.java) | 简单 | 位运算, 数组, 分治算法 |
 | 168 | [Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Python3](./algorithm/python/168_excel_sheet_column_title.py) | 简单 | 数学 |
