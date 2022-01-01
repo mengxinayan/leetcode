@@ -3,7 +3,7 @@ grep -P "^\([0-9]{3}\) [0-9]{3}-[0-9]{4}$|^[0-9]{3}-[0-9]{3}-[0-9]{4}$" file.txt
 
 # This is my personal record of solving Leetcode Problems. 
 # If you have any questions, please discuss them in [Issues](https://github.com/mengxinayan/leetcode/issues).
-# Copyright (C) 2020-2021  mengxinayan
+# Copyright (C) 2020-2022  mengxinayan
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
