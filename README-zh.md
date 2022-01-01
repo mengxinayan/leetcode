@@ -433,7 +433,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Python3](./algorithm/python/73_set_matrix_zeroes.py), [Java](./algorithm/java/73_set_matrix_zeroes.java) | 中等 | 数组 |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Python3](./algorithm/python/71_simplify_path.py) | 中等 | 栈, 字符串 |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python3](./algorithm/python/70_climbing_stairs.py), [Java](./algorithm/java/70_climbing_stairs.java) | 简单 | 动态规划 |
-| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py) | 简单 | 数学, 二分查找 |
+| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Python3](./algorithm/python/69_Sqrt(x).py), [Java](./algorithm/java/69_Sqrt(x).java) | 简单 | 数学, 二分查找 |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python3](./algorithm/python/67_add_binary.py) | 简单 | 数学, 字符串 |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python3](./algorithm/python/66_plus_one.py), [Java](./algorithm/java/66_plus_one.java) | 简单 | 数组 |
 | 64 | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Python3](./algorithm/python/64_minimum_path_sum.py) | 中等 | 数组, 动态规划 |
